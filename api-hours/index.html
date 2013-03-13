@@ -1,0 +1,26 @@
+---
+layout: default
+title: API Hours
+category: api-hours
+paginate: 5
+---
+{% for post in site.categories[page.category] %}
+<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+<footer class="pagination">
+<ul class="pagination">
+{% if site.categories.[page.category].previous_page == 1 %}
+  <li class="arrow unavailable"><a href="#">&laquo;</a></li>
+{% elsif paginator.previous_page %}
+  <li class="arrow"><a href="{{ site.url }}/{{page.category}}/page{{paginator.previous_page}}">&laquo;</a></li>
+{% else %}
+  <li class="arrow unavailable"><a href="#">&laquo;</a></li>
+{% endif %}
+  <li class="current"><a href="#">{{paginator.page}}</a></li>
+{% if paginator.next_page %}
+  <li class="arrow"><a href="">&raquo;</a></li>
+{% else %}
+  <li class="arrow unavailable"><a href="">&raquo;</a></li>
+{% endif %}
+</ul>
+</footer>

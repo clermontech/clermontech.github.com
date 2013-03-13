@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+  <meta name="viewport" content="width=device-width" />
+  <title>{{page.title}} - {{site.title}}</title>
+  <meta name="description" content="{%if page.description%}{{page.description}}{%else%}{{site.description}}{%endif%}">
+  <meta name="keywords" content="{%if page.categories%}{{page.categories|join:','}}{%else%}{{site.keywords|join:','}}{%endif%}">
+  <meta name="author" content="{%if page.author%}{{page.author}}{%else%}{{site.author.name}}{%endif%}">
+
+  <link rel="apple-touch-icon" href="{{ site.url }}/apple-touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/apple-touch-icon-ipad.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/apple-touch-icon-iphone4.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/apple-touch-icon-ipad3.png" />
+
+  <link rel="stylesheet" href="{{ site.url }}/stylesheets/normalize.css" />
+
+  <link rel="stylesheet" href="{{ site.url }}/stylesheets/app.css" />
+
+  <script src="{{ site.url }}/javascripts/vendor/custom.modernizr.js"></script>
+
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="{{ site.url }}" title="Notre manifesto">Manifesto</a>
+                </li>
+                <li>
+                    <a href="{{ site.url }}/api-hours" title="Les évènement API Hours !">API Hours</a>
+                </li>
+                <li>
+                    <a href="{{ site.url }}/talks" title="Tous les talks">Talks</a>
+                </li>
+                <li>
+                    <a href="{{ site.url }}/about.html" title="A propos de Clermont'ech">Contact</a>
+                </li>
+            </ul>
+        </nav>
+        <hgroup>
+            <h1><a href="{{ site.url }}" class="">{{ site.title }}</a></h1>
+            <h2>{{ site.description }}</h2>
+        </hgroup>
+    </header>
+    {{ content }}
+
+  <script>
+  document.write('<script src={{ site.url }}/' +
+  ('__proto__' in {} ? 'javascripts/vendor/zepto' : 'javascripts/vendor/jquery') +
+  '.js><\/script>')
+  </script>
+
+<!--
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.tooltips.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.reveal.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.forms.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.orbit.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.clearing.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.magellan.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.joyride.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.section.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.alerts.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.placeholder.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.cookie.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.topbar.js"></script>
+
+	<script crc="{{ site.url }}/javascripts/foundation/foundation.dropdown.js"></script>
+-->
+
+
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+</html>

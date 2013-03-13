@@ -1,0 +1,122 @@
+######################################################
+# Configure the options in this file to your liking.
+# https://github.com/mojombo/jekyll/wiki/configuration
+######################################################
+
+## Site author's information.
+author:
+  ## Author's name, <meta name=author> in _layouts/default.html and used in
+  ## humans.txt
+  name:      "Clermon'tech"
+  ## Author's title
+  title:     Association de développeurs auvergnats.
+  ## Author's email address
+  email:     contact@clermontech.fr
+  ## Author's web site
+  url:       http://clermontech.fr
+  ## Author's location
+  location:  "Clermont Ferrand, Auvergne, FR"
+  ## Author's github user name
+  gh:
+    user:    clermontech
+    repo:    clermontech.github.com
+  ## Author's twitter name
+  twitter:   clermontech
+  disqus:
+    shortname: clermontech
+
+## The absolute URL of your site. Should be user.github.com or whatever is in
+## the root CNAME file
+url:         http://192.168.100.101:4000
+#url:         http://clermontech.fr
+
+## The name of the site, <title> and <h1> in _layouts/default.html
+title:       "Clermont'ech"
+
+## <meta name=description> and <h2> in /_layouts/default.html
+description: Association de développeurs auvergnats.
+
+## <meta name=keywords> in  /_layouts/default.html, probably not useful anymore.
+keywords:    [ GitHub, HTML5, CSS3 ]
+
+## Splits your posts up over multiple subdirectories called “page2”, “page3”, … “pageN”
+paginate:    5
+
+## Google Analytics id.
+ga: XXXXX-X
+
+## A list of directories and files to exclude from the conversion
+exclude: [ ]
+
+#################
+# Jekyll Defaults
+#################
+
+##
+#future:      true
+
+## Uses RDiscount or [engine] instead of Maruku. Maruku is the default.
+markdown:    maruku
+
+## Controls the URLs that posts are generated with.
+## https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   date
+
+## Enables or disables Jekyll from recreating the site when files are modified.
+auto:        true
+
+## Fires up a server that will host your _site directory
+#server:      false
+
+## Changes the port that the Jekyll server will run on
+#server_port: 4000
+
+##
+#plugins:     ./_plugins
+
+## Maruku options, if it is being used.
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+#
+### RDiscount options, if it is being used.
+#rdiscount:
+#  extensions: []
+#
+### Kramdown options, if it is being used.
+#kramdown:
+#  auto_ids: true,
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  use_coderay: false
+#
+#  coderay:
+#    coderay_wrap: div
+#    coderay_line_numbers: inline
+#    coderay_line_numbers_start: 1
+#    coderay_tab_width: 4
+#    coderay_bold_every: 10
+#    coderay_css: style
+
+########################
+# Github Pages Overrides
+########################
+
+## Produces an index for related posts.
+#lsi:         false
+
+## Enables highlight tag with Pygments.
+#pygments:    false
+
+##
+#safe:        false
+
+## Changes the directory where Jekyll will look to transform files
+#source:      .
+
+## Changes the directory where Jekyll will write files to
+#destination: ./_site
