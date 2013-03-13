@@ -1,0 +1,107 @@
+// Global Foundation Settings
+@import "settings";
+
+// Comment out this import if you are customizing you imports below
+@import "foundation";
+
+// Import specific parts of Foundation by commenting the import "foundation"
+// and uncommenting what you want below. You must uncomment the following if customizing
+
+// @import "foundation/foundation-global";
+// @import "foundation/components/global";
+// @import "foundation/components/grid";
+// @import "foundation/components/visibility";
+// @import "foundation/components/block-grid";
+// @import "foundation/components/type";
+// @import "foundation/components/buttons";
+// @import "foundation/components/forms";
+// @import "foundation/components/custom-forms";
+// @import "foundation/components/button-groups";
+// @import "foundation/components/dropdown-buttons";
+// @import "foundation/components/split-buttons";
+// @import "foundation/components/flex-video";
+// @import "foundation/components/section";
+// @import "foundation/components/top-bar";
+// @import "foundation/components/orbit";
+// @import "foundation/components/reveal";
+// @import "foundation/components/joyride";
+// @import "foundation/components/clearing";
+// @import "foundation/components/alert-boxes";
+// @import "foundation/components/breadcrumbs";
+// @import "foundation/components/keystrokes";
+// @import "foundation/components/labels";
+// @import "foundation/components/inline-lists";
+// @import "foundation/components/pagination";
+// @import "foundation/components/panels";
+// @import "foundation/components/pricing-tables";
+// @import "foundation/components/progress-bars";
+// @import "foundation/components/side-nav";
+// @import "foundation/components/sub-nav";
+// @import "foundation/components/switch";
+// @import "foundation/components/magellan";
+// @import "foundation/components/tables";
+// @import "foundation/components/thumbs";
+// @import "foundation/components/tooltips";
+// @import "foundation/components/dropdown";
+
+/* Available Variables */
+$small-screen: emCalc(768px);
+$medium-screen: emCalc(1280px);
+$large-screen: emCalc(1440px);
+
+$screen: "only screen";
+$small: "only screen and (min-width:"#{$small-screen}")";
+$medium: "only screen and (min-width:"#{$medium-screen}")";
+$large: "only screen and (min-width:"#{$large-screen}")";
+$landscape: "only screen and (orientation: landscape)";
+$portrait: "only screen and (orientation: portrait)";
+
+/* We use this media query to add styles to any device that supports media queries */
+@media #{$screen} {
+    body > header { @include panel;
+        & > nav {
+            & > ul {
+                @include inline-list; }
+        }
+    }
+}
+
+/* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
+@media #{$small} {
+    body > header { @include grid-row;
+        & > nav {
+            float: right;
+            @include grid-column(5, $float:right);
+            & > ul {
+                @include inline-list; }
+        }
+    }
+
+    .container {
+        @include grid-row;
+        & > div {
+            @include grid-column(12, $float:left);
+        }
+        & .latest {
+            @include grid-column(4, $float:right);
+        }
+    }
+}
+
+/* Used to alter styles for screens at least 1280px wide. */
+@media #{$medium} {
+}
+
+/* Used to alter styles for screens at least 1440px wide. */
+@media #{$large} {
+}
+
+/* Apply styles to screens in landscape orientation */
+@media #{$landscape} { }
+
+/* Apply styles to screens in portrait orientation */
+@media #{$portrait} { }
+
+/* We also use Modernizr to add a .touch class to the body when applicable */
+/* You can prepend this class to anything and it will style only for touch devices */
+.touch .your-element {}
