@@ -13,7 +13,7 @@ $ [sudo] gem install zurb-foundation
 Lancer le serveur sur le port 4000 :
 
 ``` sh
-$ jekyll --server
+$ jekyll --server --url http://127.0.0.1:4000
 ```
 
 
