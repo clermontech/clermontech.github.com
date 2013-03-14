@@ -1,0 +1,82 @@
+/*
+ * Clermont'ech styles
+ *
+ * 2013.
+ *
+ */
+
+@import "compass/css3";
+
+/* Headings */
+h1, h2 {
+    text-transform: uppercase;
+    span.alt {
+        color: #333;
+    }
+}
+
+/* Layout */
+header {
+    // Reset header styles
+    background: none!important;
+    border: 0!important;
+
+    #logo {
+        float:left;
+        @include thumb;
+        margin-right: 20px;
+        @include border-radius(100px);
+        @include transition-property(border-radius);
+        @include transition-duration(1s);
+        &:hover {
+            @include border-radius(50px);
+        }
+    }
+    nav {
+        ul {
+            li {
+                font-family: $header-font-family;
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+        }
+    }
+}
+
+hr.sep {
+
+}
+
+#content {
+    .container > div {
+        @include grid-column($columns:8, $offset:2, $float:left);
+    }
+}
+
+$footer-color: #05292c;
+
+#footer-wrapper {
+    width:100%;
+    @include box-shadow($footer-color 2px 2px 10px);
+    background: $footer-color;
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: #e6e6e6;
+    footer {
+        @include grid-row;
+        .footer-column {
+            @include grid-column(4, $float:left);
+            h3 { color: #e6e6e6 }
+            p {
+                font-family: $header-font-family;
+                font-size:20px;
+            }
+            img.mascotte {
+                z-index:2;
+                position: absolute;
+                bottom: -250px;
+            }
+        }
+    }
+}
