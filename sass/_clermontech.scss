@@ -48,12 +48,17 @@ hr.sep {
 }
 
 #content {
-
+    .container > div {
+        @include grid-column($columns:8, $offset:2, $float:left);
+    }
 }
+
+$footer-color: #05292c;
 
 #footer-wrapper {
     width:100%;
-    background: #05292c;
+    @include box-shadow($footer-color 2px 2px 10px);
+    background: $footer-color;
     margin-top: 100px;
     padding-top: 30px;
     padding-bottom: 10px;
