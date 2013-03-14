@@ -1,4 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Marcellus+SC);
 /*
  * Clermont'ech Fonts
  *
@@ -1513,17 +1512,17 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* line 191, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 2.75em;
+  font-size: 2.5em;
 }
 
 /* line 192, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
 h2 {
-  font-size: 2.3125em;
+  font-size: 1.6875em;
 }
 
 /* line 193, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
 h3 {
-  font-size: 2em;
+  font-size: 1.375em;
 }
 
 /* line 194, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
@@ -1725,17 +1724,17 @@ blockquote p {
 
   /* line 356, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
   h1 {
-    font-size: 3.375em;
+    font-size: 3.125em;
   }
 
   /* line 357, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
   h2 {
-    font-size: 2.9375em;
+    font-size: 2.3125em;
   }
 
   /* line 358, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
   h3 {
-    font-size: 2.3125em;
+    font-size: 1.6875em;
   }
 
   /* line 359, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_type.scss */
@@ -5622,3 +5621,112 @@ table tfoot tr td {
  * 2013.
  *
  */
+/* Headings */
+/* line 11, ../sass/_clermontech.scss */
+h1, h2 {
+  text-transform: uppercase;
+}
+/* line 13, ../sass/_clermontech.scss */
+h1 span.alt, h2 span.alt {
+  color: #333;
+}
+
+/* Layout */
+/* line 19, ../sass/_clermontech.scss */
+header {
+  background: none !important;
+  border: 0 !important;
+}
+/* line 24, ../sass/_clermontech.scss */
+header #logo {
+  float: left;
+  display: inline-block;
+  border: solid 4px white;
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+  margin-right: 20px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+  -webkit-transition-property: border-radius;
+  -moz-transition-property: border-radius;
+  -o-transition-property: border-radius;
+  transition-property: border-radius;
+  -webkit-transition-duration: 1s;
+  -moz-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+}
+/* line 28, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/components/_thumbs.scss */
+header #logo:hover, header #logo:focus {
+  -webkit-box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
+  box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
+}
+/* line 31, ../sass/_clermontech.scss */
+header #logo:hover {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  border-radius: 50px;
+}
+/* line 37, ../sass/_clermontech.scss */
+header nav ul li {
+  font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* line 54, ../sass/_clermontech.scss */
+#footer-wrapper {
+  width: 100%;
+  background: #05292c;
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #e6e6e6;
+}
+/* line 61, ../sass/_clermontech.scss */
+#footer-wrapper footer {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1;
+}
+/* line 169, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/_foundation-global.scss */
+#footer-wrapper footer:before, #footer-wrapper footer:after {
+  content: " ";
+  display: table;
+}
+/* line 170, ../../../../../.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.5/scss/foundation/_foundation-global.scss */
+#footer-wrapper footer:after {
+  clear: both;
+}
+/* line 63, ../sass/_clermontech.scss */
+#footer-wrapper footer .footer-column {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 33.33333%;
+  float: left;
+}
+/* line 65, ../sass/_clermontech.scss */
+#footer-wrapper footer .footer-column h3 {
+  color: #e6e6e6;
+}
+/* line 66, ../sass/_clermontech.scss */
+#footer-wrapper footer .footer-column p {
+  font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+/* line 70, ../sass/_clermontech.scss */
+#footer-wrapper footer .footer-column img.mascotte {
+  z-index: 2;
+  position: absolute;
+  bottom: -250px;
+}

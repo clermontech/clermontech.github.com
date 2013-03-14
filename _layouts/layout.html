@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
 <head>
@@ -44,51 +44,78 @@
             </ul>
         </nav>
         <hgroup>
-            <h1><a href="{{ site.url }}" class="">{{ site.title }}</a></h1>
+            <a href="{{ site.url }}" class="">
+                <img src="images/clermontech_logo_200px.png" alt="Logo Clermontech" id="logo" />
+            </a>
+            <h1>Clermon<span class="alt">t'ech</span></h1>
             <h2>{{ site.description }}</h2>
         </hgroup>
     </header>
-    {{ content }}
 
-  <script>
-  document.write('<script src={{ site.url }}/' +
-  ('__proto__' in {} ? 'javascripts/vendor/zepto' : 'javascripts/vendor/jquery') +
-  '.js><\/script>')
-  </script>
+    <hr class="sep"/>
+
+    <div id="content">
+        {{ content }}
+    </div>
+
+    <div id="footer-wrapper">
+        <footer>
+            <div class="footer-column">
+                <h3>A propos</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti debitis temporibus quaerat non earum eveniet recusandae voluptatem fugit distinctio culpa voluptatibus nihil esse officia harum natus nemo dolore animi ex!
+                </p>
+            </div>
+            <div class="footer-column">
+                <h3>Nous trouver</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis optio debitis labore laboriosam non eum aperiam sed vero fugit quia beatae officia distinctio iusto iure omnis architecto ullam et eligendi.
+                </p>
+            </div>
+            <div class="footer-column">
+                <img src="images/clermontech_mascotte_400px.png" alt="Mascotte Clermontech" class="mascotte" />
+            </div>
+        </footer>
+    </div>
+
+    <script>
+    document.write('<script src={{ site.url }}/' +
+    ('__proto__' in {} ? 'javascripts/vendor/zepto' : 'javascripts/vendor/jquery') +
+    '.js><\/script>')
+    </script>
 
 <!--
     <script crc="{{ site.url }}/javascripts/foundation/foundation.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.tooltips.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.tooltips.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.reveal.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.reveal.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.forms.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.forms.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.orbit.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.orbit.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.clearing.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.clearing.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.magellan.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.magellan.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.joyride.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.joyride.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.section.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.section.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.alerts.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.alerts.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.placeholder.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.placeholder.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.cookie.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.cookie.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.topbar.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.topbar.js"></script>
 
-	<script crc="{{ site.url }}/javascripts/foundation/foundation.dropdown.js"></script>
+    <script crc="{{ site.url }}/javascripts/foundation/foundation.dropdown.js"></script>
 -->
 
-
-  <script>
-    $(document).foundation();
-  </script>
+    <script>
+      $(document).foundation();
+    </script>
 </body>
 </html>
