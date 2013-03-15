@@ -83,10 +83,10 @@ $portrait: "only screen and (orientation: portrait)";
     .container {
         @include grid-row;
         & > div {
-            @include grid-column(12, $float:left);
+            @include grid-column(8, $float:left);
         }
         & .latest {
-            @include grid-column(4, $float:right);
+            @include grid-column(4, $float:left);
         }
     }
 }

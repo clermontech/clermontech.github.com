@@ -3,32 +3,32 @@ layout: layout
 ---
 <div class="container">
     <div>
-        <div class="latest">
-            <section class="posts">
-                <h2>Tous les posts</h2>
-                <ul>
-                {% for page in paginator.posts %}
-                {% include headline.html %}
-                {% endfor %}
-                </ul>
-            </section>
-            <section class="talks">
-                <h2>Talks</h2>
-                <ul>
-                {% for page in site.categories['talks'] %}
-                {% include headline.html %}
-                {% endfor %}
-                </ul>
-            </section>
-            <section class="">
-                <h2>API Hours</h2>
-                <ul>
-                {% for page in site.categories['api-hours'] %}
-                {% include headline.html %}
-                {% endfor %}
-                </ul>
-            </section>
-        </div>
         {{ content }}
+    </div>
+    <div class="latest">
+        <section class="posts">
+            <h2>Tous les posts</h2>
+            <ul>
+            {% for page in paginator.posts %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+        <section class="talks">
+            <h2>Talks</h2>
+            <ul>
+            {% for page in site.categories['talks'] %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+        <section class="">
+            <h2>API Hours</h2>
+            <ul>
+            {% for page in site.categories['api-hours'] %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
     </div>
 </div>

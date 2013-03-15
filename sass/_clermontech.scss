@@ -47,12 +47,6 @@ hr.sep {
 
 }
 
-#content {
-    .container > div {
-        @include grid-column($columns:8, $offset:2, $float:left);
-    }
-}
-
 $footer-color: #05292c;
 
 #footer-wrapper {
