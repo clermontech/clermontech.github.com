@@ -27,7 +27,8 @@ author:
 
 ## The absolute URL of your site. Should be user.github.com or whatever is in
 ## the root CNAME file
-url:         http://clermontech.org
+#url:         http://clermontech.org
+url:         http://clermontech.github.com/
 
 ## The name of the site, <title> and <h1> in _layouts/default.html
 title:       "Clermont'ech"
