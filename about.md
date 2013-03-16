@@ -1,9 +1,9 @@
 ---
-    layout: default
-    title: About
+layout: default
+title: About
 ---
 
-{{ site.author.name }}
+Clermont'ech
 
 [{{ site.author.url }}]({{ site.author.url }})
 

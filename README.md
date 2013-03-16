@@ -1,19 +1,16 @@
 Clermont'ech
 ============
 
-Installer foundation :
+Installer [Zurb Foundation](http://foundation.zurb.com/docs/sass.html) :
 
-```sh
-$ [sudo] gem install compass
-$ [sudo] gem install zurb-foundation
-```
+    $ [sudo] gem install compass
+    $ [sudo] gem install zurb-foundation
 
-[Plus d'infos](http://foundation.zurb.com/docs/sass.html).
+Lancer le serveur (sur le port 4000) :
 
-Lancer le serveur sur le port 4000 :
-
-``` sh
-$ jekyll --server --url http://127.0.0.1:4000
-```
+    $ jekyll --server --auto
 
 
+## Credits
+
+Zurb Foundation est soumis à la licence MIT.

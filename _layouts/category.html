@@ -18,7 +18,7 @@ empty_mesage: Définissez un "empty_message".
 {% if site.categories.[page.category].previous_page == 1 %}
   <li class="arrow unavailable"><a href="#">&laquo;</a></li>
 {% elsif paginator.previous_page %}
-  <li class="arrow"><a href="{{ site.url }}/{{page.category}}/page{{paginator.previous_page}}">&laquo;</a></li>
+  <li class="arrow"><a href="/{{page.category}}/page{{paginator.previous_page}}">&laquo;</a></li>
 {% else %}
   <li class="arrow unavailable"><a href="#">&laquo;</a></li>
 {% endif %}
