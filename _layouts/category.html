@@ -1,33 +1,15 @@
 ---
 layout: default
 paginate: 5
-empty_mesage: Définissez un "empty_message".
 ---
 {{content}}
-{% if site.posts.length? %}
-<ul>
 {% for post in site.categories[page.category] %}
-<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% if forloop.first %}
+    <ul>
+    {% endif %}
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% if forloop.last %}
+    </ul>
+    {% endif %}
 {% endfor %}
-</ul>
-{% else %}
-<p>{{empty_mesage}}</p>
-{% endif %}
-<footer class="pagination">
-<ul class="pagination">
-{% if site.categories.[page.category].previous_page == 1 %}
-  <li class="arrow unavailable"><a href="#">&laquo;</a></li>
-{% elsif paginator.previous_page %}
-  <li class="arrow"><a href="/{{page.category}}/page{{paginator.previous_page}}">&laquo;</a></li>
-{% else %}
-  <li class="arrow unavailable"><a href="#">&laquo;</a></li>
-{% endif %}
-  <li class="current"><a href="#">{{paginator.page}}</a></li>
-{% if paginator.next_page %}
-  <li class="arrow"><a href="">&raquo;</a></li>
-{% else %}
-  <li class="arrow unavailable"><a href="">&raquo;</a></li>
-{% endif %}
-</ul>
-</footer>
 
