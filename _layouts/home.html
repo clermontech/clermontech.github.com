@@ -9,7 +9,7 @@ layout: layout
         <section class="posts">
             <h2>Tous les posts</h2>
             <ul>
-            {% for page in paginator.posts %}
+            {% for page in site.posts limit:5 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
@@ -17,7 +17,7 @@ layout: layout
         <section class="talks">
             <h2>Talks</h2>
             <ul>
-            {% for page in site.categories['talks'] %}
+            {% for page in site.categories['talks'] limit:5 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
@@ -25,7 +25,7 @@ layout: layout
         <section class="">
             <h2>API Hours</h2>
             <ul>
-            {% for page in site.categories['api-hours'] %}
+            {% for page in site.categories['api-hours'] limit:5 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
