@@ -47,6 +47,18 @@ hr.sep {
 
 }
 
+#content {
+
+    article.post {
+        header {
+            .posted {
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+        }
+    }
+}
+
 $footer-color: #05292c;
 
 #footer-wrapper {
