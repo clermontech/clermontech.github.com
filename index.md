@@ -52,8 +52,7 @@ Tout le monde est libre de proposer un talk à Clermont'ech, sans limite de
 sujet. Chaque personne peut déposer plusieurs talks.
 
 Le mode de proposition est l'envoi d'un descriptif du talk, éventuellement
-accompagné des slides, dans un nouveau sujet de la [mailing list de
-l'association](https://groups.google.com/forum/?fromgroups=#!forum/clermontech).
+accompagné des slides par mail à [iwanttospeak@clermontech.org](mailto:iwanttospeak@clermontech.org)
 
 Une discussion pourra être engagée entre le déposant et les membres de la
 mailing list afin de discuter de la proposition.
