@@ -11,8 +11,8 @@ slides_url: http://themouette.github.com/presentation-apihours-ajax-from-scratch
 session_url: /api-hours/2013/03/25/API-Hour-1.html
 session_name: Clermont'ech API Hour &#35;1
 
-video: XXXX
+video: mcsZTcnkrOA
 ---
 
 Une courte introduction à ce qu'est l'<acronym title="Asynchronous Javascript And Xml">AJAX</acronym>
-et à l'objet `XMLHttpRequest` et les évolutions au cours du temps.
+ainsi qu'à l'objet `XMLHttpRequest` et ses évolutions au cours du temps.
