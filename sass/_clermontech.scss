@@ -59,6 +59,13 @@ hr.sep {
     }
 }
 
+.talk {
+  .talk-info { @include grid-row($behavior:nest-collapse);
+    & > .details { @include grid-column(4, $float:right); }
+    & > .articleBody { @include grid-column(8, $float:left); }
+  }
+}
+
 $footer-color: #05292c;
 
 #footer-wrapper {
