@@ -1,7 +1,7 @@
 ---
 layout: talk
 category: talks
-title: Intro aux licences libres
+title: Intro Aux Licences Libres
 
 author: Manuel Raynaud
 author_url: https://twitter.com/manuraynaud

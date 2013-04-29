@@ -2,8 +2,7 @@
 layout: category
 title: Talks
 category: talks
-paginate: 5
+paginate: 10
 ---
 
-Les talks donnés au cours de nos events.
-
+Les talks donnés au cours de nos events :

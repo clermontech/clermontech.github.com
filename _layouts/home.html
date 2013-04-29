@@ -6,14 +6,6 @@ layout: layout
         {{ content }}
     </div>
     <div class="latest">
-        <section class="posts">
-            <h2>Tous les posts</h2>
-            <ul>
-            {% for page in site.posts limit:5 %}
-            {% include headline.html %}
-            {% endfor %}
-            </ul>
-        </section>
         <section class="talks">
             <h2>Talks</h2>
             <ul>
@@ -22,10 +14,18 @@ layout: layout
             {% endfor %}
             </ul>
         </section>
-        <section class="">
+        <section class="api-hours">
             <h2>API Hours</h2>
             <ul>
             {% for page in site.categories['api-hours'] limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+        <section class="posts">
+            <h2>Tous les posts</h2>
+            <ul>
+            {% for page in site.posts limit:5 %}
             {% include headline.html %}
             {% endfor %}
             </ul>

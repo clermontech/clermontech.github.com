@@ -1,7 +1,7 @@
 ---
 layout: talk
 category: talks
-title: Ajax from scratch
+title: Ajax From Scratch
 
 author: Julien Muetton
 author_url: https://twitter.com/themouette

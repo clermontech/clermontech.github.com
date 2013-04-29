@@ -2,6 +2,7 @@
 layout: default
 paginate: 5
 ---
+
 {{content}}
 {% for post in site.categories[page.category] %}
     {% if forloop.first %}
@@ -12,4 +13,3 @@ paginate: 5
     </ul>
     {% endif %}
 {% endfor %}
-
