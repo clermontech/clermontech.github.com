@@ -47,6 +47,8 @@
 // @import "foundation/components/tooltips";
 // @import "foundation/components/dropdown";
 
+@import "clermontech";
+
 /* Available Variables */
 $small-screen: emCalc(768px);
 $medium-screen: emCalc(1280px);
@@ -61,16 +63,25 @@ $portrait: "only screen and (orientation: portrait)";
 
 /* We use this media query to add styles to any device that supports media queries */
 @media #{$screen} {
-    body > header { @include panel;
-        & > nav {
-            & > ul {
-                @include inline-list; }
-        }
-    }
 }
 
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media #{$small} {
+
+    header {
+        #logo {
+            float:left;
+            @include thumb;
+            margin-right: 20px;
+            @include border-radius(100px);
+            @include transition-property(border-radius);
+            @include transition-duration(1s);
+            &:hover {
+                @include border-radius(50px);
+            }
+        }
+    }
+
     body > header { @include grid-row;
         & > nav {
             float: right;
@@ -88,6 +99,26 @@ $portrait: "only screen and (orientation: portrait)";
         & .latest {
             @include grid-column(4, $float:left);
         }
+    }
+
+    #content {
+        article.talk {
+            .talk-info {
+                @include grid-row($behavior:nest-collapse);
+
+                & > .details {
+                    @include grid-column(4, $float:right);
+                }
+
+                & > .articleBody {
+                    @include grid-column(8, $float:left);
+                }
+            }
+        }
+    }
+
+    #footer-wrapper {
+        margin-top: 100px;
     }
 }
 
@@ -108,5 +139,3 @@ $portrait: "only screen and (orientation: portrait)";
 /* We also use Modernizr to add a .touch class to the body when applicable */
 /* You can prepend this class to anything and it will style only for touch devices */
 /* .touch .your-element {} */
-
-@import "clermontech";

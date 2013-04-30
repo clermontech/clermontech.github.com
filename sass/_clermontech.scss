@@ -15,6 +15,10 @@ h1, h2 {
     }
 }
 
+body > header {
+    padding: 0 4% 0 4%;
+}
+
 /* Layout */
 header {
     // Reset header styles
@@ -22,18 +26,13 @@ header {
     border: 0!important;
 
     #logo {
-        float:left;
-        @include thumb;
-        margin-right: 20px;
-        @include border-radius(100px);
-        @include transition-property(border-radius);
-        @include transition-duration(1s);
-        &:hover {
-            @include border-radius(50px);
-        }
+        display: none;
     }
-    nav {
-        ul {
+
+    & > nav {
+        & > ul {
+            @include inline-list;
+
             li {
                 font-family: $header-font-family;
                 font-weight: bold;
@@ -43,11 +42,11 @@ header {
     }
 }
 
-hr.sep {
-
-}
-
 #content {
+
+    p {
+        text-align: justify;
+    }
 
     article.post {
         header {
@@ -57,38 +56,49 @@ hr.sep {
             }
         }
     }
-}
 
-.talk {
-  .talk-info { @include grid-row($behavior:nest-collapse);
-    & > .details { @include grid-column(4, $float:right); }
-    & > .articleBody { @include grid-column(8, $float:left); }
-  }
-}
+    article.talk {
+        .talk-info {
+            @include grid-row($behavior:nest-collapse);
 
-$footer-color: #05292c;
+            & > .details {
+                margin-top: 5%;
+            }
+
+            & > .articleBody {
+                & > .video iframe {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
 
 #footer-wrapper {
     width:100%;
     @include box-shadow($footer-color 2px 2px 10px);
     background: $footer-color;
-    margin-top: 100px;
     padding-top: 30px;
     padding-bottom: 10px;
-    color: #e6e6e6;
+    color: $footer-text-color;
+
     footer {
         @include grid-row;
+
         .footer-column {
-            @include grid-column(4, $float:left);
-            h3 { color: #e6e6e6 }
+            @include grid-column(6, $float:left);
+
+            h3 {
+                color: $footer-text-color;
+            }
+
             p {
                 font-family: $header-font-family;
-                font-size:20px;
+                font-size: $footer-paragraph-font-size;
             }
+
             img.mascotte {
-                z-index:2;
-                position: absolute;
-                bottom: -250px;
+                display: none;
             }
         }
     }
