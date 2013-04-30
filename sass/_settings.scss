@@ -81,7 +81,7 @@ $header-font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial
 
 // We use these to control header font sizes
 $h1-font-size: emCalc(50px);
-$h2-font-size: emCalc(37px);
+$h2-font-size: emCalc(31px);
 $h3-font-size: emCalc(27px);
 $h4-font-size: emCalc(23px);
 $h5-font-size: emCalc(18px);
@@ -993,3 +993,6 @@ $list-style-position: inside;
 // $topbar-breakpoint: emCalc(940px); // Change to 9999px for always mobile layout
 // $topbar-media-query: "only screen and (min-width "#{$topbar-breakpoint}")";
 
+$footer-color: #05292c;
+$footer-text-color: #e6e6e6;
+$footer-paragraph-font-size: 20px;
