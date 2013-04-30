@@ -1,32 +1,37 @@
 ---
-layout: default
+layout: layout
 ---
+<div class="row">
+    <div class="container large-12 columns">
+        <div>
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+        </div>
 
-{{ content }}
-
-<div class="latest">
-    <section class="talks">
-        <h2>Talks</h2>
-        <ul>
-        {% for page in site.categories['talks'] limit:5 %}
-        {% include headline.html %}
-        {% endfor %}
-        </ul>
-    </section>
-    <section class="api-hours">
-        <h2>API Hours</h2>
-        <ul>
-        {% for page in site.categories['api-hours'] limit:5 %}
-        {% include headline.html %}
-        {% endfor %}
-        </ul>
-    </section>
-    <section class="posts">
-        <h2>Tous les posts</h2>
-        <ul>
-        {% for page in site.posts limit:5 %}
-        {% include headline.html %}
-        {% endfor %}
-        </ul>
-    </section>
+    <div class="latest">
+        <section class="talks">
+            <h2>Talks</h2>
+            <ul>
+            {% for page in site.categories['talks'] limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+        <section class="api-hours">
+            <h2>API Hours</h2>
+            <ul>
+            {% for page in site.categories['api-hours'] limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+        <section class="posts">
+            <h2>Tous les posts</h2>
+            <ul>
+            {% for page in site.posts limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
+    </div>
 </div>

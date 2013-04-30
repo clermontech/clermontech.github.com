@@ -1533,7 +1533,7 @@ h1 {
 
 /* line 194, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_type.scss */
 h2 {
-  font-size: 1.6875em;
+  font-size: 1.3125em;
 }
 
 /* line 195, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_type.scss */
@@ -1745,7 +1745,7 @@ blockquote p {
 
   /* line 359, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_type.scss */
   h2 {
-    font-size: 2.3125em;
+    font-size: 1.9375em;
   }
 
   /* line 360, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_type.scss */
@@ -5618,7 +5618,12 @@ header > nav > ul li {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-/* line 61, ../sass/_clermontech.scss */
+/* line 59, ../sass/_clermontech.scss */
+#content article.post img {
+  margin: auto;
+  display: block;
+}
+/* line 66, ../sass/_clermontech.scss */
 #content article.talk .talk-info {
   width: auto;
   margin: 0;
@@ -5634,16 +5639,16 @@ header > nav > ul li {
 #content article.talk .talk-info:after {
   clear: both;
 }
-/* line 64, ../sass/_clermontech.scss */
+/* line 69, ../sass/_clermontech.scss */
 #content article.talk .talk-info > .details {
   margin-top: 5%;
 }
-/* line 69, ../sass/_clermontech.scss */
+/* line 74, ../sass/_clermontech.scss */
 #content article.talk .talk-info > .articleBody > .video iframe {
   width: 100%;
 }
 
-/* line 77, ../sass/_clermontech.scss */
+/* line 82, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5654,7 +5659,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 85, ../sass/_clermontech.scss */
+/* line 90, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5673,7 +5678,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 88, ../sass/_clermontech.scss */
+/* line 93, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5681,16 +5686,16 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 91, ../sass/_clermontech.scss */
+/* line 96, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 95, ../sass/_clermontech.scss */
+/* line 100, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 100, ../sass/_clermontech.scss */
+/* line 105, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
@@ -5754,16 +5759,17 @@ header > nav > ul li {
   body > header:after {
     clear: both;
   }
-  /* line 86, ../sass/app.scss */
+  /* line 88, ../sass/app.scss */
   body > header > nav {
-    float: right;
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 41.66667%;
     float: left;
+    width: auto;
+    float: right;
   }
-  /* line 89, ../sass/app.scss */
+  /* line 93, ../sass/app.scss */
   body > header > nav > ul {
     margin: 0 0 1.0625em -1.375em;
     padding: 0;
@@ -5782,26 +5788,7 @@ header > nav > ul li {
     display: block;
   }
 
-  /* line 94, ../sass/app.scss */
-  .container {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-    max-width: 62.5em;
-    *zoom: 1;
-  }
-  /* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  .container:before, .container:after {
-    content: " ";
-    display: table;
-  }
-  /* line 185, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  .container:after {
-    clear: both;
-  }
-  /* line 96, ../sass/app.scss */
+  /* line 100, ../sass/app.scss */
   .container > div {
     position: relative;
     padding-left: 0.9375em;
@@ -5809,21 +5796,23 @@ header > nav > ul li {
     width: 66.66667%;
     float: left;
   }
-  /* line 99, ../sass/app.scss */
+  /* line 104, ../sass/app.scss */
   .container .latest {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 33.33333%;
     float: left;
+    margin-top: 10px;
   }
 
-  /* line 106, ../sass/app.scss */
+  /* line 112, ../sass/app.scss */
   #content article.talk .talk-info {
     width: auto;
     margin: 0;
     max-width: none;
     *zoom: 1;
+    margin-bottom: 30px;
   }
   /* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
   #content article.talk .talk-info:before, #content article.talk .talk-info:after {
@@ -5834,26 +5823,66 @@ header > nav > ul li {
   #content article.talk .talk-info:after {
     clear: both;
   }
-  /* line 109, ../sass/app.scss */
+  /* line 116, ../sass/app.scss */
   #content article.talk .talk-info > .details {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 33.33333%;
     float: left;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
-  /* line 113, ../sass/app.scss */
+  /* line 123, ../sass/app.scss */
   #content article.talk .talk-info > .articleBody {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 66.66667%;
     float: left;
+    padding-left: 0;
   }
 
-  /* line 120, ../sass/app.scss */
+  /* line 131, ../sass/app.scss */
   #footer-wrapper {
-    margin-top: 100px;
+    margin-top: 30px;
+  }
+  /* line 135, ../sass/app.scss */
+  #footer-wrapper footer .footer-column {
+    position: relative;
+    padding-left: 0.9375em;
+    padding-right: 0.9375em;
+    width: 33.33333%;
+    float: left;
+  }
+  /* line 138, ../sass/app.scss */
+  #footer-wrapper footer .footer-column img.mascotte {
+    display: block;
+    z-index: 2;
+    position: absolute;
+    bottom: -250px;
+    width: 90%;
+  }
+}
+@media only screen and (min-width: 900px) {
+  /* line 151, ../sass/app.scss */
+  #footer-wrapper {
+    margin-top: 120px;
+  }
+  /* line 156, ../sass/app.scss */
+  #footer-wrapper footer .footer-column img.mascotte {
+    width: 95%;
+  }
+}
+@media only screen and (min-width: 1020px) {
+  /* line 165, ../sass/app.scss */
+  #footer-wrapper {
+    margin-top: 150px;
+  }
+  /* line 170, ../sass/app.scss */
+  #footer-wrapper footer .footer-column img.mascotte {
+    width: 100%;
   }
 }
 /* Used to alter styles for screens at least 1280px wide. */

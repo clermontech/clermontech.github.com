@@ -82,22 +82,28 @@ $portrait: "only screen and (orientation: portrait)";
         }
     }
 
-    body > header { @include grid-row;
+    body > header {
+        @include grid-row;
+
         & > nav {
-            float: right;
             @include grid-column(5, $float:right);
+            width: auto;
+            float: right; // force float: right for obscure reasons...
+
             & > ul {
-                @include inline-list; }
+                @include inline-list;
+            }
         }
     }
 
     .container {
-        @include grid-row;
         & > div {
             @include grid-column(8, $float:left);
         }
+
         & .latest {
             @include grid-column(4, $float:left);
+            margin-top: 10px;
         }
     }
 
@@ -105,20 +111,67 @@ $portrait: "only screen and (orientation: portrait)";
         article.talk {
             .talk-info {
                 @include grid-row($behavior:nest-collapse);
+                margin-bottom: 30px;
 
                 & > .details {
                     @include grid-column(4, $float:right);
+                    margin-top: 0;
+                    padding-left: 0;
+                    padding-right: 0;
                 }
 
                 & > .articleBody {
                     @include grid-column(8, $float:left);
+                    padding-left: 0;
                 }
             }
         }
     }
 
     #footer-wrapper {
-        margin-top: 100px;
+        margin-top: 30px;
+
+        footer {
+            .footer-column {
+                @include grid-column(4, $float:left);
+
+                img.mascotte {
+                    display: block;
+                    z-index:2;
+                    position: absolute;
+                    bottom: -250px;
+                    width: 90%;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    #footer-wrapper {
+        margin-top: 120px;
+
+        footer {
+            .footer-column {
+                img.mascotte {
+                    width: 95%;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 1020px) {
+    #footer-wrapper {
+        margin-top: 150px;
+
+        footer {
+            .footer-column {
+                img.mascotte {
+                    width: 100%;
+                }
+            }
+        }
     }
 }
 
