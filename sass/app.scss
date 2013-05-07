@@ -67,7 +67,6 @@ $portrait: "only screen and (orientation: portrait)";
 
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media #{$small} {
-
     header {
         #logo {
             float:left;
@@ -125,6 +124,12 @@ $portrait: "only screen and (orientation: portrait)";
                     padding-left: 0;
                 }
             }
+        }
+
+        .anchor-link {
+            display: inline-block;
+            margin-left: 5px;
+            font-size: emCalc(12px);
         }
     }
 

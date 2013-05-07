@@ -7,3 +7,13 @@ layout: layout
         {% include post.html %}
     </div>
 </div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('h2').each(function () {
+            var _id = $(this).attr('id'),
+            _anchor = '<a href="#' + _id + '" class="anchor-link">¶</a>';
+            $(this).append(_anchor);
+        });
+    });
+</script>

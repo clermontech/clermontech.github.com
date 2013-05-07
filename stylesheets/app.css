@@ -5647,8 +5647,19 @@ header > nav > ul li {
 #content article.talk .talk-info > .articleBody > .video iframe {
   width: 100%;
 }
+/* line 81, ../sass/_clermontech.scss */
+#content .anchor-link {
+  padding: 2px;
+  color: #BDBDBD;
+  font-size: 60%;
+  text-decoration: none;
+}
+/* line 87, ../sass/_clermontech.scss */
+#content .anchor-link:hover {
+  color: #222222;
+}
 
-/* line 82, ../sass/_clermontech.scss */
+/* line 93, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5659,7 +5670,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 90, ../sass/_clermontech.scss */
+/* line 101, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5678,7 +5689,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 93, ../sass/_clermontech.scss */
+/* line 104, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5686,16 +5697,16 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 96, ../sass/_clermontech.scss */
+/* line 107, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 100, ../sass/_clermontech.scss */
+/* line 111, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 105, ../sass/_clermontech.scss */
+/* line 116, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
@@ -5704,7 +5715,7 @@ header > nav > ul li {
 /* We use this media query to add styles to any device that supports media queries */
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media only screen and (min-width: 48em) {
-  /* line 72, ../sass/app.scss */
+  /* line 71, ../sass/app.scss */
   header #logo {
     float: left;
     display: inline-block;
@@ -5731,7 +5742,7 @@ header > nav > ul li {
     -webkit-box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
     box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
   }
-  /* line 79, ../sass/app.scss */
+  /* line 78, ../sass/app.scss */
   header #logo:hover {
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -5740,7 +5751,7 @@ header > nav > ul li {
     border-radius: 50px;
   }
 
-  /* line 85, ../sass/app.scss */
+  /* line 84, ../sass/app.scss */
   body > header {
     width: 100%;
     margin-left: auto;
@@ -5759,7 +5770,7 @@ header > nav > ul li {
   body > header:after {
     clear: both;
   }
-  /* line 88, ../sass/app.scss */
+  /* line 87, ../sass/app.scss */
   body > header > nav {
     position: relative;
     padding-left: 0.9375em;
@@ -5769,7 +5780,7 @@ header > nav > ul li {
     width: auto;
     float: right;
   }
-  /* line 93, ../sass/app.scss */
+  /* line 92, ../sass/app.scss */
   body > header > nav > ul {
     margin: 0 0 1.0625em -1.375em;
     padding: 0;
@@ -5788,7 +5799,7 @@ header > nav > ul li {
     display: block;
   }
 
-  /* line 100, ../sass/app.scss */
+  /* line 99, ../sass/app.scss */
   .container > div {
     position: relative;
     padding-left: 0.9375em;
@@ -5796,7 +5807,7 @@ header > nav > ul li {
     width: 66.66667%;
     float: left;
   }
-  /* line 104, ../sass/app.scss */
+  /* line 103, ../sass/app.scss */
   .container .latest {
     position: relative;
     padding-left: 0.9375em;
@@ -5806,7 +5817,7 @@ header > nav > ul li {
     margin-top: 10px;
   }
 
-  /* line 112, ../sass/app.scss */
+  /* line 111, ../sass/app.scss */
   #content article.talk .talk-info {
     width: auto;
     margin: 0;
@@ -5823,7 +5834,7 @@ header > nav > ul li {
   #content article.talk .talk-info:after {
     clear: both;
   }
-  /* line 116, ../sass/app.scss */
+  /* line 115, ../sass/app.scss */
   #content article.talk .talk-info > .details {
     position: relative;
     padding-left: 0.9375em;
@@ -5834,7 +5845,7 @@ header > nav > ul li {
     padding-left: 0;
     padding-right: 0;
   }
-  /* line 123, ../sass/app.scss */
+  /* line 122, ../sass/app.scss */
   #content article.talk .talk-info > .articleBody {
     position: relative;
     padding-left: 0.9375em;
@@ -5843,12 +5854,18 @@ header > nav > ul li {
     float: left;
     padding-left: 0;
   }
+  /* line 129, ../sass/app.scss */
+  #content .anchor-link {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 0.75em;
+  }
 
-  /* line 131, ../sass/app.scss */
+  /* line 136, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 30px;
   }
-  /* line 135, ../sass/app.scss */
+  /* line 140, ../sass/app.scss */
   #footer-wrapper footer .footer-column {
     position: relative;
     padding-left: 0.9375em;
@@ -5856,7 +5873,7 @@ header > nav > ul li {
     width: 33.33333%;
     float: left;
   }
-  /* line 138, ../sass/app.scss */
+  /* line 143, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     display: block;
     z-index: 2;
@@ -5866,21 +5883,21 @@ header > nav > ul li {
   }
 }
 @media only screen and (min-width: 900px) {
-  /* line 151, ../sass/app.scss */
+  /* line 156, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 120px;
   }
-  /* line 156, ../sass/app.scss */
+  /* line 161, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 95%;
   }
 }
 @media only screen and (min-width: 1020px) {
-  /* line 165, ../sass/app.scss */
+  /* line 170, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 150px;
   }
-  /* line 170, ../sass/app.scss */
+  /* line 175, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 100%;
   }

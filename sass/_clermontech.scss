@@ -77,6 +77,17 @@ header {
             }
         }
     }
+
+    .anchor-link {
+        padding: 2px;
+        color: #BDBDBD;
+        font-size: 60%;
+        text-decoration: none;
+
+        &:hover {
+            color: #222222;
+        }
+    }
 }
 
 #footer-wrapper {
