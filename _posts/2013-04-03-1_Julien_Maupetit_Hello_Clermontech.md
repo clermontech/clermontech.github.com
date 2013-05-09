@@ -11,7 +11,7 @@ slides_url:
 session_url: /api-hours/2013/03/25/API-Hour-1.html
 session_name: Clermont'ech API Hour &#35;1
 
-video:
+video: UKG8EaHwY5E
 ---
 
 Cette première rencontre sera l’occasion de présenter l’association
