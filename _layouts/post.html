@@ -8,12 +8,7 @@ layout: layout
     </div>
 </div>
 
+<script src="/javascripts/vendor/anchorify.js"></script>
 <script type="text/javascript">
-    $(document).ready(function(){
-        $('#content h2').each(function () {
-            var _id = $(this).attr('id'),
-            _anchor = '<a href="#' + _id + '" class="anchor-link">¶</a>';
-            $(this).append(_anchor);
-        });
-    });
+    $('#content h2').anchorify();
 </script>
