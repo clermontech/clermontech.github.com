@@ -3,14 +3,15 @@ layout: default
 title: L'association Clermont'ech
 ---
 
-Clermont'ech est une association loi 1901 créée le 21 février 2013 à Clermont-Ferrand. Le siège social de l'association est situé 4, rue nationale 63110 BEAUMONT.
+Clermont'ech est une association loi 1901 créée le 21 février 2013 à Clermont-Ferrand.
+Le siège social de l'association est situé 4, rue nationale 63110 BEAUMONT.
 
 ## Bureau
 
 Le bureau de l'association est composé de :
 
 * Président : [Julien Maupetit](http://julien.maupetit.me)
-* Vice président : Julien Muetton
+* Vice président : [Julien Muetton](http://muetton.me/)
 * Trésorier : Pierre Tachoire
 * Trésorier suppléant : [William Durand](http://williamdurand.fr)
 * Secrétaire : [Manuel Raynaud](http://www.manuel-raynaud.com)
@@ -18,4 +19,6 @@ Le bureau de l'association est composé de :
 
 ## Status
 
-Les status de l'association sont consultables sur le repository [github clermontech](https://github.com/clermontech/) dans la rubrique [documents](https://github.com/clermontech/documents/blob/master/Statuts_Clermontech.md).
+Les status de l'association sont consultables sur le dépôt [GitHub
+clermontech](https://github.com/clermontech/) dans la rubrique
+[documents](https://github.com/clermontech/documents/blob/master/Statuts_Clermontech.md).
