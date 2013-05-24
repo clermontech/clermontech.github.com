@@ -40,15 +40,15 @@
           </li>
         {% endif %}
 
-        {% if page.session_name and page.session_url %}
-        <li class="session">
-            <a href="{{ page.session_url }}" rel="tag">{{ page.session_name }}</a>
+        {% if page.slides_url %}
+        <li class="slides" itemprop="articleSection">
+          <a href="{{ page.slides_url }}" rel="tag">Lien vers les slides</a>
         </li>
         {% endif %}
 
-        {% if page.slides_url %}
-        <li class="slides" itemprop="articleSection">
-          <a href="{{ page.slides_url }}" rel="tag">Lien vers la présentation</a>
+        {% if page.session_name and page.session_url %}
+        <li class="session">
+            <a href="{{ page.session_url }}" rel="tag">{{ page.session_name }}</a>
         </li>
         {% endif %}
       </ul>
