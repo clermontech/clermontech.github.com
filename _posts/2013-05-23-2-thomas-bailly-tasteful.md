@@ -6,7 +6,7 @@ title: Tasteful
 author: Thomas Bailly
 author_url: https://twitter.com/Daztane
 
-slides_url:
+slides_url: http://fr.slideshare.net/ThomasBAILLY/tasteful
 
 session_url: /api-hours/api-hour-2.html
 session_name: Clermont'ech API Hour &#35;2
