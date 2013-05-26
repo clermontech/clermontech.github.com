@@ -49,13 +49,6 @@ header {
     }
 
     article.post {
-        header {
-            .posted {
-                margin-top: 1em;
-                margin-bottom: 1em;
-            }
-        }
-
         img {
             margin: auto;
             display: block;
@@ -63,14 +56,14 @@ header {
     }
 
     article.talk {
-        .talk-info {
+        .talk-body {
             @include grid-row($behavior:nest-collapse);
 
-            & > .details {
+            .talk-metadata {
                 margin-top: 5%;
             }
 
-            & > .articleBody {
+            .talk-content {
                 & > .video iframe {
                     width: 100%;
                 }

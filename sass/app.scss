@@ -108,18 +108,18 @@ $portrait: "only screen and (orientation: portrait)";
 
     #content {
         article.talk {
-            .talk-info {
+            .talk-body {
                 @include grid-row($behavior:nest-collapse);
                 margin-bottom: 30px;
 
-                & > .details {
+                .talk-metadata {
                     @include grid-column(4, $float:right);
                     margin-top: 0;
                     padding-left: 0;
                     padding-right: 0;
                 }
 
-                & > .articleBody {
+                .talk-content {
                     @include grid-column(8, $float:left);
                     padding-left: 0;
                 }

@@ -5613,53 +5613,48 @@ header > nav > ul li {
 #content p {
   text-align: justify;
 }
-/* line 53, ../sass/_clermontech.scss */
-#content article.post header .posted {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-/* line 59, ../sass/_clermontech.scss */
+/* line 52, ../sass/_clermontech.scss */
 #content article.post img {
   margin: auto;
   display: block;
 }
-/* line 66, ../sass/_clermontech.scss */
-#content article.talk .talk-info {
+/* line 59, ../sass/_clermontech.scss */
+#content article.talk .talk-body {
   width: auto;
   margin: 0;
   max-width: none;
   *zoom: 1;
 }
 /* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-#content article.talk .talk-info:before, #content article.talk .talk-info:after {
+#content article.talk .talk-body:before, #content article.talk .talk-body:after {
   content: " ";
   display: table;
 }
 /* line 185, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-#content article.talk .talk-info:after {
+#content article.talk .talk-body:after {
   clear: both;
 }
-/* line 69, ../sass/_clermontech.scss */
-#content article.talk .talk-info > .details {
+/* line 62, ../sass/_clermontech.scss */
+#content article.talk .talk-body .talk-metadata {
   margin-top: 5%;
 }
-/* line 74, ../sass/_clermontech.scss */
-#content article.talk .talk-info > .articleBody > .video iframe {
+/* line 67, ../sass/_clermontech.scss */
+#content article.talk .talk-body .talk-content > .video iframe {
   width: 100%;
 }
-/* line 81, ../sass/_clermontech.scss */
+/* line 74, ../sass/_clermontech.scss */
 #content .anchor-link {
   padding: 2px;
   color: #BDBDBD;
   font-size: 60%;
   text-decoration: none;
 }
-/* line 87, ../sass/_clermontech.scss */
+/* line 80, ../sass/_clermontech.scss */
 #content .anchor-link:hover {
   color: #222222;
 }
 
-/* line 93, ../sass/_clermontech.scss */
+/* line 86, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5670,7 +5665,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 101, ../sass/_clermontech.scss */
+/* line 94, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5689,7 +5684,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 104, ../sass/_clermontech.scss */
+/* line 97, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5697,16 +5692,16 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 107, ../sass/_clermontech.scss */
+/* line 100, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 111, ../sass/_clermontech.scss */
+/* line 104, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 116, ../sass/_clermontech.scss */
+/* line 109, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
@@ -5818,7 +5813,7 @@ header > nav > ul li {
   }
 
   /* line 111, ../sass/app.scss */
-  #content article.talk .talk-info {
+  #content article.talk .talk-body {
     width: auto;
     margin: 0;
     max-width: none;
@@ -5826,16 +5821,16 @@ header > nav > ul li {
     margin-bottom: 30px;
   }
   /* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  #content article.talk .talk-info:before, #content article.talk .talk-info:after {
+  #content article.talk .talk-body:before, #content article.talk .talk-body:after {
     content: " ";
     display: table;
   }
   /* line 185, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  #content article.talk .talk-info:after {
+  #content article.talk .talk-body:after {
     clear: both;
   }
   /* line 115, ../sass/app.scss */
-  #content article.talk .talk-info > .details {
+  #content article.talk .talk-body .talk-metadata {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
@@ -5846,7 +5841,7 @@ header > nav > ul li {
     padding-right: 0;
   }
   /* line 122, ../sass/app.scss */
-  #content article.talk .talk-info > .articleBody {
+  #content article.talk .talk-body .talk-content {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;

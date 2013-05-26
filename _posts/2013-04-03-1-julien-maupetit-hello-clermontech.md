@@ -1,6 +1,6 @@
 ---
 layout: talk
-category: talks
+categories: [talks, api-hour-1 ]
 title: Hello Clermont'ech
 
 author: Julien Maupetit
@@ -8,7 +8,7 @@ author_url: https://twitter.com/julienmaupetit
 
 slides_url:
 
-session_url: /api-hours/2013/03/25/API-Hour-1.html
+session_url: /api-hours/api-hour-1.html
 session_name: Clermont'ech API Hour &#35;1
 
 video: UKG8EaHwY5E
