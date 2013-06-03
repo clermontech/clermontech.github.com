@@ -81,6 +81,22 @@ header {
             color: #222222;
         }
     }
+
+    .sponsors {
+        .sponsors-list {
+            list-style-type: none;
+            text-align: center;
+        }
+
+        .sponsor {
+            display: inline-block;
+            margin: 10px;
+        }
+
+        .sponsor-logo {
+            width: 100px;
+        }
+    }
 }
 
 #footer-wrapper {
