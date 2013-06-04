@@ -10,6 +10,11 @@ layout: layout
             </header>
             <div itemprop="articleBody" class="post-body">
                 {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
+
+                {% if page.flickrId %}
+                <h2>Photos</h2>
+                <div class="photos-set"></div>
+                {% endif %}
             </div>
         </article>
     </div>
@@ -19,3 +24,12 @@ layout: layout
 <script type="text/javascript">
     $('#content h2').anchorify();
 </script>
+{% if page.flickrId %}
+<script src="/javascripts/vendor/flickr.js"></script>
+<script type="text/javascript">
+    $('.photos-set').flickrPhotoStream({
+        id: '{{ page.flickrId }}',
+        cssClass: 'photos-set-item'
+    });
+</script>
+{% endif %}
