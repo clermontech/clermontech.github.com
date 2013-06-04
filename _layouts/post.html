@@ -10,6 +10,11 @@ layout: layout
             </header>
             <div itemprop="articleBody" class="post-body">
                 {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
+
+                {% if page.flickr_id %}
+                <h2>Photos</h2>
+                <ul class="photos-set" data-clearing></ul>
+                {% endif %}
             </div>
         </article>
     </div>
@@ -19,3 +24,18 @@ layout: layout
 <script type="text/javascript">
     $('#content h2').anchorify();
 </script>
+{% if page.flickr_id %}
+<script src="/javascripts/foundation/foundation.js"></script>
+<script src="/javascripts/foundation/foundation.clearing.js"></script>
+<script src="/javascripts/vendor/flickr.js"></script>
+<script>
+    $('.photos-set').flickrPhotoStream({
+        id: '{{ page.flickr_id }}',
+        container: '<li class="photos-set-item" />'
+    }).done(function () {
+        $(document).foundation();
+    }).fail(function () {
+        $(this).append("<p>Désolé, nous n'avons pas pu charger les photos. Vous pouvez tenter de recharger la page.</p>");
+    });
+</script>
+{% endif %}

@@ -53,6 +53,25 @@ header {
             margin: auto;
             display: block;
         }
+
+        .photos-set {
+            width: 100%;
+            margin: 0 auto 5% auto;
+            text-align: center;
+            list-style-type: none;
+
+            .photos-set-item {
+                @include thumb;
+
+                width: 230px;
+                height: 156px;
+                margin: 10px 10px 0 0;
+
+                img {
+                    height: 100%;
+                }
+            }
+        }
     }
 
     article.talk {
