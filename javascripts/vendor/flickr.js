@@ -1,6 +1,17 @@
 /*!
  * William DURAND <william.durand1@gmail.com>
  * MIT Licensed
+ *
+ * Usage:
+ *
+ *     $('.photos').flickrPhotoStream({ id: '12345' });
+ *
+ *     $('.photos').flickrPhotoStream({
+ *         id: '12345',             // Flickr PhotoStream Set ID
+ *         container: '<div />',    // wrap the image
+ *         cssClass: 'photos-item'  // applied to the image's link
+ *     }).done(function () {});
+ *
  */
 (function (document, $) {
     "use strict";
@@ -12,28 +23,33 @@
             '&format=json&jsoncallback=?'
         ].join('');
 
-        $.getJSON(url, function (data) {
+        var deferred = new $.Deferred();
+
+        $.getJSON(url).done(function (data) {
             $.each(data.items, function (index, item) {
-                $("<img/>")
+                var link = item.media.m.replace('_m', '_z');
+
+                $("<img />")
                     .attr("src", item.media.m)
                     .appendTo($el)
+                    .wrap(options.container || '')
                     .wrap([
-                        "<a href='",
-                        // link to direct image:
-                        // item.media.m.replace('_m', '_z'),
-                        item.link,
-                        "' class='",
-                        options.cssClass,
-                        "' title='",
-                        item.title +"'></a>"
+                        '<a href="',
+                        link,
+                        options.cssClass ? '" class="' + options.cssClass : '',
+                        '" title="',
+                        item.title,
+                        '"></a>'
                     ].join(''));
             });
+        }).always(function () {
+            deferred.resolve();
         });
+
+        return deferred.promise();
     };
 
     $.fn.flickrPhotoStream = function (options) {
-        flickrPhotoStream($(this).get(), options || {});
-
-        return this;
+        return flickrPhotoStream($(this).get(), options || {});
     };
 })(document, jQuery);

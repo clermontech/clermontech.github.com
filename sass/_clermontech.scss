@@ -58,9 +58,10 @@ header {
             width: 100%;
             margin: 0 auto 5% auto;
             text-align: center;
+            list-style-type: none;
 
             .photos-set-item {
-                @include thumb($thumb-border-width);
+                @include thumb;
 
                 width: 230px;
                 height: 156px;
