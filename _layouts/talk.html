@@ -3,63 +3,61 @@ layout: layout
 ---
 
 <div class="row">
-    <div class="large-12 columns">
-        <article class="talk" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+    <article class="talk" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+        <div class="row">
             <header class="talk-header">
                 <h1 itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
             </header>
+        </div>
 
-            <div class="talk-body">
-                <section itemprop="articleBody" class="talk-content">
+        <div class="row">
+            <section itemprop="articleBody" class="talk-content">
+                {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
 
-                    {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
+                {% if page.video %}
+                <div class="video">
+                    <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+                </div>
+                {% else %}
+                <em>Pas de vidéo pour cette présentation.</em>
+                {% endif %}
+            </section>
 
-                    {% if page.video %}
-                    <div class="video">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.video }}" frameborder="0" allowfullscreen></iframe>
-                    </div>
-                    {% else %}
-                    <em>Pas de vidéo pour cette présentation.</em>
+            <section class="talk-metadata">
+                <ul>
+                    {% if page.date %}
+                    <li>
+                        donné le <time pubdate="pubdate" datetime="{{ page.date | date_to_xmlschema }}">
+                        <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}" />
+                        {{ page.date | date: "%d/%m/%Y" }}
+                        </time>
+                    </li>
                     {% endif %}
 
-                </section>
-
-                <section class="talk-metadata">
-                    <ul>
-                        {% if page.date %}
-                        <li>
-                            donné le <time pubdate="pubdate" datetime="{{ page.date | date_to_xmlschema }}">
-                            <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}" />
-                            {{ page.date | date: "%d/%m/%Y" }}
-                            </time>
-                        </li>
+                    {% if page.author %}
+                    <li itemprop="author">
+                        par
+                        {% if page.author_url %}
+                        <a href="{{ page.author_url }}" rel="author">{{ page.author }}</a>
+                        {% else %}
+                        {{ page.author }}
                         {% endif %}
+                    </li>
+                    {% endif %}
 
-                        {% if page.author %}
-                        <li itemprop="author">
-                            par
-                            {% if page.author_url %}
-                            <a href="{{ page.author_url }}" rel="author">{{ page.author }}</a>
-                            {% else %}
-                            {{ page.author }}
-                            {% endif %}
-                        </li>
-                        {% endif %}
+                    {% if page.slides_url %}
+                    <li class="slides" itemprop="articleSection">
+                        <a href="{{ page.slides_url }}" rel="tag">Lien vers les slides</a>
+                    </li>
+                    {% endif %}
 
-                        {% if page.slides_url %}
-                        <li class="slides" itemprop="articleSection">
-                            <a href="{{ page.slides_url }}" rel="tag">Lien vers les slides</a>
-                        </li>
-                        {% endif %}
-
-                        {% if page.session_name and page.session_url %}
-                        <li class="session">
-                            <a href="{{ page.session_url }}" rel="tag">{{ page.session_name }}</a>
-                        </li>
-                        {% endif %}
-                    </ul>
-                </section>
-            </article>
-        </div>
+                    {% if page.session_name and page.session_url %}
+                    <li class="session">
+                        <a href="{{ page.session_url }}" rel="tag">{{ page.session_name }}</a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </section>
+        </article>
     </div>
 </div>

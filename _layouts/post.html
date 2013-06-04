@@ -3,21 +3,19 @@ layout: layout
 ---
 
 <div class="row">
-    <div class="large-12 columns">
-        <article class="post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-            <header class="post-header">
-                <h1 itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-            </header>
-            <div itemprop="articleBody" class="post-body">
-                {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
+    <article class="post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+        <header class="post-header">
+            <h1 itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+        </header>
+        <div itemprop="articleBody" class="post-body">
+            {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
 
-                {% if page.flickr_id %}
-                <h2>Photos</h2>
-                <ul class="photos-set" data-clearing></ul>
-                {% endif %}
-            </div>
-        </article>
-    </div>
+            {% if page.flickr_id %}
+            <h2>Photos</h2>
+            <ul class="photos-set" data-clearing></ul>
+            {% endif %}
+        </div>
+    </article>
 </div>
 
 <script src="/javascripts/vendor/anchorify.js"></script>
@@ -31,7 +29,8 @@ layout: layout
 <script>
     $('.photos-set').flickrPhotoStream({
         id: '{{ page.flickr_id }}',
-        container: '<li class="photos-set-item" />'
+        container: '<li class="photos-set-item" />',
+        cssClass: 'photos-set-link'
     }).done(function () {
         $(document).foundation();
     }).fail(function () {

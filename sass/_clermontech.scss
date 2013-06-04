@@ -43,12 +43,13 @@ header {
 }
 
 #content {
-
     p {
         text-align: justify;
     }
 
     article.post {
+        @include grid-column(12);
+
         img {
             margin: auto;
             display: block;
@@ -56,36 +57,44 @@ header {
 
         .photos-set {
             width: 100%;
-            margin: 0 auto 5% auto;
             text-align: center;
             list-style-type: none;
+            margin-bottom: 3%;
 
             .photos-set-item {
                 @include thumb;
 
-                width: 230px;
-                height: 156px;
-                margin: 10px 10px 0 0;
+                width: 24%;
+                margin: 0.5%;
+                vertical-align: middle;
+            }
+        }
 
-                img {
-                    height: 100%;
-                }
+        .clearing-container {
+            .photos-set-item {
+                width: auto;
+                margin: auto;
+                vertical-align: auto;
             }
         }
     }
 
     article.talk {
-        .talk-body {
-            @include grid-row($behavior:nest-collapse);
+        margin: 0 4% 0 4%;
 
-            .talk-metadata {
-                margin-top: 5%;
-            }
+        .talk-header {
+            @include grid-column(12);
+        }
 
-            .talk-content {
-                & > .video iframe {
-                    width: 100%;
-                }
+        .talk-metadata {
+            @include grid-column(12);
+        }
+
+        .talk-content {
+            @include grid-column(12);
+
+            .video {
+                @include flex-video-container;
             }
         }
     }

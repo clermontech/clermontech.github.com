@@ -5609,92 +5609,134 @@ header > nav > ul li {
   text-transform: uppercase;
 }
 
-/* line 47, ../sass/_clermontech.scss */
+/* line 46, ../sass/_clermontech.scss */
 #content p {
   text-align: justify;
 }
-/* line 52, ../sass/_clermontech.scss */
+/* line 50, ../sass/_clermontech.scss */
+#content article.post {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
+/* line 53, ../sass/_clermontech.scss */
 #content article.post img {
   margin: auto;
   display: block;
 }
-/* line 57, ../sass/_clermontech.scss */
+/* line 58, ../sass/_clermontech.scss */
 #content article.post .photos-set {
   width: 100%;
-  margin: 0 auto 5% auto;
   text-align: center;
   list-style-type: none;
+  margin-bottom: 3%;
 }
-/* line 63, ../sass/_clermontech.scss */
+/* line 64, ../sass/_clermontech.scss */
 #content article.post .photos-set .photos-set-item {
   display: inline-block;
   border: solid 4px white;
   -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
-  width: 230px;
-  height: 156px;
-  margin: 10px 10px 0 0;
+  width: 24%;
+  margin: 0.5%;
+  vertical-align: middle;
 }
 /* line 28, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_thumbs.scss */
 #content article.post .photos-set .photos-set-item:hover, #content article.post .photos-set .photos-set-item:focus {
   -webkit-box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
   box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
 }
-/* line 70, ../sass/_clermontech.scss */
-#content article.post .photos-set .photos-set-item img {
-  height: 100%;
-}
-/* line 78, ../sass/_clermontech.scss */
-#content article.talk .talk-body {
+/* line 74, ../sass/_clermontech.scss */
+#content article.post .clearing-container .photos-set-item {
   width: auto;
-  margin: 0;
-  max-width: none;
-  *zoom: 1;
+  margin: auto;
+  vertical-align: auto;
 }
-/* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-#content article.talk .talk-body:before, #content article.talk .talk-body:after {
-  content: " ";
-  display: table;
+/* line 82, ../sass/_clermontech.scss */
+#content article.talk {
+  margin: 0 4% 0 4%;
 }
-/* line 185, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-#content article.talk .talk-body:after {
-  clear: both;
-}
-/* line 81, ../sass/_clermontech.scss */
-#content article.talk .talk-body .talk-metadata {
-  margin-top: 5%;
-}
-/* line 86, ../sass/_clermontech.scss */
-#content article.talk .talk-body .talk-content > .video iframe {
+/* line 85, ../sass/_clermontech.scss */
+#content article.talk .talk-header {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
   width: 100%;
+  float: left;
+}
+/* line 89, ../sass/_clermontech.scss */
+#content article.talk .talk-metadata {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
 }
 /* line 93, ../sass/_clermontech.scss */
+#content article.talk .talk-content {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
+/* line 96, ../sass/_clermontech.scss */
+#content article.talk .talk-content .video {
+  position: relative;
+  padding-top: 1.5625em;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+/* line 25, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_flex-video.scss */
+#content article.talk .talk-content .video.widescreen {
+  padding-bottom: 57.25%;
+}
+/* line 26, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_flex-video.scss */
+#content article.talk .talk-content .video.vimeo {
+  padding-top: 0;
+}
+/* line 31, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/components/_flex-video.scss */
+#content article.talk .talk-content .video iframe,
+#content article.talk .talk-content .video object,
+#content article.talk .talk-content .video embed,
+#content article.talk .talk-content .video video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/* line 102, ../sass/_clermontech.scss */
 #content .anchor-link {
   padding: 2px;
   color: #BDBDBD;
   font-size: 60%;
   text-decoration: none;
 }
-/* line 99, ../sass/_clermontech.scss */
+/* line 108, ../sass/_clermontech.scss */
 #content .anchor-link:hover {
   color: #222222;
 }
-/* line 105, ../sass/_clermontech.scss */
+/* line 114, ../sass/_clermontech.scss */
 #content .sponsors .sponsors-list {
   list-style-type: none;
   text-align: center;
 }
-/* line 110, ../sass/_clermontech.scss */
+/* line 119, ../sass/_clermontech.scss */
 #content .sponsors .sponsor {
   display: inline-block;
   margin: 10px;
 }
-/* line 115, ../sass/_clermontech.scss */
+/* line 124, ../sass/_clermontech.scss */
 #content .sponsors .sponsor-logo {
   width: 100px;
 }
 
-/* line 121, ../sass/_clermontech.scss */
+/* line 130, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5705,7 +5747,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 129, ../sass/_clermontech.scss */
+/* line 138, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5724,7 +5766,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 132, ../sass/_clermontech.scss */
+/* line 141, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5732,25 +5774,24 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 135, ../sass/_clermontech.scss */
+/* line 144, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 139, ../sass/_clermontech.scss */
+/* line 148, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 144, ../sass/_clermontech.scss */
+/* line 153, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
 
-/* Available Variables */
 /* We use this media query to add styles to any device that supports media queries */
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media only screen and (min-width: 48em) {
-  /* line 71, ../sass/app.scss */
+  /* line 32, ../sass/app.scss */
   header #logo {
     float: left;
     display: inline-block;
@@ -5777,7 +5818,7 @@ header > nav > ul li {
     -webkit-box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
     box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
   }
-  /* line 78, ../sass/app.scss */
+  /* line 39, ../sass/app.scss */
   header #logo:hover {
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -5786,7 +5827,7 @@ header > nav > ul li {
     border-radius: 50px;
   }
 
-  /* line 84, ../sass/app.scss */
+  /* line 45, ../sass/app.scss */
   body > header {
     width: 100%;
     margin-left: auto;
@@ -5805,7 +5846,7 @@ header > nav > ul li {
   body > header:after {
     clear: both;
   }
-  /* line 87, ../sass/app.scss */
+  /* line 48, ../sass/app.scss */
   body > header > nav {
     position: relative;
     padding-left: 0.9375em;
@@ -5815,7 +5856,7 @@ header > nav > ul li {
     width: auto;
     float: right;
   }
-  /* line 92, ../sass/app.scss */
+  /* line 53, ../sass/app.scss */
   body > header > nav > ul {
     margin: 0 0 1.0625em -1.375em;
     padding: 0;
@@ -5834,7 +5875,7 @@ header > nav > ul li {
     display: block;
   }
 
-  /* line 99, ../sass/app.scss */
+  /* line 60, ../sass/app.scss */
   .container > div {
     position: relative;
     padding-left: 0.9375em;
@@ -5842,7 +5883,7 @@ header > nav > ul li {
     width: 66.66667%;
     float: left;
   }
-  /* line 103, ../sass/app.scss */
+  /* line 64, ../sass/app.scss */
   .container .latest {
     position: relative;
     padding-left: 0.9375em;
@@ -5852,55 +5893,42 @@ header > nav > ul li {
     margin-top: 10px;
   }
 
-  /* line 111, ../sass/app.scss */
-  #content article.talk .talk-body {
-    width: auto;
-    margin: 0;
-    max-width: none;
-    *zoom: 1;
-    margin-bottom: 30px;
+  /* line 72, ../sass/app.scss */
+  #content article.talk .talk-header {
+    position: relative;
+    padding-left: 0.9375em;
+    padding-right: 0.9375em;
+    width: 100%;
+    float: left;
   }
-  /* line 184, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  #content article.talk .talk-body:before, #content article.talk .talk-body:after {
-    content: " ";
-    display: table;
-  }
-  /* line 185, ../../../../../opt/boxen/rbenv/versions/1.9.3-p231-tcs-github1/lib/ruby/gems/1.9.1/gems/zurb-foundation-4.0.9/scss/foundation/_foundation-global.scss */
-  #content article.talk .talk-body:after {
-    clear: both;
-  }
-  /* line 115, ../sass/app.scss */
-  #content article.talk .talk-body .talk-metadata {
+  /* line 76, ../sass/app.scss */
+  #content article.talk .talk-metadata {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 33.33333%;
     float: left;
-    margin-top: 0;
-    padding-left: 0;
-    padding-right: 0;
   }
-  /* line 122, ../sass/app.scss */
-  #content article.talk .talk-body .talk-content {
+  /* line 80, ../sass/app.scss */
+  #content article.talk .talk-content {
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
     width: 66.66667%;
     float: left;
-    padding-left: 0;
   }
-  /* line 129, ../sass/app.scss */
+  /* line 85, ../sass/app.scss */
   #content .anchor-link {
-    display: inline-block;
     margin-left: 5px;
+    display: inline-block;
     font-size: 0.75em;
   }
 
-  /* line 136, ../sass/app.scss */
+  /* line 92, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 30px;
   }
-  /* line 140, ../sass/app.scss */
+  /* line 96, ../sass/app.scss */
   #footer-wrapper footer .footer-column {
     position: relative;
     padding-left: 0.9375em;
@@ -5908,7 +5936,7 @@ header > nav > ul li {
     width: 33.33333%;
     float: left;
   }
-  /* line 143, ../sass/app.scss */
+  /* line 99, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     display: block;
     z-index: 2;
@@ -5918,21 +5946,21 @@ header > nav > ul li {
   }
 }
 @media only screen and (min-width: 900px) {
-  /* line 156, ../sass/app.scss */
+  /* line 112, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 120px;
   }
-  /* line 161, ../sass/app.scss */
+  /* line 117, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 95%;
   }
 }
 @media only screen and (min-width: 1020px) {
-  /* line 170, ../sass/app.scss */
+  /* line 126, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 150px;
   }
-  /* line 175, ../sass/app.scss */
+  /* line 131, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 100%;
   }
