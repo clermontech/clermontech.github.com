@@ -5710,33 +5710,38 @@ header > nav > ul li {
   width: 100%;
   height: 100%;
 }
-/* line 102, ../sass/_clermontech.scss */
+/* line 100, ../sass/_clermontech.scss */
+#content article.talk .talk-content .no-video {
+  margin: 0 auto 6% auto;
+  display: block;
+}
+/* line 107, ../sass/_clermontech.scss */
 #content .anchor-link {
   padding: 2px;
   color: #BDBDBD;
   font-size: 60%;
   text-decoration: none;
 }
-/* line 108, ../sass/_clermontech.scss */
+/* line 113, ../sass/_clermontech.scss */
 #content .anchor-link:hover {
   color: #222222;
 }
-/* line 114, ../sass/_clermontech.scss */
+/* line 119, ../sass/_clermontech.scss */
 #content .sponsors .sponsors-list {
   list-style-type: none;
   text-align: center;
 }
-/* line 119, ../sass/_clermontech.scss */
+/* line 124, ../sass/_clermontech.scss */
 #content .sponsors .sponsor {
   display: inline-block;
   margin: 10px;
 }
-/* line 124, ../sass/_clermontech.scss */
+/* line 129, ../sass/_clermontech.scss */
 #content .sponsors .sponsor-logo {
   width: 100px;
 }
 
-/* line 130, ../sass/_clermontech.scss */
+/* line 135, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5747,7 +5752,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 138, ../sass/_clermontech.scss */
+/* line 143, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5766,7 +5771,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 141, ../sass/_clermontech.scss */
+/* line 146, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5774,16 +5779,16 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 144, ../sass/_clermontech.scss */
+/* line 149, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 148, ../sass/_clermontech.scss */
+/* line 153, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 153, ../sass/_clermontech.scss */
+/* line 158, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }

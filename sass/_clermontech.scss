@@ -96,6 +96,11 @@ header {
             .video {
                 @include flex-video-container;
             }
+
+            .no-video {
+                margin: 0 auto 6% auto;
+                display: block;
+            }
         }
     }
 
