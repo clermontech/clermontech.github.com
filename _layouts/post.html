@@ -10,7 +10,7 @@ layout: layout
         <div itemprop="articleBody" class="post-body">
             {% if content %}{{ content }}{% else %}{{ page.content }}{% endif %}
 
-            {% if page.flickr_id %}
+            {% if page.flickr_set_id %}
             <h2>Photos</h2>
             <ul class="photos-set" data-clearing></ul>
             {% endif %}
@@ -22,13 +22,14 @@ layout: layout
 <script type="text/javascript">
     $('#content h2').anchorify();
 </script>
-{% if page.flickr_id %}
+{% if page.flickr_set_id %}
 <script src="/javascripts/foundation/foundation.js"></script>
 <script src="/javascripts/foundation/foundation.clearing.js"></script>
 <script src="/javascripts/vendor/flickr.js"></script>
 <script>
     $('.photos-set').flickrPhotoStream({
-        id: '{{ page.flickr_id }}',
+        id: '{{ site.flickr_id }}',
+        setId: '{{ page.flickr_set_id }}',
         container: '<li class="photos-set-item" />',
         cssClass: 'photos-set-link'
     }).done(function () {

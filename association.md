@@ -20,5 +20,5 @@ Le bureau de l'association est composé de :
 ## Status
 
 Les status de l'association sont consultables sur le dépôt [GitHub
-clermontech](https://github.com/clermontech/) dans la rubrique
+clermontech](https://github.com/clermontech) dans la rubrique
 [documents](https://github.com/clermontech/documents/blob/master/Statuts_Clermontech.md).

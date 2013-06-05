@@ -4,10 +4,11 @@
  *
  * Usage:
  *
- *     $('.photos').flickrPhotoStream({ id: '12345' });
+ *     $('.photos').flickrPhotoStream({ id: '12345', setId: '67890' });
  *
  *     $('.photos').flickrPhotoStream({
- *         id: '12345',             // Flickr PhotoStream Set ID
+ *         id: '12345',             // Flickr Id
+ *         setId: '67890',          // Flick "Set" Id
  *         container: '<div />',    // wrap the image
  *         cssClass: 'photos-item'  // applied to the image's link
  *     }).done(function () {});
@@ -18,8 +19,10 @@
 
     var flickrPhotoStream = function ($el, options) {
         var url = [
-            'http://api.flickr.com/services/feeds/photos_public.gne?id=',
+            'http://api.flickr.com/services/feeds/photoset.gne?nsid=',
             options.id,
+            '&set=',
+            options.setId,
             '&format=json&jsoncallback=?'
         ].join('');
 
