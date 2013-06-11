@@ -2,6 +2,8 @@
  * William DURAND <william.durand1@gmail.com>
  * MIT Licensed
  *
+ * GistID: 5705453
+ *
  * Usage:
  *
  *     $('.photos').flickrPhotoStream({ id: '12345', setId: '67890' });
@@ -26,9 +28,7 @@
             '&format=json&jsoncallback=?'
         ].join('');
 
-        var deferred = new $.Deferred();
-
-        $.getJSON(url).done(function (data) {
+        return $.getJSON(url).done(function (data) {
             $.each(data.items, function (index, item) {
                 var link = item.media.m.replace('_m', '_z');
 
@@ -45,11 +45,7 @@
                         '"></a>'
                     ].join(''));
             });
-        }).always(function () {
-            deferred.resolve();
         });
-
-        return deferred.promise();
     };
 
     $.fn.flickrPhotoStream = function (options) {
