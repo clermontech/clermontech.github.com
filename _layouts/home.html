@@ -1,5 +1,10 @@
 ---
 layout: layout
+sponsors:
+    - { url: "http://www.comsource.fr/", img: "comsource.jpg", alt: "ComSource" }
+    - { url: "http://www.itnetwork.fr/", img: "itn.png", alt: "ITNetwork" }
+    - { url: "http://www.github.com/", img: "github.png", alt: "GitHub" }
+    - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
 ---
 <div class="row">
     <div class="container large-12 columns">
@@ -28,21 +33,13 @@ layout: layout
         <section class="sponsors">
             <h2>Nos Sponsors &lt;3</h2>
             <ul class="sponsors-list">
+                {% for sponsor in page.sponsors %}
                 <li class="sponsor">
-                    <a href="http://comsource.fr/">
-                        <img src="/images/sponsors/comsource.jpg" alt="ComSource" class="sponsor-logo" />
+                    <a href="{{ sponsor.url }}">
+                        <img src="/images/sponsors/{{ sponsor.img }}" alt="{{ sponsor.alt }}" class="sponsor-logo" />
                     </a>
                 </li>
-                <li class="sponsor">
-                    <a href="http://www.github.com/">
-                        <img src="/images/sponsors/github.png" alt="GitHub" class="sponsor-logo" />
-                    </a>
-                </li>
-                <li class="sponsor">
-                    <a href="http://www.wisembly.com/">
-                        <img src="/images/sponsors/wisembly.png" alt="Wisembly" class="sponsor-logo" />
-                    </a>
-                </li>
+                {% endfor %}
             </ul>
         </section>
     </div>
