@@ -12,7 +12,13 @@ layout: layout
 
             {% if page.flickr_set_id %}
             <h2>Photos</h2>
-            <ul class="photos-set" data-clearing></ul>
+            <div>
+                <ul class="photos-set" data-clearing></ul>
+            </div>
+            <p>
+                Retrouvez toutes <a href="http://www.flickr.com/photos/{{ site.flickr_id }}/sets/{{ page.flickr_set_id }}">
+                les photos de cet événement sur sa page Flickr</a>.
+            </p>
             {% endif %}
         </div>
     </article>
