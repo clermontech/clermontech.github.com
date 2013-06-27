@@ -10,7 +10,7 @@ slides_url:
 session_url: /api-hours/api-hour-2.html
 session_name: Clermont'ech API Hour &#35;2
 
-video:
+video: _FrPYYjkjN8
 ---
 
 Devoxx France.... C'est quoi ? Y aller ... Pourquoi ? Comment  ? Y voit-on des
