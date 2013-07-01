@@ -11,7 +11,7 @@ slides_url: http://matthieu.huguet.eu/talks/apihour-private-cloud/
 session_url: /api-hours/api-hour-2.html
 session_name: Clermont'ech API Hour &#35;2
 
-video:
+video: myQbzD9UPic
 ---
 
 Petit retour d'expérience suite à la migration d'une infrastructure (web /
