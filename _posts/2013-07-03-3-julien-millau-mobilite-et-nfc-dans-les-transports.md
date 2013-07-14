@@ -6,7 +6,7 @@ title: Mobilité et NFC dans les Transports
 author: Julien Millau
 author_url: https://twitter.com/devnied
 
-slides_url: https://rawgithub.com/devnied/NFC-slides-Clermontech/master/template.html
+slides_url: http://devnied.github.io/NFC-slides-Clermontech/
 
 session_url: /api-hours/api-hour-3.html
 session_name: Clermont'ech API Hour &#35;3
