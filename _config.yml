@@ -1,3 +1,4 @@
-flickr_id: 96523012@N07
-
 permalink: none
+exclude:   [ README.md, Gemfile ]
+
+flickr_id: 96523012@N07

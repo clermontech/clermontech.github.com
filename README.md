@@ -1,6 +1,9 @@
 Clermont'ech
 ============
 
+[![Build
+Status](https://travis-ci.org/clermontech/clermontech.github.com.png?branch=master)](https://travis-ci.org/clermontech/clermontech.github.com)
+
 ## Installation
 
 Install [Compass](http://compass-style.org/), and [Zurb
