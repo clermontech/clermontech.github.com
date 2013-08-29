@@ -65,4 +65,3 @@ de l'ensemble des membres des l'association.
 
 En dernier lieu, le président de Clermont'ech aura le pouvoir de trancher une
 décision.
-
