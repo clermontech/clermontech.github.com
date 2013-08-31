@@ -90,6 +90,12 @@ $portrait: "only screen and (orientation: portrait)";
 
 
         .talks {
+            .talk-info {
+                height: 70px;
+                line-height: 35px;
+                padding-top: 2px;
+            }
+
             .talk-speaker-image {
                 display: block;
             }

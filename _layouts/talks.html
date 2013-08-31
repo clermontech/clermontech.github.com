@@ -16,10 +16,9 @@ paginate: 5
         <img src="/images/speaker-images/default.jpg" class="talk-speaker-image" />
         {% endif %}
         <div class="talk-info">
-            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-            <span class="talk-info-session-and-speaker">
-                <br><a href="{{ post.session_url }}">API Hour {{ post.session_short_name }}</a> &mdash; <em>{{ post.author }}</em>
-            </span>
+            <a class="talk-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br>
+            <a href="{{ post.session_url }}">API Hour {{ post.session_short_name }}</a> &mdash; <em>{{ post.author }}</em>
         </div>
     </li>
     {% if forloop.last %}

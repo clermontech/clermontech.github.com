@@ -137,9 +137,8 @@ header {
             list-style-type: none;
         }
 
-        .talk-info {
-            height: 70px;
-            line-height: 35px;
+        .talk-title {
+            text-transform: uppercase;
         }
 
         .talk-speaker-image {
@@ -148,7 +147,7 @@ header {
             margin-right: 15px;
             width: 70px;
             height: 70px;
-            border-radius: 35px;
+            @include border-radius(35px)
         }
     }
 }
