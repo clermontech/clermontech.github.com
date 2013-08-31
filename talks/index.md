@@ -1,8 +1,9 @@
 ---
-layout: category
+layout: talks
 title: Talks
 category: talks
 paginate: 10
 ---
 
-Les talks donnés au cours de nos events :
+Cette page est notre **Hall of Fame** et répertorie tous les talks donnés au
+cours de nos événements.

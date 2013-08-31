@@ -9,6 +9,7 @@ slides_url:
 
 session_url: /api-hours/api-hour-2.html
 session_name: Clermont'ech API Hour &#35;2
+session_short_name: "&#35;2"
 
 video: _FrPYYjkjN8
 ---

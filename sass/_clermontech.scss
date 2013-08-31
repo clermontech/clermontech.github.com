@@ -130,6 +130,27 @@ header {
             width: 100px;
         }
     }
+
+    .talks {
+        .talk {
+            padding: 15px 0 15px 0;
+            list-style-type: none;
+        }
+
+        .talk-info {
+            height: 70px;
+            line-height: 35px;
+        }
+
+        .talk-speaker-image {
+            display: none;
+            float: left;
+            margin-right: 15px;
+            width: 70px;
+            height: 70px;
+            border-radius: 35px;
+        }
+    }
 }
 
 #footer-wrapper {

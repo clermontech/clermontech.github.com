@@ -5,11 +5,13 @@ title: Hello Clermont'ech
 
 author: Julien Maupetit
 author_url: https://twitter.com/julienmaupetit
+author_image: julienmaupetit.jpg
 
 slides_url:
 
 session_url: /api-hours/api-hour-1.html
 session_name: Clermont'ech API Hour &#35;1
+session_short_name: "&#35;1"
 
 video: UKG8EaHwY5E
 ---

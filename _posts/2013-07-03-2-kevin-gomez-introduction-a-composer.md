@@ -5,11 +5,13 @@ title: Introduction à Composer
 
 author: Kévin Gomez
 author_url: https://twitter.com/KPhoen
+author_image: kphoen.jpeg
 
 slides_url: http://k-phoen.github.io/slides-composer/
 
 session_url: /api-hours/api-hour-3.html
 session_name: Clermont'ech API Hour &#35;3
+session_short_name: "&#35;3"
 
 video:
 ---

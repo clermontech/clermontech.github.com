@@ -5740,8 +5740,27 @@ header > nav > ul li {
 #content .sponsors .sponsor-logo {
   width: 100px;
 }
-
 /* line 135, ../sass/_clermontech.scss */
+#content .talks .talk {
+  padding: 15px 0 15px 0;
+  list-style-type: none;
+}
+/* line 140, ../sass/_clermontech.scss */
+#content .talks .talk-info {
+  height: 70px;
+  line-height: 35px;
+}
+/* line 145, ../sass/_clermontech.scss */
+#content .talks .talk-speaker-image {
+  display: none;
+  float: left;
+  margin-right: 15px;
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
+
+/* line 156, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -5752,7 +5771,7 @@ header > nav > ul li {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 143, ../sass/_clermontech.scss */
+/* line 164, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -5771,7 +5790,7 @@ header > nav > ul li {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 146, ../sass/_clermontech.scss */
+/* line 167, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -5779,16 +5798,16 @@ header > nav > ul li {
   width: 50%;
   float: left;
 }
-/* line 149, ../sass/_clermontech.scss */
+/* line 170, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 153, ../sass/_clermontech.scss */
+/* line 174, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 158, ../sass/_clermontech.scss */
+/* line 179, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
@@ -5928,12 +5947,16 @@ header > nav > ul li {
     display: inline-block;
     font-size: 0.75em;
   }
+  /* line 93, ../sass/app.scss */
+  #content .talks .talk-speaker-image {
+    display: block;
+  }
 
-  /* line 92, ../sass/app.scss */
+  /* line 99, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 30px;
   }
-  /* line 96, ../sass/app.scss */
+  /* line 103, ../sass/app.scss */
   #footer-wrapper footer .footer-column {
     position: relative;
     padding-left: 0.9375em;
@@ -5941,7 +5964,7 @@ header > nav > ul li {
     width: 33.33333%;
     float: left;
   }
-  /* line 99, ../sass/app.scss */
+  /* line 106, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     display: block;
     z-index: 2;
@@ -5951,21 +5974,21 @@ header > nav > ul li {
   }
 }
 @media only screen and (min-width: 900px) {
-  /* line 112, ../sass/app.scss */
+  /* line 119, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 120px;
   }
-  /* line 117, ../sass/app.scss */
+  /* line 124, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 95%;
   }
 }
 @media only screen and (min-width: 1020px) {
-  /* line 126, ../sass/app.scss */
+  /* line 133, ../sass/app.scss */
   #footer-wrapper {
     margin-top: 150px;
   }
-  /* line 131, ../sass/app.scss */
+  /* line 138, ../sass/app.scss */
   #footer-wrapper footer .footer-column img.mascotte {
     width: 100%;
   }

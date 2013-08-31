@@ -1,0 +1,28 @@
+---
+layout: default
+paginate: 5
+---
+
+{{content}}
+
+{% for post in site.categories.talks %}
+    {% if forloop.first %}
+    <ul class="talks">
+    {% endif %}
+    <li class="talk">
+        {% if post.author_image %}
+        <img src="/images/speaker-images/{{ post.author_image }}" class="talk-speaker-image"/>
+        {% else %}
+        <img src="/images/speaker-images/default.jpg" class="talk-speaker-image" />
+        {% endif %}
+        <div class="talk-info">
+            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <span class="talk-info-session-and-speaker">
+                <br><a href="{{ post.session_url }}">API Hour {{ post.session_short_name }}</a> &mdash; <em>{{ post.author }}</em>
+            </span>
+        </div>
+    </li>
+    {% if forloop.last %}
+    </ul>
+    {% endif %}
+{% endfor %}

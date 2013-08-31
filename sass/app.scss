@@ -87,6 +87,13 @@ $portrait: "only screen and (orientation: portrait)";
             display: inline-block;
             font-size: emCalc(12px);
         }
+
+
+        .talks {
+            .talk-speaker-image {
+                display: block;
+            }
+        }
     }
 
     #footer-wrapper {
