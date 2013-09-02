@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-3.html
 session_name: Clermont'ech API Hour &#35;3
 session_short_name: "&#35;3"
 
-video:
+video: yeSuJUt0IIw
 ---
 
 Introduction à l'ergonomie par l'exemple.
