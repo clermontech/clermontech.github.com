@@ -8,6 +8,7 @@ session_short_name: "&#35;4"
 
 author: Maxime Escourbiac
 author_url: https://twitter.com/Fisjkars
+author_image: maximeescourbiac.jpg
 
 slides_url:
 video:
