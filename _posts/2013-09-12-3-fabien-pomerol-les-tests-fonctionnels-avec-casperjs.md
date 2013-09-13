@@ -8,6 +8,7 @@ session_short_name: "&#35;4"
 
 author: Fabien Pomerol
 author_url: https://twitter.com/FabienPomerol
+author_image: fabienpomerol.jpg
 
 slides_url:
 video:
