@@ -10,7 +10,7 @@ author: Fabien Pomerol
 author_url: https://twitter.com/FabienPomerol
 author_image: fabienpomerol.jpg
 
-slides_url:
+slides_url: http://www.slideshare.net/FabienPOMEROL/casper-js
 video:
 
 title: "Les Tests Fonctionnels Avec CasperJS"
