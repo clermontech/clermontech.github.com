@@ -9,7 +9,7 @@ session_short_name: "&#35;4"
 author: Alexandre Rault
 author_url:
 
-slides_url:
+slides_url: http://slid.es/rault_alexandre/arduino-presentation-francais
 video:
 
 title: "Arduino, Un Système Souple Et Facile A Prendre En Main"
