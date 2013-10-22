@@ -11,7 +11,7 @@ author_url: https://twitter.com/Fisjkars
 author_image: maximeescourbiac.jpg
 
 slides_url: http://fisjkars.github.io/Scrum-Backlog/
-video:
+video: wp5A6hdvTTk
 
 title: "SCRUM - Utilisation De Bacs Pour Le Backlog"
 ---
