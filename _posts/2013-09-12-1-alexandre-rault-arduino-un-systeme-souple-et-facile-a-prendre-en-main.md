@@ -10,7 +10,7 @@ author: Alexandre Rault
 author_url:
 
 slides_url: http://slid.es/rault_alexandre/arduino-presentation-francais
-video:
+video: suA4DZS0aCk
 
 title: "Arduino, Un Système Souple Et Facile A Prendre En Main"
 ---
