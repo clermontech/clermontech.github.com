@@ -11,7 +11,7 @@ author_url: https://twitter.com/danielpetisme
 author_image: danielpetisme.png
 
 slides_url: http://howimetdevopsclermontech-danielpetisme.rhcloud.com/
-video:
+video: 3HHtJI1PEKY
 
 title: "How I Met DevOps?"
 ---
