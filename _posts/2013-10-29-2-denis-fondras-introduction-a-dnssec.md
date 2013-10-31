@@ -10,7 +10,7 @@ author: Denis Fondras
 author_url:
 author_image:
 
-slides_url:
+slides_url: https://speakerdeck.com/liopen/introduction-a-dnssec
 video:
 
 title: "Introduction à DNSSEC"
