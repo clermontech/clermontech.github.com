@@ -60,7 +60,7 @@ mailing list afin de discuter de la proposition.
 A l'issue de la discussion, la proposition de talk est soumise au vote exclusif des
 membres de l'association Clermont'ech.
 
-Un talk sera sélectionné à condition qu'il recueuille une majorité des suffrages
+Un talk sera sélectionné à condition qu'il recueille une majorité des suffrages
 de l'ensemble des membres des l'association.
 
 En dernier lieu, le président de Clermont'ech aura le pouvoir de trancher une
