@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://speakerdeck.com/liopen/introduction-a-dnssec
-video:
+video: 2NAopq_t3Ww
 
 title: "Introduction à DNSSEC"
 ---

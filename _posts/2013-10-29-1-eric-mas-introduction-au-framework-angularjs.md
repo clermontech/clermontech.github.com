@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://speakerdeck.com/ricoux/introduction-a-angularjs-clermontech
-video:
+video: KEwTPnevQmU
 
 title: "Introduction Au Framework AngularJS"
 ---

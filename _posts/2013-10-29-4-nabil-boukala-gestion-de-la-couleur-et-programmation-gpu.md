@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://speakerdeck.com/boukala/intro-gestion-de-la-couleur-clermontech
-video:
+video: 3rAadZXJH-w
 
 title: "Gestion De La Couleur Et Programmation GPU"
 ---
