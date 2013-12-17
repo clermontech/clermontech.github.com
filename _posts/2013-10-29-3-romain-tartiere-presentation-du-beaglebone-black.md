@@ -11,7 +11,7 @@ author_url: http://romain.blogreen.org/
 author_image:
 
 slides_url: http://romain.blogreen.org/files/beaglebone-black.pdf
-video:
+video: PvsWDsJFgFg
 
 title: "Présentation du BeagleBone Black"
 ---
