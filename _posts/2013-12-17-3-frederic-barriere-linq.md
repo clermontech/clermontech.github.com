@@ -1,0 +1,21 @@
+---
+layout: talk
+categories: [ talks, api-hour-6 ]
+
+session_url: /api-hours/api-hour-6.html
+session_name: Clermont'ech API Hour &#35;6
+session_short_name: "&#35;6"
+
+author: Frédéric Barrière
+author_url:
+author_image:
+
+slides_url:
+video:
+
+title: "LINQ"
+---
+
+Présentation de la beauté et de la puissance de LINQ, le langage de requêtes
+intégré de la plateforme .NET : providers, syntaxe, lambda expressions, méthodes
+d’extension, génériques, types anonymes, exécution déférée, et précautions.
