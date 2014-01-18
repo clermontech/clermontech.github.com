@@ -7059,16 +7059,12 @@ header {
   background: none !important;
   border: 0 !important;
 }
-/* line 24, ../sass/_clermontech.scss */
-header #logo {
-  display: none;
-}
-/* line 29, ../sass/_clermontech.scss */
+/* line 25, ../sass/_clermontech.scss */
 header > nav > ul {
   list-style-type: none;
   padding-top: 1.125em;
 }
-/* line 33, ../sass/_clermontech.scss */
+/* line 29, ../sass/_clermontech.scss */
 header > nav > ul li {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -7076,16 +7072,16 @@ header > nav > ul li {
   text-align: center;
   margin: 2% 0 2% 0;
 }
-/* line 43, ../sass/_clermontech.scss */
+/* line 39, ../sass/_clermontech.scss */
 header > hgroup {
   display: none;
 }
 
-/* line 49, ../sass/_clermontech.scss */
+/* line 45, ../sass/_clermontech.scss */
 #content p {
   text-align: justify;
 }
-/* line 53, ../sass/_clermontech.scss */
+/* line 49, ../sass/_clermontech.scss */
 #content article.post {
   position: relative;
   padding-left: 0.9375em;
@@ -7093,19 +7089,19 @@ header > hgroup {
   width: 100%;
   float: left;
 }
-/* line 56, ../sass/_clermontech.scss */
+/* line 52, ../sass/_clermontech.scss */
 #content article.post img {
   margin: auto;
   display: block;
 }
-/* line 61, ../sass/_clermontech.scss */
+/* line 57, ../sass/_clermontech.scss */
 #content article.post .photos-set {
   width: 100%;
   text-align: center;
   list-style-type: none;
   margin-bottom: 3%;
 }
-/* line 67, ../sass/_clermontech.scss */
+/* line 63, ../sass/_clermontech.scss */
 #content article.post .photos-set .photos-set-item {
   line-height: 0;
   display: inline-block;
@@ -7121,17 +7117,17 @@ header > hgroup {
   -webkit-box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
   box-shadow: 0 0 6px 1px rgba(43, 166, 203, 0.5);
 }
-/* line 77, ../sass/_clermontech.scss */
+/* line 73, ../sass/_clermontech.scss */
 #content article.post .clearing-container .photos-set-item {
   width: auto;
   margin: auto;
   vertical-align: auto;
 }
-/* line 85, ../sass/_clermontech.scss */
+/* line 81, ../sass/_clermontech.scss */
 #content article.talk {
   margin: 0 4% 0 4%;
 }
-/* line 88, ../sass/_clermontech.scss */
+/* line 84, ../sass/_clermontech.scss */
 #content article.talk .talk-header {
   position: relative;
   padding-left: 0.9375em;
@@ -7139,7 +7135,7 @@ header > hgroup {
   width: 100%;
   float: left;
 }
-/* line 92, ../sass/_clermontech.scss */
+/* line 88, ../sass/_clermontech.scss */
 #content article.talk .talk-metadata {
   position: relative;
   padding-left: 0.9375em;
@@ -7147,7 +7143,7 @@ header > hgroup {
   width: 100%;
   float: left;
 }
-/* line 96, ../sass/_clermontech.scss */
+/* line 92, ../sass/_clermontech.scss */
 #content article.talk .talk-content {
   position: relative;
   padding-left: 0.9375em;
@@ -7155,7 +7151,7 @@ header > hgroup {
   width: 100%;
   float: left;
 }
-/* line 99, ../sass/_clermontech.scss */
+/* line 95, ../sass/_clermontech.scss */
 #content article.talk .talk-content .video {
   position: relative;
   padding-top: 1.5625em;
@@ -7183,46 +7179,46 @@ header > hgroup {
   width: 100%;
   height: 100%;
 }
-/* line 103, ../sass/_clermontech.scss */
+/* line 99, ../sass/_clermontech.scss */
 #content article.talk .talk-content .no-video {
   margin: 0 auto 6% auto;
   display: block;
 }
-/* line 110, ../sass/_clermontech.scss */
+/* line 106, ../sass/_clermontech.scss */
 #content .anchor-link {
   padding: 2px;
   color: #BDBDBD;
   font-size: 60%;
   text-decoration: none;
 }
-/* line 116, ../sass/_clermontech.scss */
+/* line 112, ../sass/_clermontech.scss */
 #content .anchor-link:hover {
   color: #222222;
 }
-/* line 122, ../sass/_clermontech.scss */
+/* line 118, ../sass/_clermontech.scss */
 #content .sponsors .sponsors-list {
   list-style-type: none;
   text-align: center;
 }
-/* line 127, ../sass/_clermontech.scss */
+/* line 123, ../sass/_clermontech.scss */
 #content .sponsors .sponsor {
   display: inline-block;
   margin: 10px;
 }
-/* line 132, ../sass/_clermontech.scss */
+/* line 128, ../sass/_clermontech.scss */
 #content .sponsors .sponsor-logo {
   width: 100px;
 }
-/* line 138, ../sass/_clermontech.scss */
+/* line 134, ../sass/_clermontech.scss */
 #content .talks .talk {
   padding: 15px 0 15px 0;
   list-style-type: none;
 }
-/* line 143, ../sass/_clermontech.scss */
+/* line 139, ../sass/_clermontech.scss */
 #content .talks .talk-title {
   text-transform: uppercase;
 }
-/* line 147, ../sass/_clermontech.scss */
+/* line 143, ../sass/_clermontech.scss */
 #content .talks .talk-speaker-image {
   display: none;
   float: left;
@@ -7236,7 +7232,7 @@ header > hgroup {
   border-radius: 35px;
 }
 
-/* line 158, ../sass/_clermontech.scss */
+/* line 154, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -7247,7 +7243,7 @@ header > hgroup {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 166, ../sass/_clermontech.scss */
+/* line 162, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -7266,7 +7262,7 @@ header > hgroup {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 169, ../sass/_clermontech.scss */
+/* line 165, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -7274,16 +7270,16 @@ header > hgroup {
   width: 50%;
   float: left;
 }
-/* line 172, ../sass/_clermontech.scss */
+/* line 168, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 176, ../sass/_clermontech.scss */
+/* line 172, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 181, ../sass/_clermontech.scss */
+/* line 177, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
