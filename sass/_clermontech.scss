@@ -15,10 +15,6 @@ h1, h2 {
     }
 }
 
-body > header {
-    padding: 0 4% 0 4%;
-}
-
 /* Layout */
 header {
     // Reset header styles
@@ -31,14 +27,21 @@ header {
 
     & > nav {
         & > ul {
-            @include inline-list;
+            list-style-type: none;
+            padding-top: ($hr-margin - em-calc(2));
 
             li {
                 font-family: $header-font-family;
                 font-weight: bold;
                 text-transform: uppercase;
+                text-align: center;
+                margin: 2% 0 2% 0;
             }
         }
+    }
+
+    & > hgroup {
+        display: none;
     }
 }
 

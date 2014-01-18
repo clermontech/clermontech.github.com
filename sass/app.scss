@@ -40,6 +40,10 @@ $portrait: "only screen and (orientation: portrait)";
                 @include border-radius(50px);
             }
         }
+
+        & > hgroup {
+            display: block;
+        }
     }
 
     body > header {
