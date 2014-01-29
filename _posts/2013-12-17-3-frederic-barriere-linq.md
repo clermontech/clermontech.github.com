@@ -8,7 +8,7 @@ session_short_name: "&#35;6"
 
 author: Frédéric Barrière
 author_url: https://twitter.com/fredbarriere
-author_image:
+author_image: fredbarriere.png
 
 slides_url:
 video:
