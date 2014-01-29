@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;6
 session_short_name: "&#35;6"
 
 author: Frédéric Barrière
-author_url:
+author_url: https://twitter.com/fredbarriere
 author_image:
 
 slides_url:
