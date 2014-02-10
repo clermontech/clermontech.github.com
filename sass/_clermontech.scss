@@ -44,16 +44,11 @@ header {
 #content {
     p {
         text-align: justify;
+        overflow-wrap: break-word;
     }
 
     article.post {
         @include grid-column(12);
-
-        .post-body {
-            a {
-                text-overflow: ellipsis;
-            }
-        }
 
         img {
             margin: auto;
