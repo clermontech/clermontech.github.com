@@ -49,6 +49,12 @@ header {
     article.post {
         @include grid-column(12);
 
+        .post-body {
+            a {
+                text-overflow: ellipsis;
+            }
+        }
+
         img {
             margin: auto;
             display: block;
