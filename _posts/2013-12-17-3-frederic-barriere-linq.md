@@ -11,7 +11,7 @@ author_url: https://twitter.com/fredbarriere
 author_image: fredbarriere.png
 
 slides_url:
-video:
+video: Ho22GPA1QO0
 
 title: "LINQ"
 ---

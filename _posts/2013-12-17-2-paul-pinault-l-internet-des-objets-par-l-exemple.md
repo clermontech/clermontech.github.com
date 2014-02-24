@@ -11,7 +11,7 @@ author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
 slides_url: http://slid.es/disk91/internetofthings
-video:
+video: G7AVs0dPsE0
 
 title: "L’Internet Des Objets Par L’Exemple"
 ---
