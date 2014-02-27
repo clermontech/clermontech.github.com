@@ -10,7 +10,7 @@ author: Pierre Schweitzer
 author_url: https://twitter.com/HeisSpiter
 author_image: schweitzer.jpeg
 
-slides_url:
+slides_url: http://svn.reactos.org/svn/press-media/trunk/Events/2014%20-%20Clermont%27ech/Presentation/reactos_clermontech_2014.pdf?view=co
 video:
 
 title: "ReactOS"
