@@ -4,6 +4,7 @@ categories: [ talks, api-hour-2 ]
 title: Back From Devoxx France 2013
 
 author: Pierre Colomb et Olivier Coupelon
+author_image: pierre-et-olivier.png
 
 slides_url:
 

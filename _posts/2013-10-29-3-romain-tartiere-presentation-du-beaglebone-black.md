@@ -8,7 +8,7 @@ session_short_name: "&#35;5"
 
 author: Romain Tartière
 author_url: http://romain.blogreen.org/
-author_image:
+author_image: tartiere.jpg
 
 slides_url: http://romain.blogreen.org/files/beaglebone-black.pdf
 video: PvsWDsJFgFg

@@ -7,7 +7,8 @@ session_name: Clermont'ech API Hour &#35;4
 session_short_name: "&#35;4"
 
 author: Alexandre Rault
-author_url:
+author_url: https://twitter.com/alex_calibur
+author_image: rault.jpg
 
 slides_url: http://slid.es/rault_alexandre/arduino-presentation-francais
 video: suA4DZS0aCk

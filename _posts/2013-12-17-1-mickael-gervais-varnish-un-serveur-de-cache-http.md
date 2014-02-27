@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;6
 session_short_name: "&#35;6"
 
 author: Mickaël Gervais
-author_url:
+author_url: https://twitter.com/mickaelgervais
 author_image:
 
 slides_url:
