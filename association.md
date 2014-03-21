@@ -17,8 +17,8 @@ Le bureau de l'association est composé de :
 * Secrétaire : [Manuel Raynaud](http://www.manuel-raynaud.com)
 * Secrétaire suppléant : [Jean-Philippe Serafin](http://jeanphix.me/)
 
-## Status
+## Statuts
 
-Les status de l'association sont consultables sur le dépôt [GitHub
+Les statuts de l'association sont consultables sur le dépôt [GitHub
 clermontech](https://github.com/clermontech) dans la rubrique
 [documents](https://github.com/clermontech/documents/blob/master/Statuts_Clermontech.md).
