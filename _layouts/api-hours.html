@@ -1,0 +1,18 @@
+---
+layout: default
+paginate: 5
+---
+
+{{content}}
+
+{% for event in site.categories.api-hours %}
+{% if forloop.first %}
+<ul class="api-hours">
+{% endif %}
+    <li class="api-hour">
+        <a href="{{ event.url }}" title="{{ event.title }}">{{ event.title }}</a>
+    </li>
+{% if forloop.last %}
+</ul>
+{% endif %}
+{% endfor %}
