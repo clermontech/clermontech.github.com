@@ -11,7 +11,7 @@ author_url: https://twitter.com/sroucheray
 author_image: sroucheray.jpeg
 
 slides_url: http://sroucheray.github.io/JavaScript-Past-Present-Futur/
-video:
+video: jc0rudfnOT0
 
 title: "JavaScript, Past, Present, Future"
 ---

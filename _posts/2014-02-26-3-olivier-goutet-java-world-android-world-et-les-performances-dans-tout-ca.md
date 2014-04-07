@@ -11,7 +11,7 @@ author_url: https://twitter.com/ol_v_er
 author_image: goutet.jpg
 
 slides_url: https://speakerdeck.com/ol_v_er/clermontech-api-hour-7-java-world-android-world-et-les-performances-dans-tout-ca
-video:
+video: mbjP_iLFZ8M
 
 title: "Java World, Android World, Et Les Performances Dans Tout Ça ?"
 ---

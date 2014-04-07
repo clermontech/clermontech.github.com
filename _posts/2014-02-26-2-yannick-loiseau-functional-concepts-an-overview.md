@@ -11,7 +11,7 @@ author_url: https://twitter.com/yannick_loiseau
 author_image: loiseau.jpg
 
 slides_url: http://yloiseau.net/articles/functional/
-video:
+video: 2UmE639QJow
 
 title: "Functional Concepts, An Overview"
 ---
