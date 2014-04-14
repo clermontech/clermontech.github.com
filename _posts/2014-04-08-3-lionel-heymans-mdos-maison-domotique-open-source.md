@@ -8,7 +8,7 @@ session_short_name: "&#35;8"
 
 author: Lionel Heymans
 author_url:
-author_image:
+author_image: heymans.jpeg
 
 slides_url:
 video:
