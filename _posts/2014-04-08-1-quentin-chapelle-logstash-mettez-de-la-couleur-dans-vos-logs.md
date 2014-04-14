@@ -10,7 +10,7 @@ author: Quentin Chapelle
 author_url: https://twitter.com/quentinchap
 author_image: quentinchap.jpeg
 
-slides_url:
+slides_url: http://slides.com/quentinchapelle/logstash
 video:
 
 title: "Logstash, Mettez De La Couleur Dans Vos Logs"
