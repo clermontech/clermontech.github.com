@@ -10,7 +10,7 @@ author: Lionel Heymans
 author_url:
 author_image: heymans.jpeg
 
-slides_url:
+slides_url: http://superli.free.fr/clermontech/
 video:
 
 title: "MDos (Maison Domotique Open Source)"
