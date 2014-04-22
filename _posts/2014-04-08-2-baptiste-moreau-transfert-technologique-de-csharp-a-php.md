@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;8
 session_short_name: "&#35;8"
 
 author: Baptiste Moreau
-author_url:
-author_image:
+author_url: https://twitter.com/nours312
+author_image: moreau.png
 
 slides_url: http://fr.slideshare.net/BaptisteMOREAU/astro-clermont-clermontech
 video:
