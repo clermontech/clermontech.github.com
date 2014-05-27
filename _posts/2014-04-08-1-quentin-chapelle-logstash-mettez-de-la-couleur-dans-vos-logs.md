@@ -11,7 +11,7 @@ author_url: https://twitter.com/quentinchap
 author_image: quentinchap.jpeg
 
 slides_url: http://slides.com/quentinchapelle/logstash
-video:
+video: eRAZ7Rm9QhM
 
 title: "Logstash, Mettez De La Couleur Dans Vos Logs"
 ---

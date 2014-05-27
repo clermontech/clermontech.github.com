@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://speakerdeck.com/kenji/from-java-to-objective-c
-video:
+video: JAN1tvqN_4g
 
 title: "From Java To Objective-C"
 ---

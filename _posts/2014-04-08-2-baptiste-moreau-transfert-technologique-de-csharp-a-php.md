@@ -11,7 +11,7 @@ author_url: https://twitter.com/nours312
 author_image: moreau.png
 
 slides_url: http://fr.slideshare.net/BaptisteMOREAU/astro-clermont-clermontech
-video:
+video: vmnjIc90wsw
 
 title: "Transfert Technologique D'Un C# 15 Ans D'Age A Un PHP Flambant Neuf, Suivant Un Cahier Des Charges, Chargé !"
 ---
