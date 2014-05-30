@@ -10,7 +10,7 @@ session_url: /api-hours/api-hour-9.html
 session_name: Clermont'ech API Hour &#35;9
 session_short_name: "&#35;9"
 
-slides_url:
+slides_url: http://manuel-raynaud.com/slides/thelia-apihour9/
 video:
 
 title: "Thelia, La Solution E-Commerce Libre"
