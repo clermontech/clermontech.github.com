@@ -10,7 +10,7 @@ author: Paul Pinault
 author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
-slides_url:
+slides_url: http://slides.com/disk91/mqtt#/
 video:
 
 title: "MQTT : Protocole De Communication Pour Le M2M"
