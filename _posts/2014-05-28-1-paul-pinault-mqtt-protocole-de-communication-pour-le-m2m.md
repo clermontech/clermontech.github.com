@@ -11,7 +11,7 @@ author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
 slides_url: http://slides.com/disk91/mqtt#/
-video:
+video: OaqIuIz2sK4
 
 title: "MQTT : Protocole De Communication Pour Le M2M"
 ---

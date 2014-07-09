@@ -11,7 +11,7 @@ author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
 author_image:
 
 slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/ZKP.pdf
-video:
+video: NdHcBhILK4E
 
 title: "Comment Expliquer Les Preuves A Divulgation Nulle De Connaissance A Vos Enfants ?"
 ---

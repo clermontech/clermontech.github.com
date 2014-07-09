@@ -11,7 +11,7 @@ session_name: Clermont'ech API Hour &#35;9
 session_short_name: "&#35;9"
 
 slides_url: http://manuel-raynaud.com/slides/thelia-apihour9/
-video:
+video: aa315uM4PyU
 
 title: "Thelia, La Solution E-Commerce Libre"
 ---

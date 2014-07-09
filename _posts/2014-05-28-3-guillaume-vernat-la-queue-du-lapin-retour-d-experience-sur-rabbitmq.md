@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: mPV4jiTWeBM
 
 title: "La Queue Du Lapin, Retour D'Expérience Sur RabbitMQ"
 ---
