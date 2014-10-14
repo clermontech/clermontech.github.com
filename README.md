@@ -12,6 +12,20 @@ Status](https://travis-ci.org/clermontech/clermontech.github.com.png?branch=mast
 
 Browse [`http://localhost:4000`](http://localhost:4000).
 
+### With Docker
+
+Install [Docker](https://www.docker.com/)
+
+Then build the image
+
+    $ docker build --rm -t jekyll-clermontech .
+
+Now run your image:
+
+    $ docker run --rm -ti -p 4000:4000 -v $PWD:/srv jekyll-clermontech exec jekyll serve
+
+Browse [`http://localhost:4000`](http://localhost:4000).
+
 
 ## The Rules
 
