@@ -11,7 +11,7 @@ author_url: https://twitter.com/__etienne
 author_image: roudeix.png
 
 slides_url: http://github.roudeix.net/talks-eventProgramming/
-video:
+video: QykLgDvra2Y
 
 title: "La Programmation Evénementielle Au Service De La Modularité"
 ---

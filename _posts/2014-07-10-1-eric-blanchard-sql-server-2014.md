@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: 8tLLVI5VsBQ
 
 title: "SQL Server 2014, Introduction Sur Les Possibilités De Disponibilité Et De Réplication Des Données"
 ---

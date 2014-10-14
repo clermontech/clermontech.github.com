@@ -11,7 +11,7 @@ author_url: https://twitter.com/danielpetisme
 author_image: danielpetisme.png
 
 slides_url: http://danielpetisme.github.io/devoxx-2014-feedback-slides/
-video:
+video: QrTNCxK-xhQ
 
 title: "Retour De Devoxx France 2014"
 ---
