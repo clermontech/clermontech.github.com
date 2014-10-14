@@ -1,0 +1,18 @@
+---
+layout: default
+paginate: 5
+---
+
+{{content}}
+
+{% for event in site.categories.workshops %}
+{% if forloop.first %}
+<ul class="workshops">
+{% endif %}
+    <li class="workshps">
+        <a href="{{ event.url }}" title="{{ event.title }}">{{ event.title }}</a>
+    </li>
+{% if forloop.last %}
+</ul>
+{% endif %}
+{% endfor %}

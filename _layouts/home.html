@@ -39,6 +39,14 @@ sponsors:
             {% endfor %}
             </ul>
         </section>
+        <section class="workshops">
+            <h2>Workshops</h2>
+            <ul>
+            {% for page in site.categories['workshops'] limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
         <section class="sponsors">
             <h2>Nos Sponsors &lt;3</h2>
             <ul class="sponsors-list">
