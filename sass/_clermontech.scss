@@ -195,3 +195,9 @@ header {
         }
     }
 }
+
+#announcement {
+    display: block;
+
+    @include panel;
+}

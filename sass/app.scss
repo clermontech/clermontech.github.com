@@ -4,6 +4,10 @@
 // Custom Fonts
 @import "fonts";
 
+// Fontawesome
+@import "font-awesome-compass";
+@import "font-awesome";
+
 // Foundation
 @import "foundation";
 
@@ -16,9 +20,9 @@ $medium-screen: emCalc(1280px);
 $large-screen: emCalc(1440px);
 
 $screen: "only screen";
-$small: "only screen and (min-width:"#{$small-screen}")";
-$medium: "only screen and (min-width:"#{$medium-screen}")";
-$large: "only screen and (min-width:"#{$large-screen}")";
+$small: "only screen and (min-width:#{$small-screen})";
+$medium: "only screen and (min-width:#{$medium-screen})";
+$large: "only screen and (min-width:#{$large-screen})";
 $landscape: "only screen and (orientation: landscape)";
 $portrait: "only screen and (orientation: portrait)";
 

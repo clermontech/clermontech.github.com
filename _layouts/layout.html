@@ -58,6 +58,16 @@
     <hr class="sep"/>
 
     <div id="content">
+        {% if site.announcement %}
+        <div class="row">
+            <div class="container large-12 columns">
+                <a id="announcement" href="{{ site.announcement.href }}">
+                    {{ site.announcement.message }}
+                </a>
+            </div>
+        </div>
+        {% endif %}
+
         {{ content }}
     </div>
 
