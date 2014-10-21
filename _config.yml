@@ -8,5 +8,5 @@ redcarpet:
     extensions: ["strikethrough"]
 
 announcement:
-    href: /api-hours/api-hour-11.html
-    message: <i class="fa fa-info-circle"></i> Prochain APIHour le 15 octobre !
+    href: /workshops/workshop-1-git.html
+    message: <i class="fa fa-info-circle"></i> Venez découvrir ou approfondir vos connaissances sur Git, le 15 novembre 2014.
