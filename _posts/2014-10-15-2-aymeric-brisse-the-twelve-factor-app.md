@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;11
 session_short_name: "&#35;11"
 
 author: Aymeric Brisse
-author_url:
-author_image:
+author_url: https://twitter.com/aymericbrisse
+author_image: aymericbrisse.jpeg
 
 slides_url:
 video:
