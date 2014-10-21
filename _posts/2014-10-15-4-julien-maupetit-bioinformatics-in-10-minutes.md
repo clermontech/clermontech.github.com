@@ -10,7 +10,7 @@ author: Julien Maupetit
 author_url: https://twitter.com/julienmaupetit
 author_image: julienmaupetit.jpg
 
-slides_url:
+slides_url: http://yageekblog.maupetit.net/bioinformatics-in-10-minutes/
 video:
 
 title: "Bioinformatics in 10 minutes"
