@@ -30,6 +30,10 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 [![](http://maps.googleapis.com/maps/api/staticmap?center=Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise&size=600x400&sensor=false&markers=color:red|45.759812,3.131341)](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1)
 
+## Inscription
+
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Vendre des billets en ligne</a> <span style="color:#ddd;">à travers</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a></div></div>
+
 ## Programme
 
 ### Accueil café/croissants
