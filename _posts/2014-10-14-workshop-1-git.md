@@ -59,8 +59,8 @@ Série de conférences pour parler de Git IRL.
 
 ## Sponsors
 
-[Gandi](http://www.gandi.net/) est notre partenaire pour vous offrir un atelier
-de qualité.
+[Gandi](http://www.gandi.net/) est notre partenaire le temps d'une journée, pour
+vous offrir un atelier de qualité.
 
 [![](/images/gandi.png)](http://www.gandi.net/)
 
