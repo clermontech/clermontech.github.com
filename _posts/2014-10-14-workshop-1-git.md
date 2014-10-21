@@ -30,10 +30,6 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 [![](http://maps.googleapis.com/maps/api/staticmap?center=Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise&size=600x400&sensor=false&markers=color:red|45.759812,3.131341)](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1)
 
-## Inscription
-
-<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-
 ## Programme
 
 ### Accueil café/croissants
@@ -60,6 +56,10 @@ Prévoir son PC pour participer pleinement.
 ### Slot 2 : Retours d'expériences
 
 Série de conférences pour parler de Git IRL.
+
+## Inscription
+
+<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## Sponsors
 
