@@ -13,7 +13,7 @@ author_image: kphoen.jpeg
 slides_url:
 video:
 
-title: "Hoa\Compiler: Write Your Own SQL Parser"
+title: "Hoa\\Compiler: Write Your Own SQL Parser"
 ---
 
 L'écriture d'un compilateur expliquée à votre maman. Des classes de langages à
