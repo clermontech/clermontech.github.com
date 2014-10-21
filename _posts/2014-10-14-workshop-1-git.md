@@ -62,7 +62,7 @@ Série de conférences pour parler de Git IRL.
 [Gandi](http://www.gandi.net/) est notre partenaire pour vous offrir un atelier
 de qualité.
 
-[![](images/gandi.png)](http://www.gandi.net/)
+[![](/images/gandi.png)](http://www.gandi.net/)
 
 **Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
 [hello@clermontech.org](mailto:hello@clermontech.org).
