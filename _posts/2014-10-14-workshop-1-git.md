@@ -56,3 +56,13 @@ Prévoir son PC pour participer pleinement.
 ### Slot 2 : Retours d'expériences
 
 Série de conférences pour parler de Git IRL.
+
+## Sponsors
+
+[Gandi](http://www.gandi.net/) est notre partenaire pour vous offrir un atelier
+de qualité.
+
+[![](images/gandi.png)](http://www.gandi.net/)
+
+**Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
+[hello@clermontech.org](mailto:hello@clermontech.org).
