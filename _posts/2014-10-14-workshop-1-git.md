@@ -2,7 +2,9 @@
 layout: post
 category: workshops
 flickr_set_id:
-title: Clermont'ech Workshop &#35;1 Git
+mascotte_img: clermontech_mascotte_git.png
+
+title: "Clermont'ech Workshop &#35;1 : Git"
 ---
 
 Venez apprendre et approfondir vos connaissances sur

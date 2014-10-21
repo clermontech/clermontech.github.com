@@ -94,7 +94,7 @@
                 </p>
             </div>
             <div class="footer-column">
-                <img src="/images/clermontech_mascotte_400px.png" alt="Mascotte Clermontech" class="mascotte" />
+                <img src="/images/{% if page.mascotte_img %}{{ page.mascotte_img }}{% else %}clermontech_mascotte_400px.png{% endif %}" alt="Mascotte Clermontech" class="mascotte" />
             </div>
         </footer>
     </div>
