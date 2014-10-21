@@ -32,7 +32,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 ## Inscription
 
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Vendre des billets en ligne</a> <span style="color:#ddd;">à travers</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a></div></div>
+<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## Programme
 
