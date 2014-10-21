@@ -10,7 +10,7 @@ author: Kévin Gomez
 author_url: https://twitter.com/KPhoen
 author_image: kphoen.jpeg
 
-slides_url:
+slides_url: http://k-phoen.github.io/slides-hoa-compiler/
 video:
 
 title: "Hoa\\Compiler: Write Your Own SQL Parser"
