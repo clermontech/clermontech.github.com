@@ -10,7 +10,7 @@ author: Olivier Goyon
 author_url:
 author_image:
 
-slides_url:
+slides_url: http://ss-bb.github.io/PresTitanium/
 video:
 
 title: "Titanium"
