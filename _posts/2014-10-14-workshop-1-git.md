@@ -14,8 +14,8 @@ cet outil fantastique qui est aux coeur de nombreux développements.
 
 ## Concept
 
-Un atelier thématique organisé sur une journée, pour passer de zéro à héro sur
-un sujet ou une technologie bien ciblé !
+Un **atelier thématique** organisé sur **une journée**, pour **passer de zéro à
+héro** sur un sujet ou une technologie bien ciblé !
 
 Le but est d'apprendre en se formant sur un thème précis, avec des intervenants
 spécialisés. Le "workshop" ou "atelier" en français se décompose en deux parties
@@ -38,7 +38,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 ## Programme
 
-### Accueil / Café/Croissants
+### Accueil • Café/Croissants
 
 On se réveille et on vous accueille dès 9h.
 
@@ -77,6 +77,9 @@ multiples, tirer parti du rebase, etc.
 Série de conférences courtes pour parler de Git IRL.
 
 ## Inscription
+
+Vous êtes intéressés ? Réservez dès maintenant votre place en **early bird**
+(tarif préférentiel) !
 
 <iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
