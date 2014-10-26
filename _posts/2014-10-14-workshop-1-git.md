@@ -57,20 +57,22 @@ Il faut bien re-prendre des forces.
 
 ### Slot 1 : Git Par La Pratique
 
-Il s’agit ici de pousser plus avant, tant sur des sujets courants tels que les
-submodules, que sur des commandes plus arcanes mais extrêmement utiles le moment
-venu. Parmi les points abordés, vous trouverez :
+Il s’agit ici de mettre en pratique tout ce que l'on a retenu du matin, tant sur
+des sujets courants tels que les submodules, que sur des commandes plus arcanes
+mais extrêmement utiles le moment venu. Parmi les points abordés, vous trouverez
+:
 
 * Tout sur les submodules : les ajouter, les modifier, les mettre à jour, éviter
-les pièges et erreurs usuelles, ...
+  les pièges et erreurs usuelles, ...
 * Pas mal de choses sur le boulot à plusieurs : gérer des dépôts distants
-multiples, tirer parti du rebase, etc.
-* Traquer automatiquement la source historique d’un bug avec git bisect
-* Récupérer un commit éjecté de l’historique avec git reflog
-* Peaufiner les comportements de Git avec les attributs
+  multiples, tirer parti du rebase, etc.
+* Traquer automatiquement la source historique d’un bug avec `git bisect`
+* Récupérer un commit éjecté de l’historique avec `git reflog`
 * Utiliser les hooks pour automatiser des traitements
-* Annoter les commits avec Git notes
-* ...
+* Annoter les commits avec `git notes`
+* Intégration continue et Git
+* Déployer avec Git
+* Présentation et utilisation de GitLab
 
 ### Slot 2 : Retours d'Expériences
 
