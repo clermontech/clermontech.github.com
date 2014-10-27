@@ -107,7 +107,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             <p>13h00</p>
         </td>
         <td width="48%" valign="top">
-            <p><strong>Retours d'Expérience</strong></p>
+            <p><strong>Retours d'Expérience</strong> (Durée : 2h)</p>
             <p>
                 Série de conférences courtes pour parler de Git avec des intervenants locaux. Le
                 thème abordé est la mise en place de Git en entreprise.
@@ -119,7 +119,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             </p>
         </td>
         <td width="48%" valign="top">
-            <p><strong>Atelier : Try Git</strong></p>
+            <p><strong>Atelier : Try Git</strong> (Durée : 2h)</p>
             <p>
                 Il s'agit ici de mettre en pratique tout ce que l'on a retenu du matin, tant sur
                 des sujets courants tels que les submodules, que sur des commandes plus arcanes
