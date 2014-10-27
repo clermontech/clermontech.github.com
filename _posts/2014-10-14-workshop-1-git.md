@@ -157,6 +157,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
         </td>
         <td width="48%" valign="top">
             <p><strong>Workflows Git</strong></p>
+            <p>Bientôt annoncé...</p>
         </td>
         <td width="48%" valign="top">
             <p><strong>Atelier : Déployer avec Git</strong></p>
