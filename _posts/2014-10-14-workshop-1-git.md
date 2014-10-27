@@ -88,7 +88,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             <p>12h00</p>
         </td>
         <td colspan="2">
-            <p style="text-align: center">
+            <p style="text-align: center; vertical-align: center">
                 <strong>Pause Déjeuner</strong>
             </p>
         </td>
@@ -143,6 +143,11 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             <p><strong>Atelier : Hooks!</strong></p>
 
             <p>
+                Générer et publier de la documentation automatiquement à chaque
+                <code>push</code>, s'assurer que le commit a un message conforme
+                à des règles de son entreprise (numéro de ticket par exemple),
+                lancer un <code>linter</code>, etc. Les hooks Git sont un
+                merveilleux moyen d'améliorer sa productivité.
             </p>
         </td>
     </tr>
@@ -155,6 +160,10 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
         </td>
         <td width="48%" valign="top">
             <p><strong>Atelier : Déployer avec Git</strong></p>
+            <p>
+                <code>git push</code> et boom ! La nouvelle version de votre
+                application est en ligne.
+            </p>
         </td>
     </tr>
     <tr>
