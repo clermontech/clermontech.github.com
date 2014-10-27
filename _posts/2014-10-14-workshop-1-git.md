@@ -34,49 +34,142 @@ d'entreprises **Pascalis**, à La Pardieu.  L'adresse exacte est : [**10 allée
 Évariste-Galois, 63000
 Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1).
 
-[![](http://maps.googleapis.com/maps/api/staticmap?center=Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise&size=600x400&sensor=false&markers=color:red|45.759812,3.131341)](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1)
+[![](http://maps.googleapis.com/maps/api/staticmap?center=Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise&size=600x450&sensor=false&markers=color:red|45.759812,3.131341)](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1)
 
 ## Programme
 
-### Accueil • Café/Croissants
+<table>
+<tbody>
+    <tr>
+        <td valign="top">
+            <p>09h00</p>
+        </td>
+        <td colspan="2">
+            <p>
+                <strong>Accueil</strong>
+            </p>
+            <p>
+                On vous accueille dès 9h, et on vous offre le petit-déjeuner.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>09h30</p>
+        </td>
+        <td colspan="2">
+            <p>
+                <strong>Keynote d'Ouverture</strong> <em>- Amphi Pascalis</em>
+            </p>
+            <p>
+                Ouverture de la journée avec une keynote d'introduction au concept des
+                <strong>Workshops Clermont'ech</strong> et plein d'informations utiles
+                pour le déroulement de la journée.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>10h00</p>
+        </td>
+        <td colspan="2">
+            <p>
+                <strong>Git : De Zéro A Héros</strong> <em>- Amphi Pascalis</em>
+            </p>
+            <p>
+                Julien Muetton, développeur front chez Gandi.net et Git-lover,
+                présente Git et ses fonctionnalités, des plus basiques aux moins
+                courantes, mélant théorie et pragmatisme.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>12h00</p>
+        </td>
+        <td colspan="2">
+            <p style="text-align: center">
+                <strong>Pause Déjeuner</strong>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td width="48%" valign="top">
+            <em>Amphi Pascalis</em>
+        </td>
+        <td width="48%" valign="top">
+            <em>Hack Room</em>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>13h00</p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Retours d'Expérience</strong></p>
+            <p>
+                Série de conférences courtes pour parler de Git avec des intervenants locaux. Le
+                thème abordé est la mise en place de Git en entreprise.
+            </p>
+            <p>
+                Pour cela, Pierre Tachoire de la société ITNetwork, Pierre
+                Colomb de la société IPLeanware et Emeric Stophe de la société
+                Almerys vous racontent leurs histoires.
+            </p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Atelier : Try Git</strong></p>
+            <p>
+                Il s'agit ici de mettre en pratique tout ce que l'on a retenu du matin, tant sur
+                des sujets courants tels que les submodules, que sur des commandes plus arcanes
+                mais extrêmement utiles le moment venu.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>15h00</p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Git, GitHub & Open Source</strong></p>
 
-On se réveille et on vous accueille dès 9h.
+            <p>
+                William Durand, <a href="https://gist.github.com/paulmillr/2657075">top contributeur GitHub</a> et développeur Open Source, vous
+                présente l'utilisation de Git avec la plateforme <a href="https://github.com">GitHub</a> dans le cadre de projets Open Source.
+            </p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Atelier : Hooks!</strong></p>
 
-### Introduction Aux Workshops Clermont'ech - Amphi Pascalis
+            <p>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>16h00</p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Workflows Git</strong></p>
+        </td>
+        <td width="48%" valign="top">
+            <p><strong>Atelier : Déployer avec Git</strong></p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>17h00</p>
+        </td>
+        <td colspan="2">
+            <p style="text-align: center">
+                <strong>Keynote de clôture</strong> <em> - Amphi Pascalis</em>
+            </p>
+        </td>
+    </tr>
+</tbody>
+</table>
 
-Mise en jambe rapide avec une introduction sur le principe des **Workshops**
-Clermont'ech et des informations pratiques sur le déroulement de la journée.
-
-### Introduction à Git - Amphi Pascalis
-
-Présentation théorique de l'outil et de ses fonctionnalités.
-
-### Pause Déjeuner
-
-Il faut bien re-prendre des forces.
-
-### Slot 1 : Git Par La Pratique
-
-Il s’agit ici de mettre en pratique tout ce que l'on a retenu du matin, tant sur
-des sujets courants tels que les submodules, que sur des commandes plus arcanes
-mais extrêmement utiles le moment venu. Parmi les points abordés, vous trouverez
-:
-
-* Tout sur les submodules : les ajouter, les modifier, les mettre à jour, éviter
-  les pièges et erreurs usuelles, ...
-* Pas mal de choses sur le boulot à plusieurs : gérer des dépôts distants
-  multiples, tirer parti du rebase, etc.
-* Traquer automatiquement la source historique d’un bug avec `git bisect`
-* Récupérer un commit éjecté de l’historique avec `git reflog`
-* Utiliser les hooks pour automatiser des traitements
-* Annoter les commits avec `git notes`
-* Intégration continue et Git
-* Déployer avec Git
-* Présentation et utilisation de GitLab
-
-### Slot 2 : Retours d'Expériences
-
-Série de conférences courtes pour parler de Git IRL.
 
 ## Inscription
 
