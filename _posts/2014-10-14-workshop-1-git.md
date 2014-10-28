@@ -77,9 +77,8 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
                 <strong>Git : De Zéro A Héros</strong> <em>- Amphi Pascalis</em>
             </p>
             <p>
-                Julien Muetton, développeur front chez Gandi.net et Git-lover,
-                présente Git et ses fonctionnalités, des plus basiques aux moins
-                courantes, mélant théorie et pragmatisme.
+                <a href="https://twitter.com/themouette">Julien Muetton</a>, développeur front chez <a href="http://www.gandi.net/">Gandi.net</a> et Git-lover,
+                présente Git et ses fonctionnalités, des plus basiques aux moins courantes, mélant théorie et pragmatisme.
             </p>
         </td>
     </tr>
@@ -113,9 +112,8 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
                 thème abordé est la mise en place de Git en entreprise.
             </p>
             <p>
-                Pour cela, Pierre Tachoire de la société ITNetwork, Pierre
-                Colomb de la société IPLeanware et Emeric Stophe de la société
-                Almerys vous racontent leurs histoires.
+                Pour cela, <a href="https://twitter.com/krichprollsch">Pierre Tachoire</a> de la société ITNetwork,
+                <a href="https://twitter.com/pcolomb">Pierre Colomb</a> de la société IPLeanware et <a href="https://twitter.com/cireme63">Emeric Stophe</a> de la société Almerys vous racontent leurs histoires.
             </p>
         </td>
         <td width="48%" valign="top">
@@ -135,7 +133,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             <p><strong>Git, GitHub & Open Source</strong></p>
 
             <p>
-                William Durand, <a href="https://gist.github.com/paulmillr/2657075">top contributeur GitHub</a> et développeur Open Source, vous
+                <a href="https://twitter.com/couac">William Durand</a>, <a href="https://gist.github.com/paulmillr/2657075">top contributeur GitHub</a> et développeur Open Source, vous
                 présente l'utilisation de Git avec la plateforme <a href="https://github.com">GitHub</a> dans le cadre de projets Open Source.
             </p>
         </td>
