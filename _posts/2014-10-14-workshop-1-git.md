@@ -181,8 +181,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 ## Inscription
 
-Vous êtes intéressés ? Réservez dès maintenant votre place en **early bird**
-(tarif préférentiel) !
+Vous êtes intéressés ? Inscrivez-vous vite !
 
 <iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
