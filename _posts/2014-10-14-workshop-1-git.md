@@ -29,9 +29,9 @@ l'atelier. Chaque participant doit disposer de son ordinateur pour pratiquer.
 
 ## Informations pratiques
 
-Cet événement aura lieu **le samedi 15 Novembre 2014** à **10h** à la pépinière
-d'entreprises **Pascalis**, à La Pardieu.  L'adresse exacte est : [**10 allée
-Évariste-Galois, 63000
+Cet événement aura lieu **le samedi 15 Novembre 2014** à partir de **9h** à la
+pépinière d'entreprises **Pascalis**, à La Pardieu.  L'adresse exacte est :
+[**10 allée Évariste-Galois, 63000
 Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1).
 
 [![](http://maps.googleapis.com/maps/api/staticmap?center=Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise&size=600x450&sensor=false&markers=color:red|45.759812,3.131341)](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8re+et+H%C3%B4tel+d'entreprise/@45.759812,3.131341,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x7e043ce074dc12e1)
