@@ -155,7 +155,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
         </td>
         <td width="48%" valign="top">
             <p><strong>Workflows Git</strong></p>
-            <p>Bientôt annoncé...</p>
+            <p>Julien Muetton nous parle de workflows Git et de la collaboration en entreprise.</p>
         </td>
         <td width="48%" valign="top">
             <p><strong>Atelier : Déployer avec Git</strong></p>
