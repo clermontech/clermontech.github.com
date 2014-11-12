@@ -187,10 +187,12 @@ Vous êtes intéressés ? Inscrivez-vous vite !
 
 ## Sponsors
 
-[Gandi](http://www.gandi.net/) est notre partenaire le temps d'une journée, pour
-vous offrir un atelier de qualité.
+[Gandi](http://www.gandi.net/) et [o2switch](http://www.o2switch.fr/) sont nos
+partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
 
 [![](/images/gandi.png)](http://www.gandi.net/)
+
+[![](/images/o2switch.png)](http://www.o2switch.fr/)
 
 **Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
 [hello@clermontech.org](mailto:hello@clermontech.org).
