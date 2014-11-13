@@ -15,7 +15,7 @@ cet outil fantastique qui est aux coeur de nombreux développements.
 ## Concept
 
 Un **atelier thématique** organisé sur **une journée**, pour **passer de zéro à
-héro** sur un sujet ou une technologie bien ciblé !
+héros** sur un sujet ou une technologie bien ciblé !
 
 Le but est d'apprendre en se formant sur un thème précis, avec des intervenants
 spécialisés. Le "workshop" ou "atelier" en français se décompose en deux parties
