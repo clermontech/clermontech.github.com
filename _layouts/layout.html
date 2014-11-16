@@ -64,9 +64,13 @@
         {% if site.announcement %}
         <div class="row">
             <div class="container large-12 columns">
+            {% if site.announcement.href %}
                 <a id="announcement" href="{{ site.announcement.href }}">
                     {{ site.announcement.message }}
                 </a>
+            {% else %}
+                <span id="announcement">{{ site.announcement.message }}</span>
+            {% endif %}
             </div>
         </div>
         {% endif %}
