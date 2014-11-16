@@ -197,7 +197,7 @@ partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
 **Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
 [hello@clermontech.org](mailto:hello@clermontech.org).
 
-## Slides & Autres Resources
+## Slides Et Autres Resources
 
 ### Conférences
 
