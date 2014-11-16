@@ -196,3 +196,25 @@ partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
 
 **Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
 [hello@clermontech.org](mailto:hello@clermontech.org).
+
+## Slides & Autres Resources
+
+### Conférences
+
+* [Git : De Zéro à
+  Héros](http://themouette.github.io/slides-git/?theme=clermontech), Julien
+  Muetton
+* [Git & GitHub & Open
+  Source](https://speakerdeck.com/willdurand/git-and-github-and-open-source-clermontech-workshop-git), William Durand
+
+### Retours d'Expérience
+
+* [Retour d'expérience par Emeric
+  Stophe](http://slides.com/cireme63/svn-to-git/)
+* [Retour d'expérience par Pierre
+  Tachoire](http://krichprollsch.github.io/git-xp/)
+
+### Ateliers
+
+* [Déployer avec
+  Git](https://github.com/willdurand/clermontech-workshop-git-deploy)
