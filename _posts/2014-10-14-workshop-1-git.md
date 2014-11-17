@@ -178,25 +178,6 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 </tbody>
 </table>
 
-
-## Inscription
-
-Vous êtes intéressés ? Inscrivez-vous vite !
-
-<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-
-## Sponsors
-
-[Gandi](http://www.gandi.net/) et [o2switch](http://www.o2switch.fr/) sont nos
-partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
-
-[![](/images/gandi.png)](http://www.gandi.net/)
-
-[![](/images/o2switch.png)](http://www.o2switch.fr/)
-
-**Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
-[hello@clermontech.org](mailto:hello@clermontech.org).
-
 ## Slides Et Autres Resources
 
 ### Conférences
@@ -218,3 +199,21 @@ partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
 
 * [Déployer avec
   Git](https://github.com/willdurand/clermontech-workshop-git-deploy)
+
+## Inscription
+
+Vous êtes intéressés ? Inscrivez-vous vite !
+
+<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+
+## Sponsors
+
+[Gandi](http://www.gandi.net/) et [o2switch](http://www.o2switch.fr/) sont nos
+partenaires le temps d'une journée, pour vous offrir un atelier de qualité.
+
+[![](/images/gandi.png)](http://www.gandi.net/)
+
+[![](/images/o2switch.png)](http://www.o2switch.fr/)
+
+**Vous souhaitez nous aider** et sponsoriser cet événement ? Contactez-nous vite :
+[hello@clermontech.org](mailto:hello@clermontech.org).
