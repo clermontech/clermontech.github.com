@@ -18,10 +18,10 @@ Browse [`http://localhost:4000`](http://localhost:4000).
 If you want to publish a new page/post, make sure they meet these guidelines
 below.
 
-### New APIHour Page
+### New API Hour Page
 
 Create a new file using the following pattern, where `{year}-{month}-{day}` is
-the current day, and `{number}` the APIHour number:
+the current day, and `{number}` the API Hour number:
 
     _posts/{year}-{month}-{day}-api-hour-{number}.md
 
@@ -32,6 +32,10 @@ Here is the default template:
     ---
     layout: post
     category: api-hours
+
+    flickr_set_id:
+    mascotte_img:
+
     title: Clermont'ech API Hour &#35;{number}
     ---
 
@@ -45,9 +49,16 @@ Here is the default template:
 
     ### {speaker's full name} • {talk's title}
 
+    [ ## Sponsors ]
+
 You MUST add a map in the `Informations pratiques` section.
 
-You SHOULD add a Eventbrite widget in the `Inscription` section.
+You SHOULD add an Eventbrite widget in the `Inscription` section.
+
+You MAY want to add a `Sponsors` section, it should be the last one.
+
+You can change the "mascotte" image (bottom right) by setting the
+`mascotte_img`. The `flickr_set_id` number allows to fetch pictures from Flickr.
 
 ### New Talk Page
 
@@ -64,17 +75,19 @@ Here is the default template:
     ---
     layout: talk
     categories: [talks, api-hour-{number} ]
-    title: {talk's title}
-
-    author:
-    author_url:
-
-    slides_url:
 
     session_url: /api-hours/api-hour-{number}.html
-    session_name: Clermont'ech API Hour &#35;{number}
+    session_name: Clermont'ech API Hour &#35;{number
+    session_short_name: "&#35;{number}"
 
+    author: {speaker}
+    author_url:
+    author_image:
+
+    slides_url:
     video:
+
+    title: {talk}
     ---
 
     {abstract}
@@ -82,7 +95,7 @@ Here is the default template:
 The talk MUST belong to the `talks` category.
 
 The talk MUST belong to the `api-hour-{number}` category, where `{number}` is
-the APIHour number.
+the API Hour number.
 
 
 ## Credits
