@@ -204,6 +204,7 @@ header {
 
 #announcement {
     display: block;
+    text-align: center;
 
     @include panel;
 }
