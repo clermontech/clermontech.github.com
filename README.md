@@ -4,17 +4,11 @@ Clermont'ech
 [![Build
 Status](https://travis-ci.org/clermontech/clermontech.github.com.png?branch=master)](https://travis-ci.org/clermontech/clermontech.github.com)
 
+
 ## Installation
 
-Install [Compass](http://compass-style.org/), and [Zurb
-Foundation](http://foundation.zurb.com/docs/sass.html):
-
-    $ [sudo] gem install compass
-    $ [sudo] gem install zurb-foundation
-
-Then, start the embedded server:
-
-    $ jekyll --server --auto
+    $ bundle install
+    $ bundle exec jekyll serve
 
 Browse [`http://localhost:4000`](http://localhost:4000).
 
