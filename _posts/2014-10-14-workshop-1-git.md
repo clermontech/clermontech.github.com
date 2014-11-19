@@ -1,7 +1,7 @@
 ---
 layout: post
 category: workshops
-flickr_set_id:
+flickr_set_id: 72157648965851588
 mascotte_img: clermontech_mascotte_git.png
 
 title: "Clermont'ech Workshop &#35;1 : Git"
@@ -202,9 +202,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
 
 ## Inscription
 
-Vous êtes intéressés ? Inscrivez-vous vite !
-
-<iframe src="//eventbrite.fr/tickets-external?eid=13848068947&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+Cet événement est terminé.
 
 ## Sponsors
 
