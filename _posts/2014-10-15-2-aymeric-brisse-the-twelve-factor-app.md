@@ -10,7 +10,7 @@ author: Aymeric Brisse
 author_url: https://twitter.com/aymericbrisse
 author_image: aymericbrisse.jpeg
 
-slides_url:
+slides_url: http://abrisse.github.io/talk-12-factors
 video:
 
 title: "The Twelve-Factor App"
