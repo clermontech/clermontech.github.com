@@ -4,7 +4,7 @@ title: L'association Clermont'ech
 ---
 
 Clermont'ech est une association loi 1901 créée le 21 février 2013 à Clermont-Ferrand.
-Le siège social de l'association est situé 4, allée des Coteaux 63110 BEAUMONT.
+Le siège social de l'association est situé 19 rue Rabelais 63100 Clermont-Ferrand.
 
 ## Bureau
 
