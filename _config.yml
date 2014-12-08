@@ -8,5 +8,5 @@ redcarpet:
     extensions: ["strikethrough"]
 
 announcement:
-    href: https://www.eventbrite.fr/e/dejdev-5-tickets-14461074463
-    message: "Prochain API Hour le 16 décembre ! En attendant, tu peux venir au DejDev prévu le 25 novembre :-)"
+    href: /api-hours/api-hour-12.html
+    message: "API Hour Xmas Edition le Mardi 16 décembre 2014 à 19h !"
