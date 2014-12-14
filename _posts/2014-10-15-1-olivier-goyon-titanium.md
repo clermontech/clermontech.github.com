@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: http://ss-bb.github.io/PresTitanium/
-video:
+video: 3uPOtf5ATUU
 
 title: "Titanium"
 ---

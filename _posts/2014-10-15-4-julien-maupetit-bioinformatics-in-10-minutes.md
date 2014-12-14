@@ -11,7 +11,7 @@ author_url: https://twitter.com/julienmaupetit
 author_image: julienmaupetit.jpg
 
 slides_url: http://jmaupetit.github.io/bioinformatics-in-10-minutes/
-video:
+video: 3Cwell883t0
 
 title: "Bioinformatics in 10 minutes"
 ---

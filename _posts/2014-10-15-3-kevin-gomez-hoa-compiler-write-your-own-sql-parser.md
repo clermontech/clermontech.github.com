@@ -11,7 +11,7 @@ author_url: https://twitter.com/KPhoen
 author_image: kphoen.jpeg
 
 slides_url: http://k-phoen.github.io/slides-hoa-compiler/
-video:
+video: db8P5_1lOD8
 
 title: "Hoa\\Compiler: Write Your Own SQL Parser"
 ---
