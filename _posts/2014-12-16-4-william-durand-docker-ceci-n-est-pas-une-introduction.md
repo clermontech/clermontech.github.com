@@ -10,7 +10,7 @@ author: William Durand
 author_url: https://twitter.com/couac
 author_image: couac2.jpeg
 
-slides_url: http://slides.williamdurand.fr/docker-clermontech/
+slides_url: https://speakerdeck.com/willdurand/docker-ceci-nest-pas-une-introduction-apihour-number-12
 video:
 
 title: "Docker, Ceci N'Est Pas Une Introduction"

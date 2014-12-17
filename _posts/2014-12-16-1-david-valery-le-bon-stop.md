@@ -6,7 +6,7 @@ session_url: /api-hours/api-hour-12.html
 session_name: Clermont'ech API Hour &#35;12
 session_short_name: "&#35;12"
 
-author: David Valery
+author: David Valéry
 author_url:
 author_image:
 
