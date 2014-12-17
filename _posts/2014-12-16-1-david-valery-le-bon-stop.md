@@ -1,0 +1,23 @@
+---
+layout: talk
+categories: [ talks, api-hour-12 ]
+
+session_url: /api-hours/api-hour-12.html
+session_name: Clermont'ech API Hour &#35;12
+session_short_name: "&#35;12"
+
+author: David Valery
+author_url:
+author_image:
+
+slides_url:
+video:
+
+title: "Le Bon Stop"
+---
+
+Présentation du Bon Stop, une application d'Autostop 2.0 ayant pour but de
+mettre en relation conducteurs et passagers en les géolocalisant sur une carte.
+Projet pratique et solidaire qui permettrait dans un premier temps d'offrir une
+solution complémentaire de transport en agglomération puis par la suite de
+désenclaver des territoires (périphéries voire territoires ruraux).

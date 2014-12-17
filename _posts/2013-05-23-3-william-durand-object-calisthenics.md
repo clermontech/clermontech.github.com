@@ -7,7 +7,7 @@ author: William Durand
 author_url: https://twitter.com/couac
 author_image: couac.jpeg
 
-slides_url: http://williamdurand.fr/object-calisthenics-slides/
+slides_url: http://slides.williamdurand.fr/object-calisthenics/
 
 session_url: /api-hours/api-hour-2.html
 session_name: Clermont'ech API Hour &#35;2
