@@ -6,7 +6,3 @@ flickr_id: 96523012@N07
 markdown: redcarpet
 redcarpet:
     extensions: ["strikethrough"]
-
-announcement:
-    href: /api-hours/api-hour-12.html
-    message: "API Hour Xmas Edition le Mardi 16 décembre 2014 à 19h !"
