@@ -170,6 +170,12 @@ header {
             @include border-radius(35px)
         }
     }
+
+    .blog-posts {
+        .blog-post {
+            list-style-type: none;
+        }
+    }
 }
 
 #footer-wrapper {

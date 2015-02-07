@@ -48,6 +48,14 @@ sponsors:
             {% endfor %}
             </ul>
         </section>
+        <section class="blog">
+            <h2>Le Blog</h2>
+            <ul>
+            {% for page in site.categories['blog-posts'] limit:5 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
         <section class="sponsors">
             <h2>Nos Sponsors &lt;3</h2>
             <ul class="sponsors-list">

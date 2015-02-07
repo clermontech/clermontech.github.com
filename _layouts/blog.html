@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% for post in site.categories.blog-posts %}
+{% if forloop.first %}
+<ul class="blog-posts">
+{% endif %}
+    <li class="blog-post">
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </li>
+{% if forloop.last %}
+</ul>
+{% endif %}
+{% endfor %}
