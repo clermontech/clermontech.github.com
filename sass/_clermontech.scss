@@ -188,8 +188,16 @@ header {
     }
 
     .blog-posts {
+        font-size: inherit;
+        margin-bottom: 5%;
+
         .blog-post {
             list-style-type: none;
+
+            .read-more {
+                text-decoration: underline;
+                text-align: center;
+            }
         }
     }
 }

@@ -12,6 +12,7 @@ layout: default
         <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <small>{{ post.date|date:'%d/%m/%Y' }}</small></h2>
         {{ post.excerpt }}
         <p class="read-more"><a href="{{ post.url }}">Lire la suite</a></p>
+        <hr>
     </li>
 {% if forloop.last %}
 </ul>
