@@ -171,6 +171,22 @@ header {
         }
     }
 
+    article.blog-post {
+        @include grid-column(12);
+
+        .blog-post-header {
+            @include grid-column(12);
+        }
+
+        .blog-post-content {
+            @include grid-column(12);
+
+            .centered-img {
+                text-align: center;
+            }
+        }
+    }
+
     .blog-posts {
         .blog-post {
             list-style-type: none;

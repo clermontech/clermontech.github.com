@@ -9962,12 +9962,40 @@ header > hgroup {
   -o-border-radius: 35px;
   border-radius: 35px;
 }
-/* line 175, ../sass/_clermontech.scss */
+/* line 174, ../sass/_clermontech.scss */
+#content article.blog-post {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
+/* line 177, ../sass/_clermontech.scss */
+#content article.blog-post .blog-post-header {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
+/* line 181, ../sass/_clermontech.scss */
+#content article.blog-post .blog-post-content {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
+/* line 184, ../sass/_clermontech.scss */
+#content article.blog-post .blog-post-content .centered-img {
+  text-align: center;
+}
+/* line 191, ../sass/_clermontech.scss */
 #content .blog-posts .blog-post {
   list-style-type: none;
 }
 
-/* line 181, ../sass/_clermontech.scss */
+/* line 197, ../sass/_clermontech.scss */
 #footer-wrapper {
   width: 100%;
   -webkit-box-shadow: #05292c 2px 2px 10px;
@@ -9978,7 +10006,7 @@ header > hgroup {
   padding-bottom: 10px;
   color: #e6e6e6;
 }
-/* line 189, ../sass/_clermontech.scss */
+/* line 205, ../sass/_clermontech.scss */
 #footer-wrapper footer {
   width: 100%;
   margin-left: auto;
@@ -9997,7 +10025,7 @@ header > hgroup {
 #footer-wrapper footer:after {
   clear: both;
 }
-/* line 192, ../sass/_clermontech.scss */
+/* line 208, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column {
   position: relative;
   padding-left: 0.9375em;
@@ -10005,21 +10033,21 @@ header > hgroup {
   width: 50%;
   float: left;
 }
-/* line 195, ../sass/_clermontech.scss */
+/* line 211, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column h3 {
   color: #e6e6e6;
 }
-/* line 199, ../sass/_clermontech.scss */
+/* line 215, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column p {
   font-family: Neutraface, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-/* line 204, ../sass/_clermontech.scss */
+/* line 220, ../sass/_clermontech.scss */
 #footer-wrapper footer .footer-column img.mascotte {
   display: none;
 }
 
-/* line 211, ../sass/_clermontech.scss */
+/* line 227, ../sass/_clermontech.scss */
 #announcement {
   display: block;
   text-align: center;
