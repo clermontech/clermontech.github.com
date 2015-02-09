@@ -1,0 +1,21 @@
+---
+---
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>{{ site.rss.title }}</title>
+    <link href="{{ site.base_url }}/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="{{ site.base_url }}" rel="alternate" type="text/html"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ site.base_url }}/</id>
+    <author>
+        <name>{{ site.rss.author }}</name>
+        <email>{{ site.rss.email }}</email>
+    </author>
+    {% for post in site.posts %}
+    <entry>
+        <title>{{ post.title }}</title>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <id>{{ site.base_url }}{{ post.id }}</id>
+        <content type="html">{{ post.content | xml_escape }}</content>
+    </entry>
+    {% endfor %}
+</feed>
