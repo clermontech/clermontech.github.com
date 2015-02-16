@@ -27,6 +27,6 @@ avec une [présentation](http://clermontech.org/ag-afup-2015/) dont nous ne
 sommes pas peu fiers ;-)
 
 Nous vous tiendrons bien entendu au courant des événements tout au long de
-l'année. Après l'obtention des [Rencontres Django en
+l'année. Après l'organisation des [Rencontres Django en
 2015](http://rencontres.django-fr.org/2015/), Clermont'ech continue sa quête
 d'ouverture et de partage.
