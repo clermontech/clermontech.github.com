@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 categories: [ blog-posts ]
+excerpt_separator: "<!--more-->"
 
 title: Retour Sur Le Workshop Git #1
 ---
