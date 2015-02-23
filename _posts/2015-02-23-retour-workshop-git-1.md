@@ -29,7 +29,7 @@ problème aux instances supérieures. En solution de secours, nous avons pu
 brancher un routeur WIFI qui rendra son dernier souffle peu de temps avant la
 fin de la journée... Nous nous engageons à faire bien mieux la prochaine fois.
 Pour terminer sur la partie logistique, le repas du midi était, selon nous,
-trop fourni en viande et nous serons plus vigileant la prochaine fois (Note :
+trop fourni en viande et nous serons plus vigilant la prochaine fois (Note :
 des repas "spéciaux" étaient prévus pour différents régimes alimentaires). A
 noter également que Pascalis est un très beau lieu pour organiser une
 conférence mais pas forcément bien prévu pour faire manger 50 personnes.
