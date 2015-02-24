@@ -60,5 +60,5 @@ avec vous.
 
 <hr>
 <p>
-    <small><em>Le <a href="https://farm6.staticflickr.com/5611/15210142953_bd8aeafe76_z.jpg">logo</a> ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
+    <small><em>Le <a href="http://thenounproject.com/term/coffee/35780/">logo</a> ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
 </p>
