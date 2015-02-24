@@ -27,7 +27,7 @@ sponsors:
         <section class="talks">
             <h2>Talks</h2>
             <ul>
-            {% for page in site.categories['talks'] limit:10 %}
+            {% for page in site.categories['talks'] limit:8 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
@@ -35,7 +35,7 @@ sponsors:
         <section class="api-hours">
             <h2>API Hours</h2>
             <ul>
-            {% for page in site.categories['api-hours'] limit:5 %}
+            {% for page in site.categories['api-hours'] limit:3 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
@@ -43,7 +43,7 @@ sponsors:
         <section class="workshops">
             <h2>Workshops</h2>
             <ul>
-            {% for page in site.categories['workshops'] limit:5 %}
+            {% for page in site.categories['workshops'] limit:3 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
