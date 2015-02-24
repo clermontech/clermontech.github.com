@@ -42,6 +42,25 @@ Nous privilégions le petit-déjeuner et les discussions qui en découlent plut�
 que d'être tous réunis, nez dans nos écrans, sans rien se dire autrement que
 via IRC. Ce n'est donc pas un soucis, au contraire !
 
+## Où ? Quand ? Comment ?
+
+Nous nous donnons rendez-vous : **samedi 28 février 2015 à partir de 10h et
+jusqu'à 11h45**, au salon de thé/café **Kissaten** (addresse : 9 rue Terrasse -
+63000 Clermont-Ferrand).
+A titre d'information (pour nous), vous pouvez **déclarer votre présence** sur
+ce [Framadate](https://framadate.org/cspfs3r4p3fs6qzp).
+
+**ATTENTION :** le lieu (Kissaten) est en cours de confirmation. La solution de
+"repli" est le Mc Donalds Centre Ville (en attendant un Starbucks...).
+
+<center>
+[![](http://maps.googleapis.com/maps/api/staticmap?size=600x400&sensor=false&markers=color:red|45.778053, 3.085098)](https://goo.gl/maps/S25GC)
+</center>
+
+**A noter :**  si vous êtes intéressés par la **vie privée** et le chiffrement
+d'emails (PGP/GPG), des personnes seront là pour vous répondre et en discuter
+avec vous.
+
 <hr>
 <p>
     <small><em>Le <a href="https://farm6.staticflickr.com/5611/15210142953_bd8aeafe76_z.jpg">logo</a> ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
