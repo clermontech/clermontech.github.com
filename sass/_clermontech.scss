@@ -24,12 +24,17 @@ header {
     .top-bar {
         background: none!important;
 
+        .name h1 a,
         .toggle-topbar a {
             color: #2ba6cb;
             text-transform: uppercase;
             font-family: $header-font-family;
             font-weight: bold;
             font-size: $footer-paragraph-font-size!important;
+        }
+
+        .name h1 {
+            padding-top: 2px
         }
 
         .toggle-topbar.menu-icon {
