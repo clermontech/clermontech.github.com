@@ -4,7 +4,7 @@ title: "Code & Coffee"
 ---
 
 <center>
-    <img src="/images/code-and-coffee.svg" alt="code-and-coffee" width="300px">
+    <img src="/images/code-and-coffee.svg" alt="code-and-coffee" width="240px">
 </center>
 
 Les **Code & Coffee** (abbréviation _C&C_) sont des événements _presque_

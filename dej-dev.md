@@ -4,7 +4,7 @@ title: "Dej Dev"
 ---
 
 <center>
-    <img src="/images/dej-dev.svg" alt="dej-dev" width="300px">
+    <img src="/images/dej-dev.svg" alt="dej-dev" width="200px">
 </center>
 
 Les **Dej Dev** permettent d'échanger lors d'un déjeuner (un créneau de 1h30
