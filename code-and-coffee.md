@@ -23,8 +23,8 @@ moments ensembles. Nous prévoyons généralement des créneaux de 2h (9h30/10h 
 
 Bien sûr, il n'y a aucune contrainte, si ce n'est la place dans le lieu défini
 (mais comme dans tout café/brasserie à vrai dire). Vous n'êtes pas obligé de
-vous inscrire pour venir, prévenir juste avant en
-[tweetant](https://twitter.com/clermontech) voire passer directement :)
+vous inscrire pour venir, prévenez juste avant en
+[tweetant](https://twitter.com/clermontech) voire passez directement :)
 
 ### Puis-je juste passer dire bonjour ?
 
