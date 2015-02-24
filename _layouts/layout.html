@@ -25,46 +25,21 @@
     <script src="/javascripts/vendor/jquery.js"></script>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li>
-                    <a href="/" title="Notre manifesto">Manifesto</a>
-                </li>
-                <li>
-                    <a href="/api-hours/" title="Les évènement API Hours !">API Hours</a>
-                </li>
-                <li>
-                    <a href="/workshops/" title="Les ateliers thématiques">Workshops</a>
-                </li>
-                <li>
-                    <a href="/talks/" title="Tous les talks">Talks</a>
-                </li>
-                <li>
-                    <a href="/code-and-coffee.html" title="Les Code & Coffee">C&C</a>
-                </li>
-                <li>
-                    <a href="/blog/" title="Le blog de Clermont'ech">Le Blog</a>
-                </li>
-                <li>
-                    <a href="/association.html" title="A propos de Clermont'ech">Association</a>
-                </li>
-                <li>
-                    <a href="http://clermontech.spreadshirt.fr/" title="La boutique de Clermont'ech">La Boutique</a>
-                </li>
-            </ul>
-        </nav>
+    <div class="header">
+        <header>
+            {% include nav.html %}
 
-        <hgroup class="row">
-            <div class="container large-12 columns">
-                <a href="/">
-                    <img src="/images/clermontech_logo_200px.png" alt="Logo Clermontech" id="logo" />
-                    <h1>Clermon<span class="alt">t'ech</span></h1>
-                </a>
-                <h2>Association de développeurs auvergnats.</h2>
-            </div>
-        </hgroup>
-    </header>
+            <hgroup class="row">
+                <div class="container large-12 columns">
+                    <a href="/">
+                        <img src="/images/clermontech_logo_200px.png" alt="Logo Clermontech" id="logo" />
+                        <h1>Clermon<span class="alt">t'ech</span></h1>
+                    </a>
+                    <h2>Association de développeurs auvergnats.</h2>
+                </div>
+            </hgroup>
+        </header>
+    </div>
 
     <hr class="sep"/>
 
@@ -110,7 +85,11 @@
             </div>
         </footer>
     </div>
+    <script src="/javascripts/foundation/foundation.js"></script>
+    <script src="/javascripts/foundation/foundation.topbar.js"></script>
     <script>
+        $(document).foundation();
+
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

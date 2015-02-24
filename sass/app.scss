@@ -32,7 +32,13 @@ $portrait: "only screen and (orientation: portrait)";
 
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media #{$small} {
+    .header {
+        @include grid-row;
+    }
+
     header {
+        @include grid-column(12);
+
         #logo {
             float:left;
             @include thumb;
@@ -47,20 +53,6 @@ $portrait: "only screen and (orientation: portrait)";
 
         & > hgroup {
             display: block;
-        }
-    }
-
-    body > header {
-        @include grid-row;
-
-        & > nav {
-            @include grid-column(5, $float:right);
-            width: auto;
-            float: right; // force float: right for obscure reasons...
-
-            & > ul {
-                @include inline-list;
-            }
         }
     }
 
@@ -126,6 +118,12 @@ $portrait: "only screen and (orientation: portrait)";
                 }
             }
         }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .sep {
+        margin-top: 0!important;
     }
 }
 
