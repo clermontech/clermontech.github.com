@@ -50,9 +50,6 @@ jusqu'à 11h45**, au salon de thé/café **Kissaten** (addresse : 9 rue Terrasse
 A titre d'information (pour nous), vous pouvez **déclarer votre présence** sur
 ce [Framadate](https://framadate.org/cspfs3r4p3fs6qzp).
 
-**ATTENTION :** le lieu (Kissaten) est en cours de confirmation. La solution de
-"repli" est le Mc Donalds Centre Ville (en attendant un Starbucks...).
-
 <center>
 [![](http://maps.googleapis.com/maps/api/staticmap?size=600x400&sensor=false&markers=color:red|45.778053, 3.085098)](https://goo.gl/maps/S25GC)
 </center>
