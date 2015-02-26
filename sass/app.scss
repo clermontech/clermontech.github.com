@@ -125,11 +125,15 @@ $portrait: "only screen and (orientation: portrait)";
     .top-bar .name h1 {
         display: none;
     }
+
+    .sep {
+        display: block;
+    }
 }
 
 @media only screen and (max-width: 768px) {
     .sep {
-        margin-top: 0!important;
+        display: none;
     }
 }
 
