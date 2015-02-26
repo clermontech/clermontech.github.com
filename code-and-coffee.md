@@ -45,8 +45,8 @@ via IRC. Ce n'est donc pas un soucis, au contraire !
 ## Où ? Quand ? Comment ?
 
 Nous nous donnons rendez-vous : **samedi 28 février 2015 à partir de 10h et
-jusqu'à 11h45**, au salon de thé/café **Kissaten** (addresse : 9 rue Terrasse -
-63000 Clermont-Ferrand).
+jusqu'à 11h45**, au salon de thé/café **Kissaten** (adresse : _9 rue Terrasse -
+63000 Clermont-Ferrand_).
 A titre d'information (pour nous), vous pouvez **déclarer votre présence** sur
 ce [Framadate](https://framadate.org/cspfs3r4p3fs6qzp).
 
