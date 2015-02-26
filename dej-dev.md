@@ -10,7 +10,7 @@ title: "Dej Dev"
 Les **Dej Dev** permettent d'échanger lors d'un déjeuner (un créneau de 1h30
 est prévu) dans un restaurant et ont lieu le **dernier mardi de chaque mois**.
 Il est nécessaire de s'inscrire via un événement Eventbrite et vous serez
-être prévenu via notre [mailing-list](https://groups.google.com/forum/?fromgroups#!forum/clermontech)
+prévenu(e)s via notre [mailing-list](https://groups.google.com/forum/?fromgroups#!forum/clermontech)
 ou [Twitter](https://twitter.com/clermontech).
 
 <hr>
