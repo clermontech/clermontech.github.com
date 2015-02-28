@@ -28,20 +28,3 @@ layout: layout
 <script type="text/javascript">
     $('#content h2').anchorify();
 </script>
-{% if page.flickr_set_id %}
-<script src="/javascripts/foundation/foundation.js"></script>
-<script src="/javascripts/foundation/foundation.clearing.js"></script>
-<script src="/javascripts/vendor/flickr.js"></script>
-<script>
-    $('.photos-set').flickrPhotoStream({
-        id: '{{ site.flickr_id }}',
-        setId: '{{ page.flickr_set_id }}',
-        container: '<li class="photos-set-item" />',
-        cssClass: 'photos-set-link'
-    }).done(function () {
-        $(document).foundation();
-    }).fail(function () {
-        $(this).append("<p>Désolé, nous n'avons pas pu charger les photos. Vous pouvez tenter de recharger la page.</p>");
-    });
-</script>
-{% endif %}
