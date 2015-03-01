@@ -1,0 +1,22 @@
+---
+layout: layout
+---
+
+<div class="row">
+    <div class="large-12 columns">
+        {{ content }}
+
+    {% if page.flickr_set_id %}
+        <h2>Photos</h2>
+        <div>
+            <ul class="photos-set" data-clearing></ul>
+        </div>
+    {% endif %}
+
+        <hr>
+
+        <p>
+            <small><em>Le <a href="http://thenounproject.com/term/coffee/35780/">logo</a> ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
+        </p>
+    </div>
+</div>

@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: code-and-coffee
+flickr_set_id: 72157650635493757
 title: "Code & Coffee"
 ---
 
@@ -55,15 +56,3 @@ Clermont-Ferrand_) :
 ## Quand ?
 
 **Prochain _C&C_ :** à définir.
-
-{% if page.flickr_set_id %}
-<h2>Photos</h2>
-<div>
-    <ul class="photos-set" data-clearing></ul>
-</div>
-{% endif %}
-
-<hr>
-<p>
-    <small><em>Le <a href="http://thenounproject.com/term/coffee/35780/">logo</a> ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
-</p>
