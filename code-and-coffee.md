@@ -10,7 +10,7 @@ title: "Code & Coffee"
 
 Les **Code & Coffee** (abbréviation _C&C_) sont des événements _presque_
 formels auxquels tout le monde peut prendre part. Il n'y a pas forcément de
-thème pré-établi, chacun vient à n'importe quel moment, est libre d'aller et
+thème pré-établi, chacun(e) vient à n'importe quel moment, est libre d'aller et
 venir, et peut faire ce que bon lui semble. Venez avec votre _laptop_ et c'est
 tout ! Essayez de venir lors du créneau prévu, sinon vous risquez d'être plus
 seul(e) que prévu ;-)
