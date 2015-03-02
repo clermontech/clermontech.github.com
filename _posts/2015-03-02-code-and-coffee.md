@@ -3,7 +3,7 @@ layout: blog-post
 categories: [ blog-posts ]
 excerpt_separator: <!--more-->
 
-title: "Code & Coffee"
+title: "Code &amp; Coffee"
 ---
 
 Le weekend dernier, nous avons (enfin) lancé le concept de [**Code &
