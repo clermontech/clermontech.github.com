@@ -11,7 +11,7 @@ author_url: https://twitter.com/mazenovi
 author_image: mazenovi.png
 
 slides_url: http://m4z3.me/pssi
-video:
+video: jdWDdY2IdEw
 
 title: "La PSSI De La Nation"
 ---

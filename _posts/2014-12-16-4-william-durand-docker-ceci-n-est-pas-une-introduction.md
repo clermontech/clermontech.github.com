@@ -11,7 +11,7 @@ author_url: https://twitter.com/couac
 author_image: couac2.jpeg
 
 slides_url: https://speakerdeck.com/willdurand/docker-ceci-nest-pas-une-introduction-apihour-number-12
-video:
+video: jrNiyBFxlyQ
 
 title: "Docker, Ceci N'Est Pas Une Introduction"
 ---

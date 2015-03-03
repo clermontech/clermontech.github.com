@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://docs.google.com/presentation/d/18zjOS7RpNAMYWy4l1T2M7zHxAt36-vLItLfgCpnqWrU/edit?pli=1#slide=id.p4
-video:
+video: aWOSR6hyAPI
 
 title: "Le Bon Stop"
 ---
