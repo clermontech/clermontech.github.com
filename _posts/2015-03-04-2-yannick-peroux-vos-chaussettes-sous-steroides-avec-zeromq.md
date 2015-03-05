@@ -10,7 +10,7 @@ author: Yannick Péroux
 author_url: https://twitter.com/k4nar
 author_image: yannick-peroux.jpeg
 
-slides_url:
+slides_url:  http://slides.com/k4nar/zeromq/
 video:
 
 title: "Vos Chaussettes Sous Stéroïdes Avec ZeroMQ"
