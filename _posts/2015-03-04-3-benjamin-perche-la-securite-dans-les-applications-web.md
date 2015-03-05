@@ -20,4 +20,4 @@ La sécurité est un des points essentiels d'un application web. Qu'elle soit
 négligée, tabou ou inconnue, des sites se font encore "pirater" aujourd'hui.
 Voyons par l'exemple comment se prévenir de certaines attaques basiques.
 
-Ressources (code vulnérable, exploits) : [https://github.com/lovenunu/security-slides](https://github.com/lovenunu/security-slides)
+Ressources (code vulnérable, exploits) : [lovenunu/security-slides](https://github.com/lovenunu/security-slides)
