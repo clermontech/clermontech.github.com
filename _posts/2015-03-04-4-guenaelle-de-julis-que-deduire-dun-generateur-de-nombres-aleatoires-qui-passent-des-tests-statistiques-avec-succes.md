@@ -10,7 +10,7 @@ author: Guenaëlle De Julis
 author_url:
 author_image:
 
-slides_url:
+slides_url: /api-hours/slides/2015-03-04-guenaelle-dejulis.pdf
 video:
 
 title: "Que Déduire D'Un Générateur De Nombres Aléatoires Qui Passent Des Tests Statistiques Avec Succès ?"
