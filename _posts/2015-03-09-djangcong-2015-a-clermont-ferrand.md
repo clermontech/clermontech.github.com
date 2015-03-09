@@ -2,7 +2,7 @@
 layout: blog-post
 categories: [ blog-posts ]
 
-title: Djangocong 2015, les poneys s'attroupent en Auvergne
+title: DjangoCong 2015, les poneys s'attroupent en Auvergne
 ---
 
 L'événement annuel regroupant les amateurs francophones de [Django](http://www.djangoproject.com/) — aka la [#djangocong](http://rencontres.django-fr.org/2015/) — aura lieu cette année dans les terres du milieu du **8 au 10 mai 2015**. [Clermont'ech](http://clermontech.org) est fière d'accueillir et de co-organiser cette réunion de poneys fougueux.
@@ -17,9 +17,9 @@ Une fois n'est pas coutume, la prochaine édition de la djangocong, se dérouler
 
 ### Vendredi 8 mai 2015 : atelier
 
-Nous profitons d'avoir un jour férié avant la cong' pour organiser un **atelier d'initiation au *framework* web [Django](http://www.djangoproject.com/)**. Avoir des connaissances en [python](http://www.python.org) n'est pas requis. Au contraire, faire venir les curieux dont python n'est pas le langage de prédilection est aussi une des raisons d'être de cet atelier !
+Nous profitons d'avoir un jour férié avant la *cong'* pour organiser un **atelier d'initiation au *framework* web [Django](http://www.djangoproject.com/)**. Avoir des connaissances en [Python](http://www.python.org) n'est pas requis. Au contraire, faire venir les curieux dont python n'est pas le langage de prédilection est aussi une des raisons d'être de cet atelier !
 
-**Le jour J venez avec un ordinateur portable**. Le matin, nous vous présenterons le *framework* et l'après-midi il sera temps de passer aux travaux pratiques pour réaliser votre première application web avec Django.
+**Le jour J, venez avec un ordinateur portable**. Le matin, nous vous présenterons le *framework* et l'après-midi il sera temps de passer aux travaux pratiques pour réaliser votre première application web avec Django.
 
 Notez bien, que vous pouvez aussi passer nous voir pour nous poser des questions autour du *framework* et de son utilisation.
 
@@ -43,7 +43,7 @@ La région Auvergne étant particulièrement épanouissante pour des poneys en m
     Crédit photo : Le Lac du Guéry © CRDT Auvergne / FROBERT David
 </center>
 
-Nous nous donnerons rendez-vous **Dimanche matin à 10h** dans le centre de Clermont pour un voyage en bus vers le plus haut lac d'Auvergne. Après une **promenade de 2h** et un **pique nique** dans les hauteurs, nous prévoyons deux sessions de retour vers le centre de Clermont pour nous adapter à votre heure de départ de la plus belle région de France, un Saint-Nectaire sous le coude.
+Nous nous donnerons rendez-vous **Dimanche matin à 10h** dans le centre de Clermont pour un voyage en bus vers le plus haut lac d'Auvergne. Après une **promenade de 2h** et un **pique-nique** dans les hauteurs, nous prévoyons deux sessions de retour vers le centre de Clermont pour nous adapter à votre heure de départ de la plus belle région de France, un Saint-Nectaire sous le coude.
 
 Cette promenade sera **ouverte à des accompagnateurs** dans la limite des places disponibles et après inscription (si le pique-nique ainsi que le transport doivent être prévus pour ces derniers).
 
