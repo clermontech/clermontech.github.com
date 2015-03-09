@@ -51,12 +51,4 @@ Cette promenade sera **ouverte à des accompagnateurs** dans la limite des place
 
 Si vous avez besoin de plus de renseignements concernant l'événement, vous pouvez vous référer à la [page de l'événement](http://rencontres.django-fr.org/2015/) ou envoyer un [email aux gentils organisateurs](djangocong@django-fr.org).
 
-Sinon, vous pouvez aussi nous suivre sur Twitter : [@djangocong](https://twitter.com/djangocong), [@clermontech](https://twitter.com/clermontech) & ... [@djangauvergne](https://twitter.com/djangauvergne) !
-
-## A propos de Djang'Auvergne
-
-> Tiens [@djangauvergne](https://twitter.com/djangauvergne) késako ?
-
-En 2012, [Julien](https://twitter.com/julienmaupetit) et [Alexis](https://twitter.com/skitoo) souhaitent créer un *user group* Django en Auvergne : [Djang'Auvergne](http://auvergne.django-fr.org/2012-10-15-Premier-Meetup-DjangAuvergne.html). Ce groupe n'a pas rencontré le succès attendu et s'est très vite diversifié pour finalement être à l'[origine de Clermont'ech](http://auvergne.django-fr.org/2013-01-26-DjangAuvergne-Est-Mort-Vive-DjangAuvergne.html).
-
-Nous sommes maintenant en 2015 et le paysage local ayant peut être évolué, si vous utilisez Django et que vous êtes en Auvergne, manifestez vous ! Faites hennir le poney qui est en vous afin de nous signaler votre intérêt pour [Djang'Auvergne](http://auvergne.django-fr.org) en nous envoyant un [email](mailto:djangauvergne@clermontech.org).
+Sinon, vous pouvez aussi nous suivre sur Twitter : [@djangocong](https://twitter.com/djangocong) & [@clermontech](https://twitter.com/clermontech)
