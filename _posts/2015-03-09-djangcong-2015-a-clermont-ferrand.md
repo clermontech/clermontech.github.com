@@ -33,7 +33,7 @@ Vous pouvez proposer un *Lightning Talk* (5 minutes), une conférence (15 minute
 
 Le soir, nous serons de sortie dans le centre de Clermont pour déguster quelques [plats](http://fr.wikipedia.org/wiki/Pounti) [typiques](http://en.wikipedia.org/wiki/Truffade) de la [région](http://en.wikipedia.org/wiki/Aligot) [Auvergne](http://fr.wikipedia.org/wiki/Pompe_aux_pommes).
 
-### Dimanche 10 mai 2015 : *hicking*
+### Dimanche 10 mai 2015 : *hiking*
 
 La région Auvergne étant particulièrement épanouissante pour des poneys en mal de grands espaces, nous avons décidé de faire une randonnée familiale autour du [Lac du Guéry](http://www.sancy.com/activites/detail/6345/le-mont-dore/lac-du-guery).
 
