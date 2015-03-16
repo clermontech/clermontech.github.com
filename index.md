@@ -40,6 +40,9 @@ technologies que nous portons dans nos cœurs. Chaque intervenant doit être
 traité avec le respect qui lui est dû. Tout manquement à cette règle entraînera
 une exclusion immédiate.
 
+Pour plus d'informations et pour que tout se passe pour le mieux, merci de lire
+notre [Code of Conduct](/code-of-conduct.html) (Code de Conduite).
+
 ### Partage
 
 L'assocation oeuvre pour le partage. Les APIHours sont un lieu d'échange des
