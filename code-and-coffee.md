@@ -69,4 +69,4 @@ gérer la logistique, merci).
 
 Ce _C&C_ introduira le concept de "Café Vie Privée". Pour ceux qui le
 souhaitent, nous proposerons un échange autour de la question suivante :
-_Qu'est-ce que la vie privée ?_.
+_Qu'est-ce que la vie privée ?_
