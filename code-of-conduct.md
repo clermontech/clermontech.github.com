@@ -5,7 +5,7 @@ title: Code de Conduite
 
 Tous les participants, conférenciers, sponsors et volontaires pour nos
 conférences doivent accepter le code de conduite qui suit. Clermont'ech
-s'attachera à faire respecter ce code durant ses événements et attends de la
+s'attachera à faire respecter ce code durant ses événements et attend de la
 part de chaque participant une entière coopération pour assurer un
 environnement sain pour tous.
 
