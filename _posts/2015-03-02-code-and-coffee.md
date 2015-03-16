@@ -28,5 +28,4 @@ facultatif, c'est-à-dire que **vous serez libre de participer** ou non, tout en
 </center>
 
 Nous ferons donc l'expérience lors du prochain _C&C_ (au mois de Mars) avec
-Denis Fondras, sur les problématiques de chiffrement (d'emails). Restez
-branchés !
+Denis Fondras, sur les problématiques de vie privée. Restez branchés !

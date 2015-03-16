@@ -50,9 +50,23 @@ Nous nous donnons rendez-vous au salon de thé/café
 Clermont-Ferrand_) :
 
 <center>
-[![](http://maps.googleapis.com/maps/api/staticmap?size=600x400&sensor=false&markers=color:red|45.778053, 3.085098)](https://goo.gl/maps/S25GC)
+[![](http://maps.googleapis.com/maps/api/staticmap?size=600x400&sensor=false&markers=color:red|45.778053,3.085098)](https://goo.gl/maps/S25GC)
 </center>
 
 ## Quand ?
 
-**Prochain _C&C_ :** à définir.
+**Prochain _C&C_ :** samedi **21 mars 2015 à partir de 10h**.
+
+Vous pouvez **déclarer votre présence** sur ce
+[Framadate](https://framadate.org/9x68vkytbdkhbnd4) (pour nous permettre de
+gérer la logistique, merci).
+
+## Quoi ?
+
+<center>
+![](/images/blog-posts/logo-cafe-vie-privee.png)
+</center>
+
+Ce _C&C_ introduira le concept de "Café Vie Privée". Pour ceux qui le
+souhaitent, nous proposerons un échange autour de la question suivante :
+_Qu'est-ce que la vie privée ?_.
