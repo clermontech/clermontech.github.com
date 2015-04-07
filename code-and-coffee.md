@@ -55,10 +55,10 @@ Clermont-Ferrand_) :
 
 ## Quand ?
 
-**Prochain _C&C_ :** samedi **21 mars 2015 à partir de 10h**.
+**Prochain _C&C_ :** samedi **25 avril 2015 à partir de 10h**.
 
 Vous pouvez **déclarer votre présence** sur ce
-[Framadate](https://framadate.org/9x68vkytbdkhbnd4) (pour nous permettre de
+[Framadate](https://framadate.org/qm8vx87vt6tlbov9) (pour nous permettre de
 gérer la logistique, merci).
 
 ## Quoi ?
