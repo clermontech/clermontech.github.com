@@ -11,7 +11,7 @@ author_url:
 author_image: heymans.jpeg
 
 slides_url: https://docs.google.com/presentation/d/1qfZ_zCUkO4fHGzZpSWz_Lc-L853OcNYlLcVdABG9kX4/edit?pli=1
-video:
+video: D2JjmR9lSvI
 
 title: "AERAS(3) Présentation Extra Rapide (1)"
 ---

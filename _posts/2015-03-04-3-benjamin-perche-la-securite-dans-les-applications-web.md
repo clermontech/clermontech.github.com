@@ -11,7 +11,7 @@ author_url: "https://twitter.com/lovenunu_"
 author_image: benjamin-perche.jpeg
 
 slides_url: http://lovenunu.github.io/security-slides
-video:
+video: T2LTU8nonU8
 
 title: "La Sécurité Dans Les Applications Web"
 ---
