@@ -30,3 +30,5 @@ conférences du samedi.
 * [Back to front - Laurent Paoletti](https://speakerdeck.com/providenz/back-to-front)
 * [Machine learning for the rest of us - Laurent Paoletti](https://speakerdeck.com/providenz/machine-learning-for-the-rest-of-us)
 * [Invoke • Exécuter ses tâches en python - Nicolas Dubois](http://talks.nicolasdubois.com/2015/djangocong/invoke.html)
+* [HTTP/2 & Django ou comment rouler en charrette sur l'autoroute - Yannick Péroux](http://slides.com/k4nar/http-2-django#/)
+* [Comme un poney, mais sans les ailes. Un poney quoi. - Julien Maupetit](http://jmaupetit.github.io/comme-un-poney/)
