@@ -13,6 +13,16 @@ layout: layout
         <div class="row">
             <section itemprop="articleBody" class="blog-post-content">
                 {{ content }}
+
+                {% if page.flickr_set_id %}
+                <h2>Photos</h2>
+                <div>
+                    <ul class="photos-set" data-clearing></ul>
+                </div>
+                <p>
+                    Retrouvez toutes <a href="http://www.flickr.com/photos/{{ site.flickr_id }}/sets/{{ page.flickr_set_id }}"> les photos sur la page Flickr dédiée</a>.
+                </p>
+                {% endif %}
             </section>
         </div>
     </article>
