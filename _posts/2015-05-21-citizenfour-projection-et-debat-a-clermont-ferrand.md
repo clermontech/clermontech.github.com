@@ -13,9 +13,11 @@ population n'est plus de l'ordre du
 fantasme](http://jenairienacacher.fr/surveillance.html). Parce que nous pensons
 qu'être informé sur ce sujet est important, nous avons décidé d'organiser, en
 collaboration avec le cinéma Le Rio, une projection suivie d'un **débat avec
-plusieurs invités**. Après avoir recueilli les réactions qui feront suite au
-film, nous discuterons de la surveillance de masse, de la vie privée et,
-également, de l'actualité à l'étranger mais surtout en France.
+plusieurs invités** dont [Vincent Mazenod](https://twitter.com/mazenovi) et
+[Laurent Chemla](https://twitter.com/laurentchemla). Après avoir recueilli les
+réactions qui feront suite au film, nous discuterons de la surveillance de
+masse, de la vie privée et, également, de l'actualité à l'étranger mais surtout
+en France.
 
 ## A propos du film
 
