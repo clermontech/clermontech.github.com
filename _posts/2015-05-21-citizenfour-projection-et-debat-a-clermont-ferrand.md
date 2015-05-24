@@ -50,7 +50,7 @@ Clermont-Ferrand](https://www.google.com/maps/place/Le+Rio/@45.8036825,3.1085581
 Une limite de **160 personnes** est fixée et la soirée est payante. Le tarif
 régulier (hors remise) est de 7 euros, le tarif étudiant est de 3 euros.
 Pour obtenir un tarif régulier préférentiel via Clermont'ech (5 euros), nous
-vous recommandons de vous inscrire sur la page de l'événment :
+vous recommandons de vous inscrire sur la page de l'événement :
 [http://citizenfour-clermontech.eventbrite.fr](http://citizenfour-clermontech.eventbrite.fr).
 
 Cette projection est bien entendu ouverte à toutes et à tous !
