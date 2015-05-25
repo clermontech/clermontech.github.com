@@ -36,9 +36,9 @@ Snowden.
 
 ## Informations pratiques
 
-La projection du film Citizenfour ainsi que le débat auront lieu le **jeudi 4
-juin 2015 à 20h** au cinéma [**Le Rio**](http://cinemalerio.com/).  L'adresse
-exacte est : [178, rue Sous Les Vignes – 63100
+La projection du film Citizenfour (VOSTFR) ainsi que le débat auront lieu le
+**jeudi 4 juin 2015 à 20h** au cinéma [**Le Rio**](http://cinemalerio.com/).
+L'adresse exacte est : [178, rue Sous Les Vignes – 63100
 Clermont-Ferrand](https://www.google.com/maps/place/Le+Rio/@45.8036825,3.1085581,17z/data=!4m7!1m4!3m3!1s0x47f71eb537a6beb3:0xd21d7a9ebfea0ebc!2s178+Rue+sous+les+Vignes,+63100+Clermont-Ferrand,+France!3b1!3m1!1s0x47f71eb54795d615:0x6ad7e416c4a480ce?hl=en).
 
 <center>
