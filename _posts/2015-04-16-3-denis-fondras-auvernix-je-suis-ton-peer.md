@@ -10,7 +10,7 @@ author: Denis Fondras
 author_url:
 author_image:
 
-slides_url:
+slides_url: http://www.liopen.fr/presentations/auvernix_jstp.pdf
 video:
 
 title: "AuvernIX, Je Suis Ton Peer"
