@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;5
 session_short_name: "&#35;5"
 
 author: Denis Fondras
-author_url:
-author_image:
+author_url: https://twitter.com/ledeuns
+author_image: denis.png
 
 slides_url: https://speakerdeck.com/liopen/introduction-a-dnssec
 video: 2NAopq_t3Ww

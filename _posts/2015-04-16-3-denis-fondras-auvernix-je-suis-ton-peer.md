@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;14
 session_short_name: "&#35;14"
 
 author: Denis Fondras
-author_url:
-author_image:
+author_url: https://twitter.com/ledeuns
+author_image: denis.png
 
 slides_url: http://www.liopen.fr/presentations/auvernix_jstp.pdf
 video:
