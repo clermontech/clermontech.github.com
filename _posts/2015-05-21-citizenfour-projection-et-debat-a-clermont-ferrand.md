@@ -55,4 +55,4 @@ vous recommandons de vous inscrire sur la page de l'événement :
 
 Cette projection est bien entendu ouverte à toutes et à tous !
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.fr/tickets-external?eid=17081765019&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe  src="//eventbrite.fr/tickets-external?eid=17081765019&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
