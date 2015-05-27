@@ -8,9 +8,9 @@ session_short_name: "&#35;14"
 
 author: Cédric Klein
 author_url:
-author_image:
+author_image: cedricklein.jpg
 
-slides_url:
+slides_url: https://fr.slideshare.net/secret/vt8KAFy0BNGFqH
 video:
 
 title: "Web Sémantique"
