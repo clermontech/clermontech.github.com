@@ -10,7 +10,7 @@ author: Tony Pinville
 author_url: https://twitter.com/tpinville
 author_image: tpinville.jpg
 
-slides_url:
+slides_url: http://fr.slideshare.net/TonyPinville/clermontech
 video:
 
 title: "Le Machine Learning En Entreprise : Retour d'Expérience"
