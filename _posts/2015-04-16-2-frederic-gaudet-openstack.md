@@ -10,7 +10,7 @@ author: Frédéric Gaudet
 author_url:
 author_image:
 
-slides_url:
+slides_url: http://www.akatone.com/resources/20150416-Presentation_OpenStack.pdf
 video:
 
 title: "OpenStack"
