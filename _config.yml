@@ -14,6 +14,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-announcement:
-    href: /blog-posts/citizenfour-projection-et-debat-a-clermont-ferrand.html
-    message: "Projection du film Citizenfour en VOSTFR le jeudi 4 juin 2015 à 20h au cinéma Le Rio, suivie d'un débat."
+#announcement:
+#    href:
+#    message:
