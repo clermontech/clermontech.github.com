@@ -33,6 +33,7 @@ sous-titrées). Certaines ressources peuvent être présentes plusieurs fois._
 * [Edward Snowden: The World Says No to Surveillance](http://www.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html) (en anglais)
 * [Voyage au cœur de la NSA](http://www.lemonde.fr/a-la-une/article/2013/08/27/voyage-au-c-ur-de-la-nsa_3467316_3208.html) (article complet en [PDF ici](/resources/Voyage-au-coeur-de-la-NSA.pdf))
 * [Cinq idées fausses sur la surveillance de masse](http://www.liberation.fr/societe/2015/06/05/cinq-idees-fausses-sur-la-surveillance-de-masse_1323369)
+* [La pilule, vous la préférez bleue ou rouge ?](https://blog.jbfavre.org/2015/04/20/la-pilule-vous-la-preferez-bleue-ou-rouge/)
 
 ## A partager
 
