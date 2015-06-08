@@ -46,6 +46,7 @@ sous-titrées). Certaines ressources peuvent être présentes plusieurs fois._
 * [Vie privée et Internet](http://jd.olek.fr/2015/06/vie-privee-et-internet/),
  réactions à chaud de [Jean-David
  Olekhnovitch](https://twitter.com/gidehault), présent lors de la soirée
+* [Citizenfour](https://magicorangeplasticbird.wordpress.com/2015/06/05/citizenfour/) par [Ghislaine Borie](https://twitter.com/GhislaineBorie), présente également
 * [La Quadrature du Net](https://www.laquadrature.net/)
 * Vous souhaitez poursuivre le débat ? Le prochain [Code & Coffee, c'est samedi
  !](/code-and-coffee.html)
