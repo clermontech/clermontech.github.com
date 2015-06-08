@@ -5,7 +5,7 @@ categories: [ blog-posts ]
 title: "Retour sur la projection du film Citizenfour"
 ---
 
-[Jeudi soir dernier](/citizenfour-projection-et-debat-a-clermont-ferrand.html)
+[Jeudi soir dernier](/blog-posts/citizenfour-projection-et-debat-a-clermont-ferrand.html)
 se tenait la projection du film **Citizenfour** au cinéma (climatisé) **Le
 Rio**, diffusion suivie d'un débat d'une heure en companie de [Vincent
 Mazenod](https://twitter.com/mazenovi), [Manuel
