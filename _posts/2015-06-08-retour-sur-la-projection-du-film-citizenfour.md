@@ -48,5 +48,6 @@ sous-titrées). Certaines ressources peuvent être présentes plusieurs fois._
  Olekhnovitch](https://twitter.com/gidehault), présent lors de la soirée
 * [Citizenfour](https://magicorangeplasticbird.wordpress.com/2015/06/05/citizenfour/) par [Ghislaine Borie](https://twitter.com/GhislaineBorie), présente également
 * [La Quadrature du Net](https://www.laquadrature.net/)
+* [CaliOpen](https://caliopen.org/)
 * Vous souhaitez poursuivre le débat ? Le prochain [Code & Coffee, c'est samedi
  !](/code-and-coffee.html)
