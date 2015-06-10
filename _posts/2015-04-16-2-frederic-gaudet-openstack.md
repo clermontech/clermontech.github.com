@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: http://www.akatone.com/resources/20150416-Presentation_OpenStack.pdf
-video:
+video: Ni9FQxFTlKY
 
 title: "OpenStack"
 ---

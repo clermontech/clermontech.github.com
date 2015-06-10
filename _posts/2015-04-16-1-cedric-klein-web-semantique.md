@@ -11,7 +11,7 @@ author_url:
 author_image: cedricklein.jpg
 
 slides_url: https://fr.slideshare.net/secret/vt8KAFy0BNGFqH
-video:
+video: lxAZGMp1Rek
 
 title: "Web Sémantique"
 ---
