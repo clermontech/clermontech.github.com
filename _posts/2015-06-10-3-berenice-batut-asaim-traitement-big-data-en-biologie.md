@@ -10,7 +10,7 @@ author: Bérénice Batut
 author_url:
 author_image:
 
-slides_url:
+slides_url: http://fr.slideshare.net/bebatut/api-hour-100615
 video:
 
 title: "ASAIM : Traitement \"Big Data\" En Biologie"
