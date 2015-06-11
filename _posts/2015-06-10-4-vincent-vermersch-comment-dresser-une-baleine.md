@@ -8,9 +8,9 @@ session_short_name: "&#35;15"
 
 author: Vincent Vermersch
 author_url:
-author_image:
+author_image: vermersch.jpeg
 
-slides_url:
+slides_url: https://speakerdeck.com/vinceveve/how-to-ride-a-whale
 video:
 
 title: "Comment Dresser Une Baleine"
