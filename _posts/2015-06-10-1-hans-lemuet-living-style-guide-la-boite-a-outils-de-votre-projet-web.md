@@ -10,7 +10,7 @@ author: Hans Lemuet
 author_url: https://twitter.com/enops
 author_image: hans.jpg
 
-slides_url:
+slides_url: https://speakerdeck.com/spone/living-style-guide-la-boite-a-outils-de-votre-projet-web
 video:
 
 title: "Living Style Guide : La Boîte à Outils De Votre Projet Web"
