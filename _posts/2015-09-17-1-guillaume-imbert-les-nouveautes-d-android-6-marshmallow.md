@@ -10,7 +10,7 @@ author: Guillaume Imbert
 author_url: https://twitter.com/HozakaN
 author_image: guillaume-imbert.jpg
 
-slides_url:
+slides_url: http://fr.slideshare.net/hozakan/android-6-marshmallow
 video:
 
 title: "Les Nouveautés d'Android 6 Marshmallow"
