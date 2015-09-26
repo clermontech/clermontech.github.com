@@ -10,7 +10,7 @@ author: Romain Tartière
 author_url: http://romain.blogreen.org/
 author_image: tartiere.jpg
 
-slides_url:
+slides_url: http://romain.blogreen.org/files/etrust.pdf
 video:
 
 title: "Confiance sur Internet"
