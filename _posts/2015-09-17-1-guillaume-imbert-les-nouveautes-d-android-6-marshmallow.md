@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;16
 session_short_name: "&#35;16"
 
 author: Guillaume Imbert
-author_url:
-author_image:
+author_url: https://twitter.com/HozakaN
+author_image: guillaume-imbert.jpg
 
 slides_url:
 video:

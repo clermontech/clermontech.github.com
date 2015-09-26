@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;15
 session_short_name: "&#35;15"
 
 author: Bérénice Batut
-author_url:
-author_image:
+author_url: https://twitter.com/bebatut
+author_image: bebatut.jpg
 
 slides_url: http://fr.slideshare.net/bebatut/api-hour-100615
 video:
