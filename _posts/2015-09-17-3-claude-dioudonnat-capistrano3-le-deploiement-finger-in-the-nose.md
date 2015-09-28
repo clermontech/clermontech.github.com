@@ -10,7 +10,7 @@ author: Claude Dioudonnat
 author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
-slides_url:
+slides_url: http://slides.dioudonnat.fr/slides-apihour_16-capistrano/
 video:
 
 title: "Capistrano 3 : Le déploiement \"Finger in the nose\""
