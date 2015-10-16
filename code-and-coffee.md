@@ -55,18 +55,8 @@ Clermont-Ferrand_) :
 
 ## Quand ?
 
-**Prochain _C&C_ :** samedi **13 juin 2015 à partir de 10h**.
+**Prochain _C&C_ :** samedi **24 octobre 2015 à partir de 10h**.
 
 Vous pouvez **déclarer votre présence** sur ce
-[Framadate](https://framadate.org/svdw674nwx2n5o3u) (pour nous permettre de
+[Framadate](https://framadate.org/e3KCEWfS4OUCE5Dw) (pour nous permettre de
 gérer la logistique, merci).
-
-## Quoi ?
-
-<center>
-![](/images/blog-posts/logo-cafe-vie-privee.png)
-</center>
-
-Ce _C&C_ introduira le concept de "Café Vie Privée". Pour ceux qui le
-souhaitent, nous proposerons un échange autour de la question suivante :
-_Qu'est-ce que la vie privée ?_
