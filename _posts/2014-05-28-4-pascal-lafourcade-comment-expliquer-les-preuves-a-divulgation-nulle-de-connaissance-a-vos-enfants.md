@@ -8,7 +8,7 @@ session_short_name: "&#35;9"
 
 author: Pascal Lafourcade
 author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
-author_image:
+author_image: pascal.jpg
 
 slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/ZKP.pdf
 video: NdHcBhILK4E
