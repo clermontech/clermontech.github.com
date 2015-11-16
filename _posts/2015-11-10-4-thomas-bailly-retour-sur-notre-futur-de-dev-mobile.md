@@ -20,3 +20,5 @@ Les voyages dans le temps étant beaucoup trop dangereux, mieux vaut que je me
 consacre à faire un retour sur un grand mystère de notre univers : Le dev.
 cross-platform.  Je vous propose donc de vous faire profiter de mon aventure
 sur un outil de dev. cross platform du nom du Zeus (ou plutôt Ionic Framework).
+
+Une question ? Vous pouvez contacter Thomas ici : thomas.bailly[AT]supinfo.com
