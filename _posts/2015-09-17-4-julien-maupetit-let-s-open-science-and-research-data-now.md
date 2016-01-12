@@ -13,7 +13,7 @@ author_image: julienmaupetit.jpg
 slides_url: https://jmaupetit.github.io/let-s-open-science-and-research-data/
 video:
 
-title: "Let's open science & research data. Now."
+title: "Let's open science &amp; research data. Now."
 ---
 
 En tant que chercheur académique, j'ai pu voir de l'intérieur comment est
