@@ -14,6 +14,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-#announcement:
-#    href:
-#    message:
+announcement:
+    href: http://planet.clermontech.org/
+    message: "Retrouvez tous les événements du monde IT Auvergnat sur le <strong>Planet</strong> Clermont'ech !"
