@@ -19,7 +19,7 @@ déroulera à l'intérieur de nos volcans !
 Le PHP Tour, ce sont **deux jours** de conférences pleinières de 20 ou 40
 minutes, des _lightning talks_ (c'est-à-dire des conférences très courtes, plus
 courtes que nos [API Hours](/api-hours/)), mais également des ateliers. Cet
-événement attire chaque année quelques centaines de personnes de tout horizon,
+événement attire chaque année quelques centaines de personnes de tous horizons,
 c'est _THE place to be_ pour toute personne liée au langage PHP, de près ou de
 loin.
 
