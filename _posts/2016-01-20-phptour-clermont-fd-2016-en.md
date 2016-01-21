@@ -38,10 +38,10 @@ planned. Every year, hundreds of attendees are welcomed.
 
 We want everyone to be there. By "everyone", we really mean **everyone**, and
 we, organizers, are committed to making this event a **safer place** than ever,
-for everyone, regardless of whatever. Both AFUP and Clermont'ech have [Codes of
+for everyone, regardless of background. Both AFUP and Clermont'ech have [Codes of
 Conduct](http://afup.org/pages/site/?route=code-of-conduct/79), in which we
-trust, and anyone attending the PHP Tour (as well as any of our events) MUST
-understand, accept, and respect these rules. No exception.
+trust. We will enforce it, and anyone attending the PHP Tour (as well as any of
+our events) MUST understand, accept, and respect these rules. No exception.
 
 Yet, diversity cannot be achieved without a decent schedule. That is why we need
 **all** of you! The **Call For Paper is open** until February 20, and we cannot
