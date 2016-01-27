@@ -15,5 +15,5 @@ rss:
     email: "hello@clermontech.org"
 
 announcement:
-    href: http://planet.clermontech.org/
-    message: "Retrouvez tous les événements du monde IT Auvergnat sur le <strong>Planet</strong> Clermont'ech !"
+    href: http://clermontech.org/blog-posts/phptour-clermont-fd-2016.html
+    message: "Nous co-organisons le **PHP Tour 2016** à Clermont-Ferrand !"
