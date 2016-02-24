@@ -10,7 +10,7 @@ author: Pierre Tachoire
 author_url: https://twitter.com/krichprollsch
 author_image: krichprollsch.jpeg
 
-slides_url:
+slides_url: http://krichprollsch.gitlab.io/teletravail/
 video:
 
 title: "Mythes et Réalités du Télétravail"
