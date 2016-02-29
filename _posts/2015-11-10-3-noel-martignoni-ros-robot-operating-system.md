@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;17
 session_short_name: "&#35;17"
 
 author: Noel Martignoni
-author_url:
-author_image:
+author_url: https://twitter.com/XNeoMac
+author_image: noel.jpeg
 
 slides_url:
 video: Df4KPv8Tz84

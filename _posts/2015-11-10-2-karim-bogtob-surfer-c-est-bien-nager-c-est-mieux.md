@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;17
 session_short_name: "&#35;17"
 
 author: Karim Bogtob
-author_url:
-author_image:
+author_url: https://twitter.com/kbogtob
+author_image: karim.jpg
 
 slides_url:
 video: 5LRbGsQB594
