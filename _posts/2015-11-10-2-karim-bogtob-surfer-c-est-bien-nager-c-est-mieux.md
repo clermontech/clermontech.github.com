@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: 5LRbGsQB594
 
 title: "Surfer C'est Bien, Nager C'est Mieux"
 ---

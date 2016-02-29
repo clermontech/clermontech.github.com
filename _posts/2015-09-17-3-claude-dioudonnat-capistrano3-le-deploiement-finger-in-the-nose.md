@@ -11,7 +11,7 @@ author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
 slides_url: http://slides.dioudonnat.fr/slides-apihour_16-capistrano/
-video:
+video: EcMrcmc0Kxs
 
 title: "Capistrano 3 : Le déploiement \"Finger in the nose\""
 ---

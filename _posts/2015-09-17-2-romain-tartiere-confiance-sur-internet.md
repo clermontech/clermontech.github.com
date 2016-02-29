@@ -11,7 +11,7 @@ author_url: http://romain.blogreen.org/
 author_image: tartiere.jpg
 
 slides_url: http://romain.blogreen.org/files/etrust.pdf
-video:
+video: S6wMS5B92sE
 
 title: "Confiance sur Internet"
 ---

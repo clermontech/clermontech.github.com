@@ -11,7 +11,7 @@ author_url: https://twitter.com/julienmaupetit
 author_image: julienmaupetit.jpg
 
 slides_url: https://jmaupetit.github.io/let-s-open-science-and-research-data/
-video:
+video: lnh78zruW6I
 
 title: "Let's open science &amp; research data. Now."
 ---

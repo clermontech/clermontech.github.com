@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: Df4KPv8Tz84
 
 title: "ROS (Robot Operating System)"
 ---

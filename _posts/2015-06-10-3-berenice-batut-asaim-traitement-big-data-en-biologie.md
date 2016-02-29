@@ -11,7 +11,7 @@ author_url: https://twitter.com/bebatut
 author_image: bebatut.jpg
 
 slides_url: http://fr.slideshare.net/bebatut/api-hour-100615
-video:
+video: kxK7k6o4Tfg
 
 title: "ASAIM : Traitement \"Big Data\" En Biologie"
 ---
