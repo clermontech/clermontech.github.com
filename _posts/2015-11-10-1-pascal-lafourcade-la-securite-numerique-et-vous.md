@@ -11,7 +11,7 @@ author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
 author_image: pascal.jpg
 
 slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/Slides-Clermontech-2015.pdf
-video:
+video: DuA0xdb-LXc
 
 title: "La Sécurité Numérique Et Vous ?"
 ---

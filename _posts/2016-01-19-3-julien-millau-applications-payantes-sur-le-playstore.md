@@ -11,7 +11,7 @@ author_url: https://twitter.com/devnied
 author_image: devnied.png
 
 slides_url:
-video:
+video: g5k2Rf952Yc
 
 title: "Applications Payantes sur le PlayStore"
 ---

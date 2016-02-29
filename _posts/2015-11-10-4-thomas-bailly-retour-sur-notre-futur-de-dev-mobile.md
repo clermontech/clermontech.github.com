@@ -11,7 +11,7 @@ author_url: https://twitter.com/Daztane
 author_image: daztane.jpg
 
 slides_url: http://slides.com/daztane/deck
-video:
+video: 01xCm9DCKUo
 
 title: "Retour Sur Notre Futur ? (De Dev Mobile)"
 ---
