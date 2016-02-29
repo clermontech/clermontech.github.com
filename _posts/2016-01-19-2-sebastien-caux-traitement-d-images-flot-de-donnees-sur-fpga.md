@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: 2NpAdx3C0j8
 
 title: "Traitement d'images Flot de Données sur FPGA"
 ---

@@ -11,7 +11,7 @@ author_url: https://twitter.com/krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url: http://krichprollsch.gitlab.io/teletravail/
-video:
+video: QqfaiTYqEjY
 
 title: "Mythes et Réalités du Télétravail"
 ---
