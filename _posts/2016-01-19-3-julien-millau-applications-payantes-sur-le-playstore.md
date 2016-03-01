@@ -10,7 +10,7 @@ author: Julien Millau
 author_url: https://twitter.com/devnied
 author_image: devnied.png
 
-slides_url:
+slides_url: http://julien-millau.fr/Clermontech-talk-playstore/
 video: g5k2Rf952Yc
 
 title: "Applications Payantes sur le PlayStore"
