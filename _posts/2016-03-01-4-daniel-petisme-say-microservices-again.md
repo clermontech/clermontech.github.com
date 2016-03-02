@@ -11,7 +11,7 @@ author_url: https://twitter.com/danielpetisme
 author_image: danielpetisme.png
 
 slides_url: https://danielpetisme.github.io/say-microservices-again/
-video:
+video: UTh48ZhwQcw
 
 title: "Say Microservices Again!"
 ---

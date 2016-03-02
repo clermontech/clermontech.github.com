@@ -11,7 +11,7 @@ author_url: https://twitter.com/Kgaut
 author_image: kgaut.jpg
 
 slides_url: http://drupal8.formations.kgaut.net/
-video:
+video: g8DStSOf4og
 
 title: "Drupal 8 - Quoi De Neuf ?"
 ---

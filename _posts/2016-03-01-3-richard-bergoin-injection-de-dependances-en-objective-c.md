@@ -11,7 +11,7 @@ author_url: https://twitter.com/mackenji21
 author_image: richard.png
 
 slides_url:
-video:
+video: H69l-IBK958
 
 title: "Injection de dépendance en Objective-C"
 ---

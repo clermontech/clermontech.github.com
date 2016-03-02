@@ -11,7 +11,7 @@ author_url: https://twitter.com/manuraynaud
 author_image: manuraynaud.jpeg
 
 slides_url: http://raynaud.io/slides/mysql57/
-video:
+video: c1TzE93fm3Y
 
 title: "MySQL 5.7 - Nouveautés"
 ---
