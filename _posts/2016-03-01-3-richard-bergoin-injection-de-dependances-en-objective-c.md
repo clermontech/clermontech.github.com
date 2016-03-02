@@ -10,7 +10,7 @@ author: Richard Bergoin
 author_url: https://twitter.com/mackenji21
 author_image: richard.png
 
-slides_url:
+slides_url: https://speakerdeck.com/kenji/injection-dependance-objc
 video: H69l-IBK958
 
 title: "Injection de dépendances en Objective-C"
