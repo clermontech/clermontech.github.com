@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;8
 session_short_name: "&#35;8"
 
 author: Richard Bergoin
-author_url:
-author_image:
+author_url: https://twitter.com/mackenji21
+author_image: richard.png
 
 slides_url: https://speakerdeck.com/kenji/from-java-to-objective-c
 video: JAN1tvqN_4g
