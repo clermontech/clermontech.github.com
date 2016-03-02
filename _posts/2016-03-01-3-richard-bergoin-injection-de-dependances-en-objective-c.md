@@ -13,7 +13,7 @@ author_image: richard.png
 slides_url:
 video: H69l-IBK958
 
-title: "Injection de dépendance en Objective-C"
+title: "Injection de dépendances en Objective-C"
 ---
 
 Un gros mot pour faire une chose simple : rendre vos objets testable (et donc
