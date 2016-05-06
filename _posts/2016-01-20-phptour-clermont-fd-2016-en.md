@@ -5,9 +5,7 @@ categories: [ blog-posts ]
 title: "PHP Tour Clermont-Fd 2016 (English Version)"
 ---
 
-<center>
 ![](/images/blog-posts/phptour.png)
-</center>
 
 Dear non-French reader, this entry is a (sort of) translation of our [PHP Tour
 Clermont-Fd 2016](/blog-posts/phptour-clermont-fd-2016.html) blog post.
@@ -26,9 +24,7 @@ team, which is famous for... loosing finals. Don't know what it is? No worries,
 because this place is way more famous for its quality of life and its volcanos.
 Yes. Volcanos like these ones:
 
-<center>
 ![](/images/blog-posts/auvergne.jpg)
-</center>
 
 This is a wonderful area, and you will love it!  Anyway, back to the PHP Tour.
 This event lasts **two full days**, and the venue is the **Polydome convention

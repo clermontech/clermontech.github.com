@@ -233,8 +233,9 @@ header {
         .blog-post-content {
             @include grid-column(12);
 
-            .centered-img {
-                text-align: center;
+            img {
+                display: block;
+                margin: 0 auto;
             }
         }
     }

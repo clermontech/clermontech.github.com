@@ -11,9 +11,7 @@ La [DjangoCong Clermont](http://rencontres.django-fr.org/2015/) approche à gran
 
 ## 1. Sortir de sa grotte
 
-<center>
-    ![Cave meme](http://i.imgur.com/r8TxENl.jpg)
-</center>
+![Cave meme](http://i.imgur.com/r8TxENl.jpg)
 
 Sortir de sa grotte. Oui, sortir de sa grotte. Cette expression assez usitée dans le monde des développeurs est employée ici au sens propre, comme au sens figuré. Dans la première, il s'agit de sortir de chez soi de temps en temps (c'est bien pour votre santé, si si croyez nous). Dans la seconde, il est intéressant de s'ouvrir, de sortir de son cercle de confiance, de ses technos et d'aller voir ce qu'il se passe ailleurs pour peut être voir la lumière.
 
@@ -23,17 +21,15 @@ Donc, si vous développez au quotidien avec [Symfony](http://symfony.com/), [Pla
 
 ## 2. Débuter (ou se perfectionner) avec Django
 
-<center>
-    ![Pony Magic](http://happygiraffe.net/blog/wp-content/uploads/2008/09/pony-magic.png)
-</center>
+![Pony Magic](http://happygiraffe.net/blog/wp-content/uploads/2008/09/pony-magic.png)
 
-Cette année, nous avons voulu profiter d'un jour férié pour avoir trois jours consécutifs ensembles. Le premier jour (vendredi 8 mai) sera donc l'occasion d'un atelier autour de Django. 
+Cette année, nous avons voulu profiter d'un jour férié pour avoir trois jours consécutifs ensembles. Le premier jour (vendredi 8 mai) sera donc l'occasion d'un atelier autour de Django.
 
 Durant cet atelier, nous aurons deux sessions parallèles à aborder en fonction de votre niveau:
 
 ### Je veux apprendre Django
 
-Vous bidouillez un peu en python, mais vous n'avez jamais fait de web. Ou vous avez déjà commencé avec un micro-framework type [Bottle](http://bottlepy.org) ou [Flask](http://flask.pocoo.org), mais vous n'avez pas pris le temps d'essayer Django. Alors profitez de cet atelier pour passer le cap et commencer à développer votre première application Django, encadré par des développeurs aguerris. 
+Vous bidouillez un peu en python, mais vous n'avez jamais fait de web. Ou vous avez déjà commencé avec un micro-framework type [Bottle](http://bottlepy.org) ou [Flask](http://flask.pocoo.org), mais vous n'avez pas pris le temps d'essayer Django. Alors profitez de cet atelier pour passer le cap et commencer à développer votre première application Django, encadré par des développeurs aguerris.
 
 ### Je veux me perfectionner en Django
 
@@ -59,13 +55,8 @@ Mais s'il est une communauté qui nous ressemble, c'est bien celle des poneys fr
 
 ## 5. Découvrir le terroir auvergnat
 
-<center>
-    ![image](http://guillaume-hermant.piwigo.com/uploads/n/4/9/n49wawyl5a/2010/06/16/20100616231138-df662146.jpg)
-</center>
-
-<center>
-        Crédit photo :  [Le Massif Adventif et le Lac de Guéry](http://guillaume-hermant.piwigo.com/picture?/1140/tags/11-lac) © [Guillaume Hermant](http://guillaume-hermant.piwigo.com)
-</center>
+<img src="http://guillaume-hermant.piwigo.com/uploads/n/4/9/n49wawyl5a/2010/06/16/20100616231138-df662146.jpg">
+<br> Crédit photo : <a href="http://guillaume-hermant.piwigo.com/picture?/1140/tags/11-lac">Le Massif Adventif et le Lac de Guéry</a>) © <a href="http://guillaume-hermant.piwigo.com">Guillaume Hermant</a>
 
 Il ne faut pas se le cacher, partir en conférence, c'est aussi profiter de l'environnement de la dite conférence ; dans ce cas précis : l'Auvergne. Au delà de la dégustation de truffade et de fromages auvergnats qui vous seront proposés lors du repas communautaire le samedi soir, cette année, nous avons voulu pleinement profiter de votre déplacement dans les terres du milieu pour vous faire respirer un peu et faire briller vos mirettes.
 
