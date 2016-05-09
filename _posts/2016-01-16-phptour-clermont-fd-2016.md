@@ -5,9 +5,7 @@ categories: [ blog-posts ]
 title: "PHP Tour Clermont-Fd 2016"
 ---
 
-<center>
 ![](/images/blog-posts/phptour.png)
-</center>
 
 [English version here](http://clermontech.org/blog-posts/phptour-clermont-fd-2016-en.html).
 
