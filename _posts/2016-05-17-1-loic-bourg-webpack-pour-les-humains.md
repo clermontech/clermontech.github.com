@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;20
 session_short_name: "&#35;20"
 
 author: Loic Bourg
-author_url:
-author_image:
+author_url: https://twitter.com/LoicBourg63
+author_image: loic-bourg.jpeg
 
 slides_url:
 video: I87UzXfdDy8
