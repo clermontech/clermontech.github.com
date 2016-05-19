@@ -10,7 +10,7 @@ author: Simon Daspe
 author_url: https://twitter.com/simondaspe
 author_image: simon-daspe.jpeg
 
-slides_url:
+slides_url: http://fr.slideshare.net/simondaspe/customer-success-management-clermontech
 video: MkWlDXTiBuk
 
 title: "Le Customer Success Management au centre du modèle SaaS"
