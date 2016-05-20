@@ -10,7 +10,7 @@ author: Loic Bourg
 author_url: https://twitter.com/LoicBourg63
 author_image: loic-bourg.jpeg
 
-slides_url:
+slides_url: http://webpack-pour-les-humains.slides.itnetwork.fr/
 video: I87UzXfdDy8
 
 title: "Webpack pour les Humains"
