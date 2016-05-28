@@ -45,18 +45,8 @@ via IRC. Ce n'est donc pas un soucis, au contraire !
 
 ## Où ?
 
-Nous nous donnons rendez-vous au salon de thé/café
-[**Kissaten**](http://www.kissaten.fr/) (_9 rue Terrasse - 63000
-Clermont-Ferrand_) :
-
-<center>
-[![](http://maps.googleapis.com/maps/api/staticmap?size=600x400&sensor=false&markers=color:red|45.778053,3.085098)](https://goo.gl/maps/S25GC)
-</center>
+TBD
 
 ## Quand ?
 
-**Prochain _C&C_ :** samedi **24 octobre 2015 à partir de 10h**.
-
-Vous pouvez **déclarer votre présence** sur ce
-[Framadate](https://framadate.org/e3KCEWfS4OUCE5Dw) (pour nous permettre de
-gérer la logistique, merci).
+**Prochain _C&C_ :** TBD
