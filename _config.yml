@@ -10,6 +10,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-announcement:
-    href: http://clermontech.org/blog-posts/phptour-clermont-fd-2016.html
-    message: "Nous co-organisons le <strong>PHP Tour 2016</strong> à Clermont-Ferrand !"
+#announcement:
+#    href:
+#    message:
