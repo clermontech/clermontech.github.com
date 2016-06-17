@@ -16,9 +16,9 @@ tout ! Essayez de venir lors du créneau prévu, sinon vous risquez d'être plus
 seul(e) que prévu ;-)
 
 Organisés sur une matinée autour de croissants et autres viennoiseries, de
-boissons chaudes et de WIFI, il s'agit de se retrouver pour passer de bons
-moments ensembles. Nous prévoyons généralement des créneaux de 2h (9h30/10h à
-11h30/12h).
+boissons chaudes et de Wi-Fi, il s'agit de se retrouver pour passer de bons
+moments ensembles. Nous prévoyons généralement des créneaux de 2h (de 9h30 à
+11h30).
 
 ### Puis-je venir accompagné ?
 
@@ -45,8 +45,12 @@ via IRC. Ce n'est donc pas un soucis, au contraire !
 
 ## Où ?
 
-TBD
+**[L'instan T](https://www.facebook.com/LInstan-T-848102225224690/)**<br />
+1 Rue Verdier Latour<br />
+63000 Clermont-Ferrand
+
+Pour les gens perdus: [45,7789537, 3,0850266](http://www.openstreetmap.org/node/3834529609#map=18/45.77895/3.08436)
 
 ## Quand ?
 
-**Prochain _C&C_ :** TBD
+**Prochain _C&C_ :** Samedi 25 juin 2016 à 9h30
