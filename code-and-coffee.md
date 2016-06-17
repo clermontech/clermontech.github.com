@@ -31,13 +31,13 @@ vous inscrire pour venir, prévenez juste avant en
 
 Et comment !
 
-### Puis-je proposer un thème ?
+### Puis-je proposer un thème ?
 
 Oh chic alors &hearts; C'est l'idée en effet, si un sujet vous tient à coeur
 et vous souhaitez le partager, n'hésitez pas. La faible dimension des _C&C_
 permettent de favoriser des échanges. Une idée ? C'est par [là](mailto:hello@clermontech.org).
 
-### Et si je ne souhaite pas bosser ?
+### Et si je ne souhaite pas bosser ?
 
 Nous privilégions le petit-déjeuner et les discussions qui en découlent plutôt
 que d'être tous réunis, nez dans nos écrans, sans rien se dire autrement que
