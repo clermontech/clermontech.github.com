@@ -10,12 +10,19 @@ Le siège social de l'association est situé 19 rue Rabelais 63100 Clermont-Ferr
 
 Le bureau de l'association est composé de :
 
-* Président : [Julien Maupetit](http://julien.maupetit.me)
-* Vice président : [Julien Muetton](http://muetton.me/)
+* Président : [Manuel Raynaud](http://www.manuel-raynaud.com)
+* Vice président : Romain Tartière
 * Trésorier : Pierre Tachoire
-* Trésorier suppléant : [William Durand](http://williamdurand.fr)
-* Secrétaire : [Manuel Raynaud](http://www.manuel-raynaud.com)
-* Secrétaire suppléant : [Jean-Philippe Serafin](http://jeanphix.me/)
+* Trésorier suppléant : Claude Dioudonnat
+* Secrétaire : Camille Loiseau
+* Secrétaire suppléant : [Julien Muetton](http://muetton.me/)
+
+## Conseil de surveillance
+
+Le conseil de surveillance de l'association est composé de :
+
+* [Julien Maupetit](http://julien.maupetit.me)
+* [William Durand](http://williamdurand.fr)
 
 ## Statuts
 
