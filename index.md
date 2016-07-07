@@ -11,7 +11,6 @@ sponsors:
   - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
   - { url: "http://www.overscan.com/", img: "overscan.png", alt: "Overscan" }
   - { url: "http://tailordev.fr", img: "tailordev.png", alt: "TailorDev" }
-  - { url: "http://www.liopen.fr/", img: "liopen.png", alt: "Liopen" }
   - { url: "http://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "http://www.github.com/", img: "github.png", alt: "GitHub" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
