@@ -2,6 +2,7 @@
 layout: home
 title: Manifesto
 sponsors:
+  - { url: "http://www.domraider.com/", img: "domraider.png", alt: "Domraider" }
   - { url: "http://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
   - { url: "http://www.biocorp.fr/", img: "biocorp.png", alt: "Biocorp" }
   - { url: "http://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
