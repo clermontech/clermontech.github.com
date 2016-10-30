@@ -53,4 +53,4 @@ Pour les gens perdus: [45,7789537, 3,0850266](http://www.openstreetmap.org/node/
 
 ## Quand ?
 
-**Prochain _C&C_ :** samedi 4 novembre 2016 à 9h30
+**Prochain _C&C_ :** samedi 5 novembre 2016 à 9h30
