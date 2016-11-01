@@ -11,7 +11,7 @@ author_url: https://twitter.com/agallou
 author_image: adrien-gallou.jpg
 
 slides_url: https://agallou.github.io/slides-pertinence-es-decitre/
-video: 
+video: B5x2gB29X1I 
 
 title: "Retour sur l’amélioration de la pertinence sur Elasticsearch"
 ---
