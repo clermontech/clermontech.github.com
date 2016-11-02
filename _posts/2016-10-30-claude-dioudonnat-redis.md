@@ -10,8 +10,8 @@ author: Claude Dioudonnat
 author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
-slides_url:
-video:
+slides_url: http://slides.dioudonnat.fr/ah22/
+video: VE_MFqx0fSE
 
 title: "Redis"
 ---

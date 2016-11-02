@@ -11,7 +11,7 @@ author_url: https://twitter.com/__etienne
 author_image: roudeix.png
 
 slides_url: http://github.roudeix.net/talks-rethinkDB
-video:
+video: kEuOuRoHRI0
 
 title: "rethinkDB"
 ---
