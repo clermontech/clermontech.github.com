@@ -11,7 +11,7 @@ author_url: https://twitter.com/aymericbrisse
 author_image: aymericbrisse.jpeg
 
 slides_url: http://www.slideshare.net/abrisse/adopte-une-bdd
-video:
+video: 4Fe19gW9PiI
 
 title: "Adopte une BDD"
 ---
