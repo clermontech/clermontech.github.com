@@ -31,6 +31,11 @@ vous inscrire pour venir, prévenez juste avant en
 
 Et comment !
 
+### Dois-je m'inscire ?
+
+Ça n'est pas obligatoire, mais on vous réserve un croissant si vous le faites.
+Ça se passe [ici]( ttps://framadate.org/PyBY2NOPlS2umSFo).
+
 ### Puis-je proposer un thème ?
 
 Oh chic alors &hearts; C'est l'idée en effet, si un sujet vous tient à coeur
