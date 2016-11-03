@@ -34,7 +34,7 @@ Et comment !
 ### Dois-je m'inscire ?
 
 Ça n'est pas obligatoire, mais on vous réserve un croissant si vous le faites.
-Ça se passe [ici]( ttps://framadate.org/PyBY2NOPlS2umSFo).
+Ça se passe [ici](https://framadate.org/PyBY2NOPlS2umSFo).
 
 ### Puis-je proposer un thème ?
 
