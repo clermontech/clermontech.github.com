@@ -8,7 +8,7 @@
     <id>{{ site.base_url }}/</id>
     <author>
         <name>{{ site.rss.author }}</name>
-        <email>{{ site.rss.email }}</email>
+        <email>{{ site.rss.email }}</email>
     </author>
     {% for post in site.posts %}
     <entry>
