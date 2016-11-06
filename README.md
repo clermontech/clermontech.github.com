@@ -22,7 +22,7 @@ Then build the image
 
 Now run your image:
 
-    $ docker run --rm -ti -p 4000:4000 -v $PWD:/srv jekyll-clermontech exec jekyll serve
+    $ docker run --rm -ti -p 4000:4000 -v $PWD:/srv jekyll-clermontech exec jekyll serve --host=0.0.0.0
 
 Browse [`http://localhost:4000`](http://localhost:4000).
 
