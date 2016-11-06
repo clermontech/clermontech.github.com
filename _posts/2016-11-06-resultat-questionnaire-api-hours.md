@@ -16,7 +16,7 @@ et que l'ont souhaite vous rendre compte. Pour les plus curieux d'entre-vous, [l
 Bien que nous essayons de communiquer au mieux autour des API Hours, il semble important de s'améliorer sur ces points.
 En effet, 22% de ceux qui ne sont jamais venus et 13% de ceux qui ne sont pas revenus n'ont pas assez d'information sur les API Hours.
 Aussi nous allons mettre plus en avant la mailing list sur le site internet de l'association et communiquer auprès de plus de listes de diffusions à propos des événements Clermont'ech.
-D'ailleurs si tu connais une mailing list qui te semble pertinente et sur laquelle nous ne relayons pas nos annonces, n'hésite pas à faire passer le message en mettant hello@clermontech.org en copie pour que nous y pensions à l'avenir.
+D'ailleurs si tu connais une mailing list qui te semble pertinente et sur laquelle nous ne relayons pas nos annonces, n'hésite pas à faire passer le message en mettant [hello@clermontech.org](mailto:hello@clermontech.org) en copie pour que nous y pensions à l'avenir.
 
 ## Organisation des API Hours
 
@@ -37,17 +37,17 @@ Nous avons par contre été assez surpris que 70% d'entre-vous étaient prêt à
 
 Un des points positifs du questionnaire est de nous avoir donné de nombreuses idées de talks et de sujet que vous aimeriez voir abordés.
 Pour susciter un maximum de vocations de speakers parmi vous, nous avons décidé de rendre cette [wishlist informelle publique](/api-hours/wishlist.html).
-N'hésite pas à piocher dedans pour nous envoyer tes propositions ! Propose aussi des ajouts dans la wishlist via une PR sur GitHub ou directement par e-mail à hello@clermontech.org.
+N'hésite pas à piocher dedans pour nous envoyer tes propositions ! Propose aussi des ajouts dans la wishlist via une PR sur GitHub ou directement par e-mail à [hello@clermontech.org](mailto:hello@clermontech.org).
 
 Une autre question très satisfaisante pour nous n'est autre que la colonne cooptation du questionnaire. Vous avez été nombreux à nous donner des noms d'hommes et de femmes qui pourraient devenir speaker à Clermont'ech, merci ! Nous allons les contacter individuellement pour leur proposer de soumettre un sujet.
-C'est tellement bien pour nous que nous avons ouvert un e-mail speaker-leaks@clermontech.org pour coopter des speakers.
+C'est tellement bien pour nous que nous avons ouvert un e-mail [speaker-leaks@clermontech.org](mailto:speaker-leaks@clermontech.org) pour coopter des speakers.
 Bien sûr nous ne rendrons publique ni la liste des personnes suggérées, ni celle des personnes qui ont fait ces suggestions.
 
 De même dans une volonté de diversifier les speakers, les membres du bureau vont tâcher de solliciter des personnes de nouveaux horizons.
 
 Enfin pour t'aider à faire ta première conférence, nous sommes heureux de mettre officiellement en place un **programme de mentoring**.
 Composés d'anciens speakers volontaires, les mentors peuvent répondre à tes questions sur ton sujet et te délivrer de précieux conseils.
-Si tu es interressé(e) et ce, à n'importe quel moment dans la préparation de ta conférence, il suffit de nous envoyer ton sujet et ta demande à hello@clermontech.org et nous nous chargeons de te mettre en relation avec elle ou lui.
+Si tu es interressé(e) et ce, à n'importe quel moment dans la préparation de ta conférence, il suffit de nous envoyer ton sujet et ta demande à [hello@clermontech.org](mailto:hello@clermontech.org) et nous nous chargeons de te mettre en relation avec elle ou lui.
 
 ## Pour terminer à propos des sujets à aborder
 
