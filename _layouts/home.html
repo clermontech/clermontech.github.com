@@ -18,10 +18,10 @@ layout: layout
                 Vous pouvez également nous suivre sur twitter : <a href="https://twitter.com/clermontech/">@clermontech</a>.
             </p>
         </section>
-        <section class="talks">
-            <h2>Talks</h2>
+        <section class="blog">
+            <h2>Le Blog</h2>
             <ul>
-            {% for page in site.categories['talks'] limit:8 %}
+            {% for page in site.categories['blog-posts'] limit:3 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
@@ -34,18 +34,18 @@ layout: layout
             {% endfor %}
             </ul>
         </section>
-        <section class="workshops">
-            <h2>Workshops</h2>
+        <section class="talks">
+            <h2>Talks</h2>
             <ul>
-            {% for page in site.categories['workshops'] limit:3 %}
+            {% for page in site.categories['talks'] limit:4 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
         </section>
-        <section class="blog">
-            <h2>Le Blog</h2>
+        <section class="workshops">
+            <h2>Workshops</h2>
             <ul>
-            {% for page in site.categories['blog-posts'] limit:5 %}
+            {% for page in site.categories['workshops'] limit:3 %}
             {% include headline.html %}
             {% endfor %}
             </ul>
