@@ -68,12 +68,16 @@ publiquement sur Internet.
 
 Tout le monde est libre de proposer un talk à Clermont'ech, sans limite de
 sujet. Chaque personne peut déposer plusieurs talks.
+Une [wishlist](/api-hours/wishlist.html) de sujets est disponible à titre d'indication.
 
 Le mode de proposition est l'envoi d'un descriptif du talk, éventuellement
 accompagné des slides par mail à [iwanttospeak@clermontech.org](mailto:iwanttospeak@clermontech.org).
 
 Une discussion pourra être engagée entre le déposant et les membres de la
 mailing list afin de discuter de la proposition.
+
+Un mentor peux venir en aide le speaker sur sa demande à tout moment lors de
+l'élaboration du talk. Les mentors sont des volontaires parmis les anciens speakers.
 
 A l'issue de la discussion, la proposition de talk est soumise au vote exclusif des
 membres de l'association Clermont'ech.

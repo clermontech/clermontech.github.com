@@ -18,4 +18,11 @@ De plus, pour donner sa chance à chacun, les **lieu et jour** des API Hours
 sont **variables**. La fréquence de ces événements est de **6 à 8 semaines**.
 Les [vidéos et slides](/talks/) sont mises en ligne après chaque événement.
 
+Nous sommes en permanence en recherche de nouveaux speakers.
+Une liste indicative de sujets est disponible sur la page [wishlist](/api-hours/wishlist.html).
+N'hésite pas à proposer un talk par mail à [iwanttospeak@clermontech.org](mailto:iwanttospeak@clermontech.org).
+
+Des mentors parmis les anciens speakers sont disponibles pour t'aider à l'élaboration de ton talk si tu le souhaites.
+Il suffit de demander par email.
+
 ## &Eacute;vénements Passés
