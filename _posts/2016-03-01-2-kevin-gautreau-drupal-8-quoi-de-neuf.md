@@ -6,7 +6,7 @@ session_url: /api-hours/api-hour-19.html
 session_name: Clermont'ech API Hour &#35;19
 session_short_name: "&#35;19"
 
-author: Kévin Gautreau
+author: Kevin Gautreau
 author_url: https://twitter.com/Kgaut
 author_image: kgaut.jpg
 
