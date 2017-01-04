@@ -9,7 +9,6 @@ sponsors:
   - { url: "https://www.coffreo.com/", img: "coffreo.png", alt: "Coffreo" }
   - { url: "http://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
   - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
-  - { url: "http://www.overscan.com/", img: "overscan.png", alt: "Overscan" }
   - { url: "http://tailordev.fr", img: "tailordev.png", alt: "TailorDev" }
   - { url: "http://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "http://www.github.com/", img: "github.png", alt: "GitHub" }
