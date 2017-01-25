@@ -12,155 +12,136 @@ ou par [email](mailto:hello@clermontech.org).
 Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermontech.org](mailto:iwanttospeak@clermontech.org).
 
 ## Scientifique
-* domaines scientifiques éléments finis, apprentissage, cartographie
-* bioinfo
-* probas/stats
-* garder la bio-Informatique. C'est cool de voir l'impact de l'informatique sur autre chose qu'un ordinateur !
-* scipy
+* Domaines scientifiques éléments finis, apprentissage, cartographie
+* Bioinfo
+* Probas/stats
+* Garder la bio-Informatique. C'est cool de voir l'impact de l'informatique sur autre chose qu'un ordinateur !
+* Scipy
 * Sciences générales
 
 ## Admin sys
-* administration système
-* gestion des logs
+* Administration système
+* Gestion des logs
 * rkt
 * Retour d' Xp déploiement continu
 * OpenBSD
 * Ceph
 * RPKI-ROA
 * Les aspects de la mise en prod
-* du système
-* Systemd?
-* vulgarisation programmation system ex: programmation sur GPU ...
+* Systemd
+* Vulgarisation programmation system ex: programmation sur GPU ...
 * Bluetooth Low Energy
 * Kernel Linux
-* protocol reseaux
+* Protocol reseaux
 * VoIP/Asterisk
 * Puppet
 * MCollective
-* réseaux
+* Réseaux
 
 ## Machine learning / AI
-* Machine learning
 * Deep learning
 * Spark
-* les IA ! sinon
 * L'intelligence artificielle
-* l'AI
-* IA
-* machine learning
-* AI
-* IA
+* Machine Learning
 
 ## Programmation
-* les best practices en programmation objet
-* la programmation fonctionnelle.
-* de l'algo
+* Les best practices en programmation objet
+* La programmation fonctionnelle.
+* L'algorithmique
 * Functional
-* reactive
-* patterns
+* Reactive
+* Patterns
 * Présentation de frameworks, de langages, d'outils, de standards
 * Spécification formelle
-* les bonnes pratiques qualité
-* programmation scientifique
-* prog haute performance
-* prog parallèle
-* tests e2e
-* programmation parallele
-* programmation "concourrante"
+* Les bonnes pratiques qualité
+* Programmation scientifique
+* Programmation haute performance
+* Programmation parallèle
+* Tests e2e
+* Programmation "concourrante"
 
 ## Data
 * Elasticsearch
-* fouille de données
+* Fouille de données
 * Elasticsearch
-* cqrs
-* graphql
-* postgrest
-* hadoop
-* big data
+* CQRS
+* GraphQL
+* PostgreSQL
+* Hadoop
+* Big data
 * BI
-* Big Data
 * Data analysis
 
 ## Langage
-* frameworks js
+* Frameworks js
 * Python
 * Nouveaux langages
 * Node.js
 * Développement .NET libre
 * PHP
 * Node
-* framwork JS
 * C++17
-* node.js
 * Ruby
-* une introduction à des langages/env. comme .NET, Python, GO ?
+* Go
 * QML
 
 ## UI/UX/Front
 * Front-End
-* utilisabilité
-* UX / UI
+* Utilisabilité
 * Design UI
-* Ux (j'ai peut être manqué la session)
 * UI/UX
-* art numérique
-* culture numérique
-* l'accessibilité
+* Art numérique
+* Culture numérique
+* L'accessibilité
 
 ## Sécurité
-* securité
-* social engineering
+* Social engineering
 * La sécurité/hacking et son impact dans chaque langage (actuellement, les thèmes sécurité sont plus orienté math)
-* Security
-* sécurité
 * Sécurité 'poussée'
 
 ## Non-technique / autre
-* retour d experience
+* Retour d experience
 * Premiers mois de vie d'une start-up (avant le Break-Even)
 * Statut d'indépendant (retour d'xp : pourquoi ? comment ?)
 * Pourquoi les geek vont au hellfest?
 * Faire une campagne de crowdfunding c'est bien mais comment on fait?
 * Comment se débarrasser des cons en devenant un hacker
-* organisation et methodes de travail (equipe)
+* Organisation et methodes de travail (equipe)
 * Success story
-* apprentissage
+* Apprentissage
 * Cas réels et retours d'expériences sur une techno
-* problématiques du monde du travail (ex: le retour d'xp sur le télétravail était super)
-* les projets perso
+* Problématiques du monde du travail (ex: le retour d'xp sur le télétravail était super)
+* Les projets perso
 * Project management
 * Tout ce qui est DIY, HackerSpace, FabLab, Agro-Ecologie, permaculture, techniques de la vie courante, des sciences humaines !
 * Plus de retour d'expérience, moins de tutoriel
-* la publicité sur internet
+* La publicité sur internet
 * Acutalité politicoNumérique
-* la monaie virtuel
-* numérique et pauvreté,  exclusion, alternatives solidaires, etc
-* agilité pour les dev
-* avenir du web
-* openstreetmap
-* OpenSource (again)
-* sujets de rélflexions plus globaux (recrutement, productivité, ...)
+* La monaie virtuel
+* Numérique et pauvreté,  exclusion, alternatives solidaires, etc
+* Agilité pour les dev
+* Avenir du web
+* Openstreetmap
+* OpenSource 
+* Sujets de rélflexions plus globaux (recrutement, productivité, ...)
 
 ## cycle de vie d'une app
-* les problématiques liées à la maintenance des bordels "tout nouveaux tout neufs, techno du jour"
+* Les problématiques liées à la maintenance des bordels "tout nouveaux tout neufs, techno du jour"
 * Reverse engineering avec migration de technologies
-* gestion documentaire d'une application (changelog, manuel de déploiement, doc utilisateur, etc. Industrialisable ? Quel format ? Quelles méthodes ? )
+* Gestion documentaire d'une application (changelog, manuel de déploiement, doc utilisateur, etc. Industrialisable ? Quel format ? Quelles méthodes ? )
 * Technical upgrade sous haute pression (comment gérer la com)
 
 ## Architecture
 * Est-ce trop tôt pour basculer sur une architecture 100% serverless (avec des services du style AWS Lambda par exemple)
 * Architectures web
-* architecture de developpement
+* Architecture de developpement
 * Une architecture technique moderne peut-être (parce que je me cogne toujours des vieux projets)
-* microservices
-* Micro-services
+* Microservices
 
 ## Mobile
 * Retours d'expériences sur l'utilisation de frameworks de développement mobile multi-plateforme.
 * Android
-* android
 * React Native
-* Android
 * iOS
 
 ## Web
@@ -169,31 +150,26 @@ Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermonte
 * SEO / Optimisation
 * Sinon un point sur les jeux de composants web
 * Angular
-* rich APIs
-* progressive Web apps (retours d'expérience)
+* Rich API
+* Progressive Web apps (retours d'expérience)
 * Framework web
 
 ## Objets connectés / embarqué
-* les objets connectés
-* L'embarquée
+* Les objets connectés
 * Arduino/Raspberry
-* programmation embarque
+* Programmation embarqué
 * Robotique/embarqué
-* domotique
-* embarqué
-* Embarqué
-* linux embarqué
+* Domotique
+* Linux embarqué
 * IoT
 
 ## Image
-* imagerie
-* Des sujets concernant la 2D ou 3D
 * GLSL
-* 3D
+* 2D, 3D
 * Qt
 * GPU
 
 ## Tooling
-* les IDE.
+* Les IDE.
 * Poweshell?
-* cycle de vie de l'application et outils intégrés (jenkins, redmine, git, déploiement, ...)
+* Cycle de vie de l'application et outils intégrés (jenkins, redmine, git, déploiement, ...)
