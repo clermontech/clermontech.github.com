@@ -10,7 +10,7 @@ author: Aude Nieto
 author_url: http://www.lespetitsdebrouillards-auvergne.org/
 
 slides_url: /api-hours/slides/2016-11-11-aude-nieto.pdf
-video:
+video: lW-xftMaU6c
 
 title: "Initiation au numérique chez les petits débrouillards"
 ---
