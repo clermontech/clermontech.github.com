@@ -11,7 +11,7 @@ author_url: https://twitter.com/kgaut
 author_image: kgaut.jpg
 
 slides_url: http://talk-php7-1.formations.kgaut.net/
-video:
+video: Cyulqcx_49g
 
 title: "Nouveautés de PHP 7.1"
 ---

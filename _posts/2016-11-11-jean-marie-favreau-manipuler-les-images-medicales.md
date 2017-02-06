@@ -11,7 +11,7 @@ author_url: http://jmfavreau.info/
 author_image: jmfavreau.jpg
 
 slides_url: http://jmfavreau.info/files/IM-APIHour23.svg
-video:
+video: wvSfPmho43Q
 
 title: "Manipuler des images médicales: de l'IRM à l'écran"
 ---

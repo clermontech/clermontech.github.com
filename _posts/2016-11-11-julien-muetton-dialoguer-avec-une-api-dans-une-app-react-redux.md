@@ -11,7 +11,7 @@ author_url: https://twitter.com/themouette
 author_image: themouette.jpeg
 
 slides_url: https://themouette.gitlab.io/apihour23-slides-consume-api-in-redux/
-video:
+video: T0BnaGsIOwE
 
 title: "Dialoguer avec une API dans une application React/redux"
 ---
