@@ -25,4 +25,4 @@ N'hésite pas à proposer un talk par mail à [iwanttospeak@clermontech.org](mai
 Des mentors parmis les anciens speakers sont disponibles pour t'aider à l'élaboration de ton talk si tu le souhaites.
 Il suffit de demander par email.
 
-## &Eacute;vénements Passés
+## &Eacute;vénements
