@@ -50,6 +50,14 @@ layout: layout
             {% endfor %}
             </ul>
         </section>
+        <section class="groups">
+            <h2>Groups</h2>
+            <ul>
+            {% for page in site.categories['groups'] limit:3 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
         <section class="sponsors">
             <h2>Nos Sponsors &lt;3</h2>
             <ul class="sponsors-list">
