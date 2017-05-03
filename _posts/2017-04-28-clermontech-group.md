@@ -37,7 +37,7 @@ Ce sera pour lui une répétition avant le PHP Tour et pour nous une avant-premi
 
 Nous vous encourageons donc à faire un revival de clermontjs en clermontech.js, de créer clermontech.py, clermontech.ruby, clermontech.java, clermontech.* (attention il y a un intrus, sauras-tu le trouver ?).
 
-pour quelles raisons devriez-vous créer un groupe ?
+Pour quelles raisons devriez-vous créer un groupe ?
 
 - Utiliser le matériel de Clermont'ech : vidéoprojecteur, micro, enceinte, etc.
 - Avoir plus facilement une salle.
