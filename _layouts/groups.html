@@ -1,0 +1,29 @@
+---
+layout: default
+paginate: 5
+---
+
+<p>
+    <center><img src="/images/groups.svg" alt="groups" width="200px"></center>
+    <br>
+</p>
+
+{{content}}
+
+{% for event in site.categories.groups %}
+{% if forloop.first %}
+<ul class="groups">
+{% endif %}
+    <li class="groups">
+        <a href="{{ event.url }}" title="{{ event.title }}">{{ event.title }}</a>
+    </li>
+{% if forloop.last %}
+</ul>
+{% endif %}
+{% endfor %}
+
+<hr>
+<p>
+    <small><em>Le logo ci-dessus est sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
+</p>
+
