@@ -39,3 +39,7 @@ clients d'API ? Je simplifierais mon appli et je gagnerais sûrement du temps !
 Je vais vous présenter le composant akeneo/batch, un portage léger du composant
 Batch de Spring en PHP. Il s'intègre en quelques lignes dans vos outils et permet
 de découper en étapes simples des processus complexes.
+
+### Vincent Vermersch • EventSourcing en pratique avec PHP
+
+### Pierre Tachoire • Tester une API HTTP avec Behat et Behapi
