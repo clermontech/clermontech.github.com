@@ -8,8 +8,9 @@ sponsors:
   - { url: "http://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
   - { url: "https://www.coffreo.com/", img: "coffreo.png", alt: "Coffreo" }
   - { url: "http://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
-  - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
   - { url: "http://tailordev.fr", img: "tailordev.png", alt: "TailorDev" }
+  - { url: "http://itnetwork.fr", img: "itn.png", alt: "ITNetwork" }
+  - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
   - { url: "http://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "http://www.github.com/", img: "github.png", alt: "GitHub" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
