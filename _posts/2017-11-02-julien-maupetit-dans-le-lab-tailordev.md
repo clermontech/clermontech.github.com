@@ -11,7 +11,7 @@ author_url: https://twitter.com/julienmaupetit
 author_image: julienmaupetit.jpg
 
 slides_url: https://tailordev.github.io/slides-le-lab/#/
-video:
+video: LEcu2l66y8k
 
 title: "Dans Le lab de TailorDev"
 ---
