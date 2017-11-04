@@ -76,7 +76,7 @@ accompagné des slides par mail à [iwanttospeak@clermontech.org](mailto:iwantto
 Une discussion pourra être engagée entre le déposant et les membres de la
 mailing list afin de discuter de la proposition.
 
-Un mentor peux venir en aide le speaker sur sa demande à tout moment lors de
+Un mentor peux venir en aide au speaker sur sa demande et à tout moment lors de
 l'élaboration du talk. Les mentors sont des volontaires parmis les anciens speakers.
 
 A l'issue de la discussion, la proposition de talk est soumise au vote exclusif des
