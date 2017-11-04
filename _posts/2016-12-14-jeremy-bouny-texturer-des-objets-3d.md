@@ -11,7 +11,7 @@ author_url: https://jeremybouny.fr
 author_image: jeremybouny.jpeg
 
 slides_url: https://jeremybouny.fr/en/articles/texturing_intro_slides/
-video:
+video: lCtSU3FAlDg
 
 title: "Texturer des objets pour de la 3D temps réel"
 ---
