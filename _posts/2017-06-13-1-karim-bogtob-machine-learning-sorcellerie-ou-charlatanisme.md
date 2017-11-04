@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: bzLctWk_wj4
 
 title: "Machine Learning, sorcellerie ou charlatanisme ?"
 ---
