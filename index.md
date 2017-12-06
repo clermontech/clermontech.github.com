@@ -20,23 +20,23 @@ sponsors:
 
 ## Objectifs de l'association
 
-L'association Clermont'ech a pour objectif principal de fédérer les développeurs
-auvergnats.
+L'association Clermont'ech a pour objectif principal de fédérer les
+développeuses et développeurs auvergnats.
 
 Les missions de l'association sont :
 
 * promouvoir les technologies et métiers gravitant autour du développement
   d'applications
 * organiser des rencontres mensuelles - les APIHours - qui réuniront les
-  développeurs locaux autour d'une série de conférences courtes
+  développeuses et développeurs locaux autour d'une série de conférences courtes
 
 ## Nos valeurs
 
 ### Ouverture
 
 L'association Clermont'ech se veut technologie-agnostique. Les sujets abordés
-lors de nos APIHours seront à l'image de l'univers dans lequel évolue le
-développeur du monde moderne.
+lors de nos APIHours seront à l'image de l'univers dans lequel évolue la
+développeuse ou le développeur du monde moderne.
 
 ### Indépendance
 

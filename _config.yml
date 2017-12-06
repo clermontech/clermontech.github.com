@@ -1,5 +1,5 @@
 permalink: none
-exclude: [ README.md, Gemfile, Gemfile.lock, config.rb, sass/ ]
+exclude: [ README.md, Gemfile, Gemfile.lock, config.rb, sass/, vendor ]
 
 flickr_id: 96523012@N07
 
