@@ -21,7 +21,7 @@ sponsors:
 ## Objectifs de l'association
 
 L'association Clermont'ech a pour objectif principal de fédérer les
-développeuses et développeurs auvergnats.
+développeuses et développeurs d'Auvergne.
 
 Les missions de l'association sont :
 
