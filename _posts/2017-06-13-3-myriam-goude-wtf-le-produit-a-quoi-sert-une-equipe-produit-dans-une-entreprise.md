@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: eBUl4TRGJCI
 
 title: "WTF le Produit (*) ? (* : à quoi sert une équipe produit dans une entreprise ?)"
 ---

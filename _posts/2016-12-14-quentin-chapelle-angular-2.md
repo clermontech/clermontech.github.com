@@ -11,7 +11,7 @@ author_url: https://quentinchapelle.com
 author_image: quentinchapelle.jpeg
 
 slides_url: https://quentinchapelle.com/angular2-APIHour-24/#/
-video:
+video: vCjF6h0-uDQ
 
 title: "Angular 2"
 ---

@@ -11,7 +11,7 @@ author_url: https://charierefiedler.github.io/
 author_image: cedricfiedler.jpg
 
 slides_url:
-video:
+video: aWe8OQLr5wE
 
 title: "Ionic 2+, une solution pour la création d’application hybride ?"
 ---

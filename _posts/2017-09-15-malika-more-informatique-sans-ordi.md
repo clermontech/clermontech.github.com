@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: 9C1sAUqJtjQ
 
 title: "Des activités d’informatique sans ordinateur pour l’école et le collège"
 ---
