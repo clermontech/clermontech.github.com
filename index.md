@@ -6,7 +6,7 @@ sponsors:
   - { url: "http://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
   - { url: "http://www.biocorp.fr/", img: "biocorp.png", alt: "Biocorp" }
   - { url: "http://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
-  - { url: "https://www.coffreo.com/", img: "coffreo.png", alt: "Coffreo" }
+  - { url: "http://www.coffreo.biz/", img: "coffreo.png", alt: "Coffreo" }
   - { url: "http://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
   - { url: "http://tailordev.fr", img: "tailordev.png", alt: "TailorDev" }
   - { url: "http://itnetwork.fr", img: "itn.png", alt: "ITNetwork" }
