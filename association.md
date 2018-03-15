@@ -29,3 +29,14 @@ Le conseil de surveillance de l'association est composé de :
 Les statuts de l'association sont consultables sur le dépôt [GitHub
 clermontech](https://github.com/clermontech) dans la rubrique
 [documents](https://github.com/clermontech/documents/blob/master/Statuts_Clermontech.md).
+
+## Comptes
+
+Les comptes de l'association son consultables sur le dépôt [GitHub
+clermontech](https://github.com/clermontech) dans la rubrique
+[comptes](https://github.com/clermontech/documents/blob/master/Comptes.md).
+
+## Boutique
+
+Une [boutique](http://clermontech.spreadshirt.fr/) est disponible pour acheter
+de beaux tee-shirts avec un bel ornythorinque dessus <3.

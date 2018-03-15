@@ -58,6 +58,14 @@ layout: layout
             {% endfor %}
             </ul>
         </section>
+        <section class="devcamp">
+            <h2>Devcamps</h2>
+            <ul>
+            {% for page in site.categories['devcamp'] limit:3 %}
+            {% include headline.html %}
+            {% endfor %}
+            </ul>
+        </section>
         <section class="partners">
             <h2>Nos Sponsors &lt;3</h2>
             <ul class="partners-list">
