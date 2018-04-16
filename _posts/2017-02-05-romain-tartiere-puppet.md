@@ -11,7 +11,7 @@ author_url: http://romain.blogreen.org
 author_image: tartiere.jpg
 
 slides_url: https://romain.blogreen.org/files/puppet.pdf
-video:
+video: swwnw2ONzt0
 
 title: "Puppet / Marionette Collective, d'une altitude de 40 000 pieds et à mach 0.8"
 ---

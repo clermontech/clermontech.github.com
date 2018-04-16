@@ -11,7 +11,7 @@ author_url:
 author_image: default.jpg
 
 slides_url:
-video:
+video: dg1VIxuQlUw
 
 title: "Ansible"
 ---

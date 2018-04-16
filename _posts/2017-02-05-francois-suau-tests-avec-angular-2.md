@@ -11,7 +11,7 @@ author_url:
 author_image: default.jpg
 
 slides_url: http://www.imaleo.io/doc/test_angular2.pdf
-video:
+video: kCcRzEaQywY
 
 title: "Tests (et Test Driven Developement) avec Angular 2"
 ---
