@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: rZAQOGLStkU
 
 title: "(Brief) Introduction to Go and concurrency"
 

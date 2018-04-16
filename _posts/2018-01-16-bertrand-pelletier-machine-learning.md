@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: gFbZsUazadA
 
 title: "Machine learning : un exemple d'application pour le growth hacking"
 
