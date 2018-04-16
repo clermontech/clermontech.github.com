@@ -11,7 +11,7 @@ author_url: https://twitter.com/couac
 author_image: couac.jpeg
 
 slides_url: https://speakerdeck.com/willdurand/introduction-a-react-native-api-hour-32
-video:
+video: sbhwxPxytMQ
 
 title: "Introduction à React Native"
 ---

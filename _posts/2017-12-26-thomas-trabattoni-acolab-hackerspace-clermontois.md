@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: http://redmine.acolab.fr/attachments/download/127/2017%2012%2011%20-%20Pr%C3%A9sentation%20Acolab.pdf
-video:
+video: -LwatWQ8yLg
 
 title: "L'Atelier Collaboratif (ACoLab) - Fablab/Hackerspace Clermontois"
 

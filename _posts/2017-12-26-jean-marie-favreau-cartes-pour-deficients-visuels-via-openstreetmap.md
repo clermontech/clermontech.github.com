@@ -11,7 +11,7 @@ author_url: http://jmfavreau.info/
 author_image: jmfavreau.jpg
 
 slides_url: http://jmfavreau.info/cartes-relief/
-video:
+video: N5pa5vpcIas
 
 title: "Produire des cartes pour les déficients visuels depuis OpenStreetMap"
 
