@@ -11,7 +11,7 @@ author_url: https://twitter.com/kgaut
 author_image: kgaut.jpg
 
 slides_url: https://slides.kgaut.net/presentations/2017/introduction-gitlab-ci.html#/
-video:
+video: Q2WcRCr3Btg
 
 title: "Introduction à Gitlab-CI"
 

@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: DG5wjVMZtfo
 
 title: "Event Sourcing en pratique"
 

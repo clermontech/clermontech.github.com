@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: k4ep0NI0Q_s
 
 title: "Kesako Kantiq"
 
