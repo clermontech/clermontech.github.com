@@ -54,7 +54,7 @@ via IRC. Ce n'est donc pas un soucis, au contraire !
 1 Rue Verdier Latour<br />
 63000 Clermont-Ferrand
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=3.081504106521607%2C45.77722154971202%2C3.088542222976685%2C45.78067476761397&amp;layer=mapnik&amp;marker=45.77894818539587%2C3.0850231647491455" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.081504106521607%2C45.77722154971202%2C3.088542222976685%2C45.78067476761397&amp;layer=mapnik&amp;marker=45.77894818539587%2C3.0850231647491455" style="border: 1px solid black"></iframe>
 
 ## Quand ?
 
