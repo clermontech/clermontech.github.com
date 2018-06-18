@@ -4,7 +4,7 @@ category: workshops
 flickr_set_id: 72157648965851588
 mascotte_img: clermontech_mascotte_git.png
 
-title: "Clermont'ech Workshop &#35;1 : Git"
+title: "Workshop &#35;1 : Git"
 ---
 
 Venez apprendre ou approfondir vos connaissances sur
