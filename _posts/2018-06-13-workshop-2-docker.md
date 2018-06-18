@@ -31,7 +31,7 @@ Cet événement aura lieu le **mercredi 4 juillet 2018** à **18h** dans les loc
 
 Cet événement est limité à **15 personnes**.  Pour y assister, vous devez vous
 inscrire sur la page Eventbrite de cette session: [https://clermontech-workshop-2.eventbrite.fr](https://clermontech-workshop-2.eventbrite.fr)
-Ouverture des places le **mardi 19 juin 2018 à 14h00**.
+Ouverture des places le **mardi 19 juin 2018 à 15h00**.
 
 <iframe src="//eventbrite.fr/tickets-external?eid=47158241570&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 

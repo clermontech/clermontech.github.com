@@ -10,6 +10,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-#announcement:
-#    href:
-#    message:
+announcement:
+    href: https://www.clermontech.org/workshops/workshop-2-docker.html
+    message: "Inscrivez-vous au <strong>workshop Docker</strong> le 4 Juillet à 18h"
