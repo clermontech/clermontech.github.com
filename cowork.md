@@ -15,9 +15,9 @@ Pour pouvoir profiter de cette offre dédiée aux développeurs, vous devez **im
 
 Les tarifs négociés sont les suivants : 
 
-- 6€ HT la demi-journée.
-- 66€ HT à mi-temps.
-- 117€ HT à temps complet.
+- 6€ HT la demi-journée,
+- 66€ HT par mois à mi-temps,
+- 117€ HT par mois à temps complet.
 
 Vous avez un doute ? Besoin de plus d'informations sur ce partenariat ou sur le coworking en lui même ? Contactez-nous par mail : <a href="mailto:cowork@clermontech.org">cowork@clermontech.org</a>
 
