@@ -1,8 +1,14 @@
 ---
-layout: code-and-coffee
+layout: default
+title: "Tech time"
 flickr_set_id: 72157650635493757
-title: "Code & Coffee"
 ---
+
+Clermont'ech organise des moments un peu plus informels, toujours dédiés au développement. Ces moments peuvent se présenter sous différents formats, nous les présentons ci-dessous.
+
+<hr >
+
+# Code & Cofee
 
 <center>
     <img src="/images/code-and-coffee.svg" alt="code-and-coffee" width="240px">
@@ -50,12 +56,32 @@ via IRC. Ce n'est donc pas un soucis, au contraire !
 
 ## Où ?
 
-**[L'instan T](https://www.facebook.com/LInstan-T-848102225224690/)**<br />
-1 Rue Verdier Latour<br />
-63000 Clermont-Ferrand
-
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.081504106521607%2C45.77722154971202%2C3.088542222976685%2C45.78067476761397&amp;layer=mapnik&amp;marker=45.77894818539587%2C3.0850231647491455" style="border: 1px solid black"></iframe>
+Non programmé pour le moment
 
 ## Quand ?
 
-**Prochain _C&C_ :** samedi 5 novembre 2016 à 9h30
+**Prochain _C&C_ :** non programmé
+
+## Photos
+
+Retrouvez toutes <a href="https://www.flickr.com/photos/{{ site.flickr_id }}/sets/{{ page.flickr_set_id }}">
+les photos sur la page Flickr dédiée</a>.
+
+<hr>
+
+# Dej Dev
+
+<center>
+    <img src="/images/dej-dev.svg" alt="dej-dev" width="200px">
+</center>
+
+Les **Dej Dev** permettent d'échanger lors d'un déjeuner (un créneau de 1h30
+est prévu) dans un restaurant et ont lieu le **dernier mardi de chaque mois**.
+Il est nécessaire de s'inscrire via un événement Eventbrite et vous serez
+prévenu(e)s via notre [mailing-list](https://groups.google.com/forum/?fromgroups#!forum/clermontech)
+ou [Twitter](https://twitter.com/clermontech).
+
+<hr>
+<p>
+    <small><em>Les <a href="http://thenounproject.com/term/silverware/100431/">logos</a> ci-dessus sont sous licence <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</em></small>
+</p>
