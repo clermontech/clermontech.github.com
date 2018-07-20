@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Coworking"
+title: "Cowork"
 ---
 
 <center>
