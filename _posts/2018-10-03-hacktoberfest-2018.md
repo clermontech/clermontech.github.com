@@ -5,8 +5,9 @@ categories: [ blog-posts ]
 title: Soirée Hacktoberfest 2018
 ---
 
-Le jeudi 18 octobre 2018, nous organisons une soirée Hacktoberfest de 19 heures
-à minuit afin de célébrer ensemble cette cinquième édition.
+Le jeudi 18 octobre 2018, Clermont'ech et l'[AFUP](https://afup.org) co-organise
+une soirée Hacktoberfest de 19 heures à minuit afin de célébrer ensemble cette 
+cinquième édition.
 
 L'[Hacktoberfest](https://hacktoberfest.digitalocean.com/) est un évènement qui
 promeut le logiciel libre et invite tous les développeurs à contribuer à ces
