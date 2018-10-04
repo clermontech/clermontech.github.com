@@ -10,12 +10,12 @@ Le jeudi 18 octobre 2018, nous organisons une soirée Hacktoberfest de 19 heures
 
 L'[Hacktoberfest](https://hacktoberfest.digitalocean.com/) est un évènement qui
 promeut le logiciel libre et invite tous les développeurs à contribuer à ces
-logiciels durant le mois d'octobre.A l'image de nombreuses villes en france et
+logiciels durant le mois d'octobre. À l'image de nombreuses villes en France et
 à travers le monde, nous organisons une soirée pour nous réunir et contribuer à
 des projets open source.
 
 De 19 heure à minuit venez avec votre ordinateur et l'envie de contribuer, nous
-fournisson "le git et le wifi".
+fournissons "le git et le wifi".
 
 ## Informations pratiques
 
