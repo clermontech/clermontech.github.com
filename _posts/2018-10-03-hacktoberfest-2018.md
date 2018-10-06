@@ -18,6 +18,11 @@ des projets open source.
 De 19 heure à minuit venez avec votre ordinateur et l'envie de contribuer, nous
 fournissons "le git et le wifi".
 
+Cette soirée est gentiement sponsorisée par [Domraider](https://www.domraider.com/)
+qui offre pizzas et boissons.
+
+![Logo Domraider](/images/sponsors/domraider.png)
+
 ## Informations pratiques
 
 Cette soirée est organisée le jeudi 18 octobre à partir de 19 heures dans les
