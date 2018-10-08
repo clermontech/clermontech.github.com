@@ -18,7 +18,7 @@ des projets open source.
 De 19 heure à minuit venez avec votre ordinateur et l'envie de contribuer, nous
 fournissons "le git et le wifi".
 
-Cette soirée est gentiement sponsorisée par [Domraider](https://www.domraider.com/)
+Cette soirée est gentiment sponsorisée par [Domraider](https://www.domraider.com/)
 qui offre pizzas et boissons.
 
 ![Logo Domraider](/images/sponsors/domraider.png)
