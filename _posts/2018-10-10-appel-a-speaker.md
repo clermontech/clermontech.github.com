@@ -20,6 +20,6 @@ Si vous pensez que vous n'avez pas de sujet à partager (et nous pensons que c'e
 
 Sans speaker, les API Hour ne pourront pas continuer éternellement. À nous aussi, peut être, de faire évoluer le format comme nous avons pu le faire en introduisant des sujets de 30 minutes. Si vous avez des propositions nous sommes à votre écoute.
 
-À nous, à présent, de formuler notre whish-list. Innondez-nous de sujets et faites de cette nouvelle saison d'API Hour votre réussite!
+À nous, à présent, de formuler notre whish-list. Innondez-nous de sujets sur <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a> et faites de cette nouvelle saison d'API Hour votre réussite!
 
 L'équipe de Clermont'ech
