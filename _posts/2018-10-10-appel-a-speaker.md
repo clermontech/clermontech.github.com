@@ -16,7 +16,7 @@ Parler devant un groupe n'est pas quelque chose de facile, nous le savons très 
 
 Nous, l'équipe de Clermont'ech, sommes disponibles pour vous accompagner. Vous accompagner pour choisir un sujet, vous accompagner pour préparer votre présentation, vous apporter des conseils, relire vos slides, vous donner des astuces pour que la présentation se passe bien. Un groupe de volontaires, appelés "mentors" sont aussi ici pour vous épauler. Ce sont d'anciens speakers, qui ont de l'expérience à vous partager, des personnes brillantes qui vous coacheront pour monter sur scène.
 
-Si vous pensez que vous n'avez pas de sujet à partager (et nous pensons que c'est faux), d'autres ont fait des souhaits pour vous. Vous pouvez regarder la whish-list de la communauté et peut-être verrez-vous un intêtet pour ce truc dont vous vous dites qu'il ne vaut pas la peine d'une conférence ou que tout le monde connait forcément : [https://www.clermontech.org/api-hours/wishlist.html]()
+Si vous pensez que vous n'avez pas de sujet à partager (et nous pensons que c'est faux), d'autres ont fait des souhaits pour vous. Vous pouvez regarder la whish-list de la communauté et peut-être verrez-vous un intêtet pour ce truc dont vous vous dites qu'il ne vaut pas la peine d'une conférence ou que tout le monde connait forcément : [https://www.clermontech.org/api-hours/wishlist.html](https://www.clermontech.org/api-hours/wishlist.html)
 
 Sans speaker, les API Hour ne pourront pas continuer éternellement. À nous aussi, peut être, de faire évoluer le format comme nous avons pu le faire en introduisant des sujets de 30 minutes. Si vous avez des propositions nous sommes à votre écoute.
 
