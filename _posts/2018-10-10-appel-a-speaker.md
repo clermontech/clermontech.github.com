@@ -6,9 +6,9 @@ title: Appel à speaker
 ---
 
 Depuis 5 ans Clermont'ech organise des API Hour de manière régulière.
-Pour celles et ceux qui ne connaissent pas, les API Hour sont des moments conviviaux où 3 à 4 personnes partagent avec la communauté un sujet qui leur tient à coeur.
+Pour celles et ceux qui ne connaissent pas, les API Hours sont des moments conviviaux où 3 à 4 personnes partagent avec la communauté un sujet qui leur tient à coeur.
 
-Les API Hour ne peuvent pas exister sans speaker, sans sponsor, sans matériel et sans passonié·es pour les organiser.
+Les API Hour ne peuvent pas exister sans speaker, sans sponsor, sans matériel et sans passonié·e·s pour les organiser.
 
 Aujourd'hui, nous avons besoin de vous pour faire vivre et maintenir les API Hour : le prochain (38ème du nom) se tiendra le 30 octobre. Nous avons d'ores et déjà deux speakers, des habitués, qui veulent parler. Nous avons besoin de plus de monde. Idéalement, nous avons besoin d'un vivier de speakers pour avoir plusieurs API Hour d'avance.
 
@@ -16,10 +16,10 @@ Parler devant un groupe n'est pas quelque chose de facile, nous le savons très 
 
 Nous, l'équipe de Clermont'ech, sommes disponibles pour vous accompagner. Vous accompagner pour choisir un sujet, vous accompagner pour préparer votre présentation, vous apporter des conseils, relire vos slides, vous donner des astuces pour que la présentation se passe bien. Un groupe de volontaires, appelés "mentors" sont aussi ici pour vous épauler. Ce sont d'anciens speakers, qui ont de l'expérience à vous partager, des personnes brillantes qui vous coacheront pour monter sur scène.
 
-Si vous pensez que vous n'avez pas de sujet à partager (et nous pensons que c'est faux), d'autres ont fait des souhaits pour vous. Vous pouvez regarder la whish-list de la communauté et peut-être verrez-vous un intêtet pour ce truc dont vous vous dites qu'il ne vaut pas la peine d'une conférence ou que tout le monde connait forcément : [https://www.clermontech.org/api-hours/wishlist.html](https://www.clermontech.org/api-hours/wishlist.html)
+Si vous pensez que vous n'avez pas de sujet à partager (et nous pensons que c'est faux), d'autres ont fait des souhaits pour vous. Vous pouvez regarder la "whish-list" de la communauté et peut-être verrez-vous un intêtet pour ce truc dont vous vous dites qu'il ne vaut pas la peine d'une conférence ou que tout le monde connait forcément : [https://www.clermontech.org/api-hours/wishlist.html](https://www.clermontech.org/api-hours/wishlist.html)
 
-Sans speaker, les API Hour ne pourront pas continuer éternellement. À nous aussi, peut être, de faire évoluer le format comme nous avons pu le faire en introduisant des sujets de 30 minutes. Si vous avez des propositions nous sommes à votre écoute.
+Sans speaker, les API Hour ne pourront pas continuer éternellement. À nous aussi, peut-être, de faire évoluer le format comme nous avons pu le faire en introduisant des sujets de 30 minutes. Si vous avez des propositions nous sommes à votre écoute.
 
-À nous, à présent, de formuler notre whish-list. Innondez-nous de sujets sur <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a> et faites de cette nouvelle saison d'API Hour votre réussite!
+À nous, à présent, de formuler notre "whish-list". Innondez-nous de sujets sur <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a> et faites de cette nouvelle saison d'API Hour votre réussite!
 
 L'équipe de Clermont'ech
