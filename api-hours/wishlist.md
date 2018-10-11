@@ -58,7 +58,7 @@ Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermonte
 * Programmation haute performance
 * Programmation parallèle
 * Tests e2e
-* Programmation "concurrente"
+* Programmation concurrente
 
 ## Data
 * Elasticsearch
