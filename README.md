@@ -51,6 +51,7 @@ Here is the default template:
     mascotte_img:
 
     title: Clermont'ech API Hour &#35;{number}
+	description: this will be the meta description tag content
     ---
 
     ## Concept
@@ -102,6 +103,7 @@ Here is the default template:
     video:
 
     title: {talk}
+	description: this will be the meta description tag content
     ---
 
     {abstract}
