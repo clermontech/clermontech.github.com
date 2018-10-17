@@ -48,9 +48,9 @@ Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermonte
 * Les best practices en programmation objet
 * La programmation fonctionnelle.
 * L'algorithmique
-* Functional
 * Reactive
 * Patterns
+* CQRS
 * Présentation de frameworks, de langages, d'outils, de standards
 * Spécification formelle
 * Les bonnes pratiques qualité
@@ -58,13 +58,11 @@ Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermonte
 * Programmation haute performance
 * Programmation parallèle
 * Tests e2e
-* Programmation "concourrante"
+* Programmation concurrente
 
 ## Data
 * Elasticsearch
 * Fouille de données
-* Elasticsearch
-* CQRS
 * GraphQL
 * PostgreSQL
 * Hadoop
@@ -117,7 +115,7 @@ Si tu souhaites proposer un talk envoie-nous un email à [iwanttospeak@clermonte
 * Plus de retour d'expérience, moins de tutoriel
 * La publicité sur internet
 * Acutalité politicoNumérique
-* La monaie virtuel
+* La monnaie virtuelle
 * Numérique et pauvreté,  exclusion, alternatives solidaires, etc
 * Agilité pour les dev
 * Avenir du web
