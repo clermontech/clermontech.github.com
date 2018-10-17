@@ -1,6 +1,6 @@
 ---
-layout: blog-post
-categories: [ blog-posts ]
+layout: post
+category: groups
 
 title: Soirée Hacktoberfest 2018
 ---
