@@ -1,0 +1,12 @@
+{
+  "name": "clermontech.github.com",
+  "version": "0.0.1",
+  "description": "generate internal pages",
+  "repository": "git@github.com:clermontech/clermontech.github.com.git",
+  "author": "Clermont'ech <hello@clermontech.org>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0"
+  }
+}
