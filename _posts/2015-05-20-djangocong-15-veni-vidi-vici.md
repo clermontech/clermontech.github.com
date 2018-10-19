@@ -6,7 +6,8 @@ flickr_set_id: 72157653058991271
 
 title: "DjangoCong'15 : Veni, Vidi, Vici"
 description: djangocong 15 veni vidi vici
-------
+---
+-
 
 Les [8, 9 et 10 mai](http://rencontres.django-fr.org/2015/) derniers se sont
 tenues les rencontres Django, l'événement annuel regroupant les amateurs

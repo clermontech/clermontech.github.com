@@ -15,5 +15,6 @@ video:
 
 title: "Drupalgeddon"
 description: 3 vincent mazenod drupalgeddon
-------
+---
+-
 Un live-p0wn palpitant avec à l’intérieur des injections SQL, du viagra, drupal, des backdoors, du sang, des larmes et bien sur Bruce Schneier.

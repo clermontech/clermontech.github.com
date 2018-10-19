@@ -15,7 +15,8 @@ video: LT9bU3EKV1g
 
 title: "Les Nouveautés d'Android 6 Marshmallow"
 description: 1 guillaume imbert les nouveautes d android 6 marshmallow
-------
+---
+-
 
 Tour d'horizon des nouveautés d'Android Marshmallow pour les utilisateurs, des
 modifications du framework en conséquence, et des nouveaux outils de

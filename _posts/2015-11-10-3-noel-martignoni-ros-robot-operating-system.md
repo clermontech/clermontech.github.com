@@ -15,7 +15,8 @@ video: Df4KPv8Tz84
 
 title: "ROS (Robot Operating System)"
 description: 3 noel martignoni ros robot operating system
-------
+---
+-
 
 Et si on pouvait programmer un petit robot aspirateur comme on programme un
 bras industriel, cela ne serait-il pas plus simple ? C'est la promesse faite

@@ -15,6 +15,7 @@ video: Cyulqcx_49g
 
 title: "Nouveautés de PHP 7.1"
 description: kevin gautreau nouveautes php 7 1
-------
+---
+-
 
 Passage en revue des nouveautés de la nouvelle version 7.1 du langage de programmation PHP

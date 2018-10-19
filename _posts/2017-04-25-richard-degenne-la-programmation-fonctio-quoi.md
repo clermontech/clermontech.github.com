@@ -15,7 +15,8 @@ video:
 
 title: "La programmation fonctio-quoi ?"
 description: richard degenne la programmation fonctio quoi
-------
+---
+-
 
 La programmation fonctionnelle est un sujet à la mode, et pourtant, cela reste un thème
 relativement obscur pour de très nombreux développeurs. Cette présentation vous propose

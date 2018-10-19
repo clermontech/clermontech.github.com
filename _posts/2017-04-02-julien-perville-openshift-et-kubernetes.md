@@ -15,7 +15,8 @@ video:
 
 title: "Openshift et Kubernetes"
 description: julien perville openshift et kubernetes
-------
+---
+-
 
 Openshift est une plate-forme open-source créée par Redhat pour simplifier le
 déploiement et l'exploitation des applications web; la plate-forme réutilise les

@@ -63,7 +63,8 @@ Il ne faut pas se le cacher, partir en conférence, c'est aussi profiter de l'en
 C'est la raison pour laquelle, dimanche matin, nous partirons en bus en direction du [lac du Guéry](http://www.sancy.com/activites/detail/6345/le-mont-dore/lac-du-guery). Comme vous serez certainement des nôtres, vous pourrez profiter de cet endroit idyllique le temps d'une balade et d'un pique-nique avant de regagner vos pénates, satisfait du week-end convivial que nous aurons pu passer ensembles.
 
 description: 5 bonnes raisons de venir a la djangocong clermont ferrand
-------
+---
+-
 
 La [DjangoCong Clermont](http://rencontres.django-fr.org/2015/) approche à grands pas, et vous êtes encore hésitant à vous inscrire à cette rencontre des poneys francophones. Ce billet est fait pour vous et devrait vous convaincre de vous [inscrire tout de suite](https://www.weezevent.com/widget_billeterie.php?id_evenement=105202&code=64013&color_primary=00AEEF) ! Parmi la centaine de bonnes raisons de venir, nous allons mettre en avant les cinq qui nous semblent les plus pertinentes.
 

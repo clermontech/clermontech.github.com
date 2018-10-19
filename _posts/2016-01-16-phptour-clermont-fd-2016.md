@@ -10,7 +10,8 @@ title: "PHP Tour Clermont-Fd 2016"
 [English version here](http://clermontech.org/blog-posts/phptour-clermont-fd-2016-en.html).
 
 description: phptour clermont fd 2016
-------
+---
+-
 
 ![](/images/blog-posts/phptour.png)
 

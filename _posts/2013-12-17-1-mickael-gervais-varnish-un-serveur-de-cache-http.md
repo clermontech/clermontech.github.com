@@ -15,7 +15,8 @@ video: Yb5p9s-5Chk
 
 title: "Varnish, Un Serveur De Cache HTTP"
 description: 1 mickael gervais varnish un serveur de cache http
-------
+---
+-
 
 Présentation de la mise en cache grâce à Varnish, suivi de VCL, un langage pour
 adapter la configuration à chaque site, le tout illustré par des exemples

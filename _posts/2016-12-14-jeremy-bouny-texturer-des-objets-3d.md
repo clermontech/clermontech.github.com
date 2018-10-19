@@ -15,6 +15,7 @@ video: lCtSU3FAlDg
 
 title: "Texturer des objets pour de la 3D temps réel"
 description: jeremy bouny texturer des objets 3d
-------
+---
+-
 
 Introduction au monde du texturing 3D temps réel avec ses différentes techniques, problématiques et cas  d'utilisations. La présentation se concentrera notamment sur le domaine du jeu vidéo et des shaders en GLSL (WebGL).

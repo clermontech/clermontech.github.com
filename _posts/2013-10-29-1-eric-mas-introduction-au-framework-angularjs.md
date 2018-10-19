@@ -15,7 +15,8 @@ video: KEwTPnevQmU
 
 title: "Introduction Au Framework AngularJS"
 description: 1 eric mas introduction au framework angularjs
-------
+---
+-
 
 Présentation du framework JavaScript de Google : son historique, sa philosophie,
 son fonctionnement, ses avantages et différences par rapport à la concurrence.

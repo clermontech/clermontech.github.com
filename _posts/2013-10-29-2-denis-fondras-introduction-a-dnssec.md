@@ -15,7 +15,8 @@ video: 2NAopq_t3Ww
 
 title: "Introduction à DNSSEC"
 description: 2 denis fondras introduction a dnssec
-------
+---
+-
 
 DNSSEC ([RFC4033](http://www.ietf.org/rfc/rfc4033.txt)) est un protocole de
 sécurisation des échanges DNS (Domain Name System). DNS est l'un des protocoles

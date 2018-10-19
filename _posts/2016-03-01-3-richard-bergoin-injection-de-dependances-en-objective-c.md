@@ -15,7 +15,8 @@ video: H69l-IBK958
 
 title: "Injection de dépendances en Objective-C"
 description: 3 richard bergoin injection de dependances en objective c
-------
+---
+-
 
 Un gros mot pour faire une chose simple : rendre vos objets testable (et donc
 leur donner moins de responsabilité). En explicitant les dépendances d’un objet,

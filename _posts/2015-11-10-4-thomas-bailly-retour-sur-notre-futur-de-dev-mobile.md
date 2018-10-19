@@ -15,7 +15,8 @@ video: 01xCm9DCKUo
 
 title: "Retour Sur Notre Futur ? (De Dev Mobile)"
 description: 4 thomas bailly retour sur notre futur de dev mobile
-------
+---
+-
 
 Les voyages dans le temps étant beaucoup trop dangereux, mieux vaut que je me
 consacre à faire un retour sur un grand mystère de notre univers : Le dev.

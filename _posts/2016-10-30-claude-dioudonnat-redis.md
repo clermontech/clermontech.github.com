@@ -15,6 +15,7 @@ video: VE_MFqx0fSE
 
 title: "Redis"
 description: claude dioudonnat redis
-------
+---
+-
 
 Avez-vous une table pêle-mêle avec 2 colonnes, Nom et Valeur ? Redis a une solution pour faire disparaître cette table honteuse.

@@ -15,7 +15,8 @@ video: T0BnaGsIOwE
 
 title: "Dialoguer avec une API dans une application React/redux"
 description: julien muetton dialoguer avec une api dans une app react redux
-------
+---
+-
 
 Retour sur la gestion de flux asynchrones dans une application Redux en général
 et des interactions HTTP (AJAX, Fetch) en particulier.

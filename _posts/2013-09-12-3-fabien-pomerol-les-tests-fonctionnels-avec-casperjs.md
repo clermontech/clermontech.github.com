@@ -15,7 +15,8 @@ video: 5n-pndA41tM
 
 title: "Les Tests Fonctionnels Avec CasperJS"
 description: 3 fabien pomerol les tests fonctionnels avec casperjs
-------
+---
+-
 
 Présentation de l'utilitaire JavaScript **CasperJS** basé sur PhantomJS avec un
 retour d'expérience sur son utilisation pour des scénarios de tests

@@ -15,7 +15,8 @@ video: aa315uM4PyU
 
 title: "Thelia, La Solution E-Commerce Libre"
 description: 2 manuel raynaud thelia la solution e commerce libre
-------
+---
+-
 
 La première release de Thelia 2 est sortie mi-avril. A travers cette
 présentation nous verrons pourquoi nous avons développé une nouvelle version,

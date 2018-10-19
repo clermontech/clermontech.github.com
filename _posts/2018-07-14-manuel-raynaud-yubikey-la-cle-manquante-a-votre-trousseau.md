@@ -16,6 +16,7 @@ video:
 title: "Yubikey, la clé manquante à votre trousseau"
 
 description: manuel raynaud yubikey la cle manquante a votre trousseau
-------
+---
+-
 
 Vous ne connaissez pas Yubikey ? Une fois que vous y avez goûté cette clé ne quittera plus votre trousseau. Sécurisez l'accès à vos comptes internet avec une double authentification, stockez vos clés pgp sur une smart card ou bien gérez l'accès à vos machines le tout avec un seul et même device.

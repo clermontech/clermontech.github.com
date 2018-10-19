@@ -15,7 +15,8 @@ video:
 
 title: "The Thing Network - le premier reseau mondial crowd sourced"
 description: paul pinault the thing network
-------
+---
+-
 
 The Thing Network est une initiative qui ouvre a chacun la possibilité de connecter
 des objets a Internet via la technologie LoRaWan de façon gratuite en utilisant les

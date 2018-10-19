@@ -15,7 +15,8 @@ video: EcMrcmc0Kxs
 
 title: "Capistrano 3 : Le déploiement \"Finger in the nose\""
 description: 3 claude dioudonnat capistrano3 le deploiement finger in the nose
-------
+---
+-
 
 Fatigué de vos vieux scripts de déploiement ? Capistrano est la solution à vos
 problèmes du vendredi soir.

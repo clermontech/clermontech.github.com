@@ -14,6 +14,7 @@ video: lW-xftMaU6c
 
 title: "Initiation au numérique chez les petits débrouillards"
 description: aude nieto initiation au numerique chez les petits debrouillards
-------
+---
+-
 
 Le credo des Petits Débrouillards c'est de rendre les Sciences ludiques et facilement accessibles au tout public. Pour cela, nous rendons le public acteur de ses découvertes au travers de la mise en place des démarches expérimentales simples réalisables avec des objets du quotidien afin qu'elles soient facilement reproductibles une fois rentrés chez soi. Dans la présentation, j'aborderai la façon dont nous appliquons ce savoir faire de médiateurs au domaine du numérique: Ingénierie inversée, activités débranchées, etc.

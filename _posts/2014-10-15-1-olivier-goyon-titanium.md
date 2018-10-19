@@ -15,7 +15,8 @@ video: 3uPOtf5ATUU
 
 title: "Titanium"
 description: 1 olivier goyon titanium
-------
+---
+-
 
 Question : que choisir dans cette marée d'applications ou de frameworks
 permettant de développer une application mobile ?

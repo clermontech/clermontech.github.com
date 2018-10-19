@@ -15,7 +15,8 @@ video: LEcu2l66y8k
 
 title: "Dans Le lab de TailorDev"
 description: julien maupetit dans le lab tailordev
-------
+---
+-
 
 Il y a 18 mois, nous avons eu une idée folle : organiser des semaines dédiées à l'apprentissage d'un nouvel outil ou d'une nouvelle technologie par la réalisation d'une [POC](https://en.wikipedia.org/wiki/Proof_of_concept) pour un service utile à notre entreprise ou à nos proches. En creusant un peu la question, nous nous sommes rendus compte que notre idée n'était pas si folle, car l'organisation de _hack weeks_ était finalement plutôt répandue dans les entreprises du numérique.
 

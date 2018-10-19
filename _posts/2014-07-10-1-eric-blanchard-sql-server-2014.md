@@ -15,7 +15,8 @@ video: 8tLLVI5VsBQ
 
 title: "SQL Server 2014, Introduction Sur Les Possibilités De Disponibilité Et De Réplication Des Données"
 description: 1 eric blanchard sql server 2014
-------
+---
+-
 
 Le cloud computing nous permet de transporter et sécuriser nos données entre
 plusieurs machines, plusieurs sites, mais comment cela fonctionne-t-il avec nos

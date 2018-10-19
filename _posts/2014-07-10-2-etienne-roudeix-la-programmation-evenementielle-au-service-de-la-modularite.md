@@ -15,7 +15,8 @@ video: QykLgDvra2Y
 
 title: "La Programmation Evénementielle Au Service De La Modularité"
 description: 2 etienne roudeix la programmation evenementielle au service de la modularite
-------
+---
+-
 
 Mieux que les hooks ou que l'héritage, utiliser la programmation événementielle
 permet de proposer des solutions extrêmement modulables que ce soit pour un

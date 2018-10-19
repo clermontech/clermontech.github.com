@@ -4,7 +4,8 @@ categories: [ blog-posts ]
 
 title: "Retour sur la projection du film Citizenfour"
 description: retour sur la projection du film citizenfour
-------
+---
+-
 
 [Jeudi soir dernier](/blog-posts/citizenfour-projection-et-debat-a-clermont-ferrand.html)
 se tenait la projection du film **Citizenfour** au cinéma (climatisé) **Le

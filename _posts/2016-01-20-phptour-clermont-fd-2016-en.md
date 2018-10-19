@@ -52,7 +52,8 @@ We hope to see you soon!
 _AFUP &amp; Clermont'ech._
 
 description: phptour clermont fd 2016 en
-------
+---
+-
 
 ![](/images/blog-posts/phptour.png)
 

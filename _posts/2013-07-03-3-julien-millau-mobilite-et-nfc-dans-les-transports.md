@@ -15,7 +15,8 @@ session_short_name: "&#35;3"
 
 video: Qv3At7qOIes
 description: 3 julien millau mobilite et nfc dans les transports
-------
+---
+-
 
 Introduction au NFC, aux normes existantes, aux modes de communication et retour
 d'experience sur une implémentation en mobilité du NFC dans les transports en

@@ -15,6 +15,7 @@ video: 4Fe19gW9PiI
 
 title: "Adopte une BDD"
 description: aymeric brisse adopte une bdd
-------
+---
+-
 
 Élément essentiel de la stack technique, le choix de la base de données n’est pas toujours évident parmi les dizaines de candidats disponibles (SQL, NoSQL, Graph, K/V, etc.). Découvrons ensemble au travers d’exemples concrets le panel des possibilités.

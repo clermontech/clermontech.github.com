@@ -16,7 +16,8 @@ video: Q2WcRCr3Btg
 title: "Introduction à Gitlab-CI"
 
 description: kevin gautreau intro gitlab ci
-------
+---
+-
 
 Parfois, on veut juste déployer simplement son site et exécuter quelques
 commandes. Le tout sans avoir à mettre en place une infrastructure digne d'un

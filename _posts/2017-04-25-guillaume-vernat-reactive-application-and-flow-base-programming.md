@@ -15,7 +15,8 @@ video:
 
 title: "Reactive application and flow base programming"
 description: guillaume vernat reactive application and flow base programming
-------
+---
+-
 
 Une proposition en nodejs pour créer une application réactive, capable de tenir la
 charge tout en supportant la mise en œuvre de traitements complexes en parallèle.
