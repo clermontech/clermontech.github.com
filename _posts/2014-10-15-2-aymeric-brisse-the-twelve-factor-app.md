@@ -14,7 +14,8 @@ slides_url: http://abrisse.github.io/talk-12-factors
 video: gqXa8v3hCHA
 
 title: "The Twelve-Factor App"
----
+description: 2 aymeric brisse the twelve factor app
+------
 
 12 best-practices à destination des développeurs & Dev Ops travaillant sur des
 applications type SaaS. Cette méthologie permet d'éviter de nombreux pièges liés

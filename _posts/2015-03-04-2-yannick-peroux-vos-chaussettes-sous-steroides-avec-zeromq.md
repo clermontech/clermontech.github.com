@@ -14,7 +14,8 @@ slides_url:  http://slides.com/k4nar/zeromq/
 video: 9fVQj3kuui4
 
 title: "Vos Chaussettes Sous Stéroïdes Avec ZeroMQ"
----
+description: 2 yannick peroux vos chaussettes sous steroides avec zeromq
+------
 
 ZeroMQ est une bibliothèque qui permet de manipuler différents patterns d'envoi
 de messages via des sockets BSD. Le but du talk est d'introduire les concepts

@@ -14,7 +14,8 @@ slides_url: http://svn.reactos.org/svn/press-media/trunk/Events/2014%20-%20Clerm
 video: YbsuHDyZhQ0
 
 title: "ReactOS"
----
+description: 1 pierre schweitzer reactos
+------
 
 ReactOS est un système d'exploitation (OS) open-source, libre et gratuit. Il est
 assez remarquable dans l'écosystème des OS open-source dans le sens où ça n'est

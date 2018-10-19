@@ -14,6 +14,7 @@ slides_url:
 video: yetnzVUHN_E
 
 title: "contributions google street view"
----
+description: paul pinault contibutions google street view
+------
 
 google street view propose de contribuer en publiant ses photos 360. Le potentiel de vue générées est impressionnant. Comment l’utiliser et a quelles fins ?

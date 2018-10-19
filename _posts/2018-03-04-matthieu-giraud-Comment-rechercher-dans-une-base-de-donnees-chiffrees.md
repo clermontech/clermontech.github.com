@@ -14,7 +14,8 @@ slides_url: http://sancy.univ-bpclermont.fr/~giraud/talks/180315-sse-clermontech
 video: 
 
 title: "Comment rechercher dans une base de données chiffrées ?"
----
+description: matthieu giraud Comment rechercher dans une base de donnees chiffrees
+------
 
 Avec le développement d'Internet et du Big Data, de plus en
 plus de solutions permettant d'externaliser nos données dans le Cloud

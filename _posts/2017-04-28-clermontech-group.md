@@ -3,7 +3,8 @@ layout: blog-post
 categories: [ blog-posts ]
 
 title: "clermontech.*"
----
+description: clermontech group
+------
 
 Depuis 4 ans désormais, Clermont'ech organise les [API Hours](http://clermontech.org/api-hours/),
 moments conviviaux pour discuter de technologies, outils,

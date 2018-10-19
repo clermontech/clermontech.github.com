@@ -14,7 +14,8 @@ slides_url: https://docs.google.com/presentation/d/18zjOS7RpNAMYWy4l1T2M7zHxAt36
 video: aWOSR6hyAPI
 
 title: "Le Bon Stop"
----
+description: 1 david valery le bon stop
+------
 
 Présentation du Bon Stop, une application d'Autostop 2.0 ayant pour but de
 mettre en relation conducteurs et passagers en les géolocalisant sur une carte.

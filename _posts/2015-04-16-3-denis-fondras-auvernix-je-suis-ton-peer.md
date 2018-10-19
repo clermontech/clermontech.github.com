@@ -14,6 +14,7 @@ slides_url: http://www.liopen.fr/presentations/auvernix_jstp.pdf
 video: 9IQPyIuXqq4
 
 title: "AuvernIX, Je Suis Ton Peer"
----
+description: 3 denis fondras auvernix je suis ton peer
+------
 
 Georges Lucas vous explique ce qu'est un GIX et à quoi ça sert...

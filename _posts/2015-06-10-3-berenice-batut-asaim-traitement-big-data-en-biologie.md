@@ -14,7 +14,8 @@ slides_url: http://fr.slideshare.net/bebatut/api-hour-100615
 video: kxK7k6o4Tfg
 
 title: "ASAIM : Traitement \"Big Data\" En Biologie"
----
+description: 3 berenice batut asaim traitement big data en biologie
+------
 
 Le microbiote intestinal humain permet de prévenir les infections, de stimuler
 l’immunité ou encore de réduire les inflammations. La réduction des coûts de

@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/boukala/intro-gestion-de-la-couleur-clermont
 video: 3rAadZXJH-w
 
 title: "Gestion De La Couleur Et Programmation GPU"
----
+description: 4 nabil boukala gestion de la couleur et programmation gpu
+------
 
 Présentation des problématiques de gestion de la couleur en imagerie numérique.
 Retour d'expérience sur le développement d'un logiciel entièrement conçu en GPU

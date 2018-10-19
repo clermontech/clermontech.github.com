@@ -14,7 +14,8 @@ slides_url: http://superli.free.fr/clermontech/
 video: TuIuMZjb3c0
 
 title: "MDos (Maison Domotique Open Source)"
----
+description: 3 lionel heymans mdos maison domotique open source
+------
 
 ![](/images/api-hours/mdos.png)
 

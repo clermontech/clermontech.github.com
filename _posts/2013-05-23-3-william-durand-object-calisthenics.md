@@ -14,6 +14,7 @@ session_name: Clermont'ech API Hour &#35;2
 session_short_name: "&#35;2"
 
 video: ODK2gnzQ7u8
----
+description: 3 william durand object calisthenics
+------
 
 Your code sucks, let's fix it!

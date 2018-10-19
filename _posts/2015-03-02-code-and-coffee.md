@@ -4,7 +4,8 @@ categories: [ blog-posts ]
 excerpt_separator: <!--more-->
 
 title: "Code &amp; Coffee"
----
+description: code and coffee
+------
 
 Le weekend dernier, nous avons (enfin) lancé le concept de [**Code &
 Coffee**](/code-and-coffee.html).  Pour rappel, un _C&C_ est un événement

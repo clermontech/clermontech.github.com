@@ -14,7 +14,8 @@ slides_url:
 video:
 
 title: "JWT ou comment faciliter la gestion des sessions utilisateurs"
----
+description: 2 loic bourg jwt ou comment faciliter la gestion des utilisateurs
+------
 
 La gestion des sessions est un problème complexe. Dans ce talk, j'expliquerai
 comment les JSON Web Token permettent d'en faciliter certains aspects (SSO, scaling, ...).

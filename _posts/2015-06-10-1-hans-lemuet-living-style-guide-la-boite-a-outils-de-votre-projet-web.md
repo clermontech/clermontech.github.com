@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/spone/living-style-guide-la-boite-a-outils-d
 video: vt44LH1N3Zw
 
 title: "Living Style Guide : La Boîte à Outils De Votre Projet Web"
----
+description: 1 hans lemuet living style guide la boite a outils de votre projet web
+------
 
 Modules, composants, toolkits, pattern libraries, building blocks, design
 systems, templates... au-delà de la terminologie variée, le but du style guide

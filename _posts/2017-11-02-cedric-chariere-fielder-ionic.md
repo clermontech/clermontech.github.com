@@ -14,6 +14,7 @@ slides_url:
 video: aWe8OQLr5wE
 
 title: "Ionic 2+, une solution pour la création d’application hybride ?"
----
+description: cedric chariere fielder ionic
+------
 
 Dans quelle mesure développer une application mobile avec des technologies web s’avère envisageable ? Dans ce retour d’expérience, nous aborderons les forces et les faiblesses de Ionic, de ses promesses aux réalités du terrain.

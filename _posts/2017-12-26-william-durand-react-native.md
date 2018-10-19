@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/willdurand/introduction-a-react-native-api-h
 video: sbhwxPxytMQ
 
 title: "Introduction à React Native"
----
+description: william durand react native
+------
 
 Il y a 2 ans, Facebook a dévoilé React Native, un framework pour développer de
 vraies applications mobiles avec JavaScript et React. Ce combo est vite devenu

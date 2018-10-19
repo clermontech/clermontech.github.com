@@ -15,6 +15,7 @@ video: DG5wjVMZtfo
 
 title: "Event Sourcing en pratique"
 
----
+description: vincent vermersch event sourcing
+------
 
 De l’audit log a un système d’event sourcing pour le commun des mortels, exemples pratiques avec EventStore et quelques principes théoriques à bien garder en tête

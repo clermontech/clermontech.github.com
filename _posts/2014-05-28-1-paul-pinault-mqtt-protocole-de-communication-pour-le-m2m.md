@@ -14,7 +14,8 @@ slides_url: http://slides.com/disk91/mqtt#/
 video: OaqIuIz2sK4
 
 title: "MQTT : Protocole De Communication Pour Le M2M"
----
+description: 1 paul pinault mqtt protocole de communication pour le m2m
+------
 
 Avez-vous idée de ce qu'il se passe lorsque vous appuyez sur le bouton envoyer
 du chat de l'application mobile Facebook ? MQTT est le protocole qui, caché

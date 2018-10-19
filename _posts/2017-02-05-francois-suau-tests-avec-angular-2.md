@@ -14,7 +14,8 @@ slides_url: http://www.imaleo.io/doc/test_angular2.pdf
 video: kCcRzEaQywY
 
 title: "Tests (et Test Driven Developement) avec Angular 2"
----
+description: francois suau tests avec angular 2
+------
 
 Retour d'expérience sur l'écriture de tests unitaires pour une application
 Angular 2.

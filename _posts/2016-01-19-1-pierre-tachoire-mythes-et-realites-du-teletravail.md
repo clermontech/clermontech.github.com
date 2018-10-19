@@ -14,6 +14,7 @@ slides_url: http://krichprollsch.gitlab.io/teletravail/
 video: QqfaiTYqEjY
 
 title: "Mythes et Réalités du Télétravail"
----
+description: 1 pierre tachoire mythes et realites du teletravail
+------
 
 Retour d'expérience à propos du télétravail, le bon et le moins bon.

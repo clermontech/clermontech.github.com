@@ -14,7 +14,8 @@ slides_url: http://k-phoen.github.io/slides-hoa-compiler/
 video: db8P5_1lOD8
 
 title: "Hoa\\Compiler: Write Your Own SQL Parser"
----
+description: 3 kevin gomez hoa compiler write your own sql parser
+------
 
 L'écriture d'un compilateur expliquée à votre maman. Des classes de langages à
 la réalisation d'un parseur de requêtes SQL, nous explorerons les diverses

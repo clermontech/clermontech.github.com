@@ -14,6 +14,7 @@ slides_url: http://github.roudeix.net/talks-rethinkDB
 video: kEuOuRoHRI0
 
 title: "rethinkDB"
----
+description: etienne roudeix rethinkdb
+------
 
 Introduction à RethinkDB, un SGBD NoSQL qui permet de facilement se sharder et se répliquer pour un excellent niveau de service. RethinkDB propose un langage fonctionnel très pratique et propose même de faire des jointures.

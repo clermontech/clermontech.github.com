@@ -14,7 +14,8 @@ slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/ZKP.pdf
 video: NdHcBhILK4E
 
 title: "Comment Expliquer Les Preuves A Divulgation Nulle De Connaissance A Vos Enfants ?"
----
+description: 4 pascal lafourcade comment expliquer les preuves a divulgation nulle de connaissance a vos enfants
+------
 
 Une **preuve à divulgation nulle de connaissance** est un concept utilisé en
 cryptographie, par exemple dans les systèmes de votes électroniques afin de

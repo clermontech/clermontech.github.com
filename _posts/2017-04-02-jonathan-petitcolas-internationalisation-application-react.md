@@ -14,7 +14,8 @@ slides_url: https://www.jonathan-petitcolas.com/talks/2017-03-27-i18n-w2h-r2t.ht
 video:
 
 title: "Internationalisation d'une application React"
----
+description: jonathan petitcolas internationalisation application react
+------
 
 I18N A2C R3T
 

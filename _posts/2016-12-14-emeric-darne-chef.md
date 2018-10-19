@@ -14,6 +14,7 @@ slides_url:
 video: llQFEwpTHxs
 
 title: "Chef"
----
+description: emeric darne chef
+------
 
 On en a assez des applications qui marchent en local mais qui bug en production... L'outil Chef est là pour vous permettre de résoudre ce problème. Je vous présenterai l'outil, son principe et comment il marche. Avec quelques conseils pour l'utiliser.

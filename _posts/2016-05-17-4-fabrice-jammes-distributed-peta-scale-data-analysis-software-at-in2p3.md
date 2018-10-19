@@ -14,7 +14,8 @@ slides_url:
 video: M6da9zUb_mI
 
 title: "Distributed Peta-Scale Data Analysis Software at IN2P3"
----
+description: 4 fabrice jammes distributed peta scale data analysis software at in2p3
+------
 
 Le Large Synoptic Survey Telescope (LSST) va bouleverser l'astronomie. Équipé du
 plus grand capteur photographique jamais conçu pour l'astronomie, ce télescope

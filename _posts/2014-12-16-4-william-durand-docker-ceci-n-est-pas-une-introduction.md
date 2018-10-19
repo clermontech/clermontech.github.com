@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/willdurand/docker-ceci-nest-pas-une-introduc
 video: jrNiyBFxlyQ
 
 title: "Docker, Ceci N'Est Pas Une Introduction"
----
+description: 4 william durand docker ceci n est pas une introduction
+------
 
 Docker, l'une des technologies les plus en vogue ces derniers temps, permet de
 créer des conteneurs logiciels. Retour sur mon utilisation pour le développement

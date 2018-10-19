@@ -14,7 +14,8 @@ slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/Slides-Clermontech-Bitco
 video: b0IYcUx0rqg
 
 title: "Bitcoin, comment ça marche ?"
----
+description: 2 pascal lafourcade bitcoin comment ca marche
+------
 
 Bitcoin est la plus populaire des crypto-monnaies décentralisées. L’objectif de
 cette présentation est d’expliquer les principes de Bitcoins sous-jacents au

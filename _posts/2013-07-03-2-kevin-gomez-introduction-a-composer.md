@@ -14,7 +14,8 @@ session_name: Clermont'ech API Hour &#35;3
 session_short_name: "&#35;3"
 
 video: DjLuHbHrxto
----
+description: 2 kevin gomez introduction a composer
+------
 
 Installer une bibliothèque, rechercher ses dépendances, résoudre les conflits
 entre versions, intégrer l'ensemble, etc. Pourquoi la gestion de dépendances

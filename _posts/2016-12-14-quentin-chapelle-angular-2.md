@@ -14,6 +14,7 @@ slides_url: https://quentinchapelle.com/angular2-APIHour-24/#/
 video: vCjF6h0-uDQ
 
 title: "Angular 2"
----
+description: quentin chapelle angular 2
+------
 
 Aborder sereinement ces nouveaux paradigmes.

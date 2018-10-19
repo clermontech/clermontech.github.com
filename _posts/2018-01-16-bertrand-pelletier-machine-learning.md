@@ -15,7 +15,8 @@ video: gFbZsUazadA
 
 title: "Machine learning : un exemple d'application pour le growth hacking"
 
----
+description: bertrand pelletier machine learning
+------
 
 Retour d’expérience :  une application concrète des outils de data sciences pour le sourcing client d'une start up.
 Un mélange entre du machine learning et l'API Graph facebook. Les étape clefs du procédé : acquisition, tri et apprentissage vont nous permettre de démystifier encore un peu plus l'écosystème data.

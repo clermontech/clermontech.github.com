@@ -14,7 +14,8 @@ slides_url: http://fisjkars.github.io/Scrum-Backlog/
 video: wp5A6hdvTTk
 
 title: "SCRUM - Utilisation De Bacs Pour Le Backlog"
----
+description: 2 maxime escourbiac scrum utilisation de bacs pour le backlog
+------
 
 Comment organiser le backlog de façon à faire apparaître le cycle de vie des
 stories ?

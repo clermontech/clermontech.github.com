@@ -14,7 +14,8 @@ slides_url: http://slid.es/disk91/internetofthings
 video: G7AVs0dPsE0
 
 title: "L’Internet Des Objets Par L’Exemple"
----
+description: 2 paul pinault l internet des objets par l exemple
+------
 
 Ou ce qu’il faut mettre en oeuvre dans le fond de son garage pour prendre part à
 cette nouvelle révolution en marche.

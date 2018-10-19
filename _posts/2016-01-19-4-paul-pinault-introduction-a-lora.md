@@ -14,7 +14,8 @@ slides_url:
 video: iZvM387GdKQ
 
 title: "Introduction à LoRa"
----
+description: 4 paul pinault introduction a lora
+------
 
 Après vous avoir vendu Sigfox le reseaux des objets connectés, il est temps de
 vous parler de son futur concurrent LoRa : la techno de communication des objets

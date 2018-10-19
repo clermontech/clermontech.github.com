@@ -14,7 +14,8 @@ slides_url:
 video: Ho22GPA1QO0
 
 title: "LINQ"
----
+description: 3 frederic barriere linq
+------
 
 Présentation de la beauté et de la puissance de LINQ, le langage de requêtes
 intégré de la plateforme .NET : providers, syntaxe, lambda expressions, méthodes

@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/kenji/from-java-to-objective-c
 video: JAN1tvqN_4g
 
 title: "From Java To Objective-C"
----
+description: 4 richard bergoin from java to objective c
+------
 
 L'Objective-C connaît une forte progression dans le classement des langages les
 plus utilisés ces dernières années. Derrière une syntaxe inspirée par le

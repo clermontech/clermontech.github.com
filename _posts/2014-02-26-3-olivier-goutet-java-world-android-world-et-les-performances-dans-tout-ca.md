@@ -14,7 +14,8 @@ slides_url: https://speakerdeck.com/ol_v_er/clermontech-api-hour-7-java-world-an
 video: mbjP_iLFZ8M
 
 title: "Java World, Android World, Et Les Performances Dans Tout Ça ?"
----
+description: 3 olivier goutet java world android world et les performances dans tout ca
+------
 
 Android, la plateforme mobile leader du marché, utilise comme langage de
 programmation le Java. Cela le rend compatible Android avec tout un ensemble de

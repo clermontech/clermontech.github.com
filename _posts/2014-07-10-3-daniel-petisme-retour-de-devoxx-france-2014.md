@@ -14,6 +14,7 @@ slides_url: http://danielpetisme.github.io/devoxx-2014-feedback-slides/
 video: QrTNCxK-xhQ
 
 title: "Retour De Devoxx France 2014"
----
+description: 3 daniel petisme retour de devoxx france 2014
+------
 
 What every IT hipsters should know...

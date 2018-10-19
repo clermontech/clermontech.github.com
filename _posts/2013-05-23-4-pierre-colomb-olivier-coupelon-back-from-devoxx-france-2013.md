@@ -13,7 +13,8 @@ session_name: Clermont'ech API Hour &#35;2
 session_short_name: "&#35;2"
 
 video: _FrPYYjkjN8
----
+description: 4 pierre colomb olivier coupelon back from devoxx france 2013
+------
 
 Devoxx France.... C'est quoi ? Y aller ... Pourquoi ? Comment  ? Y voit-on des
 cravates partout ? Les réponses à toutes les questions que vous vous posez sur

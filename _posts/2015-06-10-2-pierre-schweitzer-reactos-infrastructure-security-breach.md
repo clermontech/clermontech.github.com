@@ -14,7 +14,8 @@ slides_url: https://cloud.heisspiter.net/index.php/s/oxu2ZxzVp3Ok5De
 video:
 
 title: "ReactOS: Infrastructure Security Breach"
----
+description: 2 pierre schweitzer reactos infrastructure security breach
+------
 
 Analyse et retours sur une faille de sécurité qui a affecté l'infrastructure du
 projet ReactOS. Ou comment plusieurs dizaines de milliers de comptes

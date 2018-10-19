@@ -14,7 +14,8 @@ slides_url: http://yloiseau.net/articles/functional/
 video: 2UmE639QJow
 
 title: "Functional Concepts, An Overview"
----
+description: 2 yannick loiseau functional concepts an overview
+------
 
 Avec la redécouverte des langages fonctionnels, poussés notamment par le besoin
 de parallélisme sur les architectures multi-coeur et les problématiques de

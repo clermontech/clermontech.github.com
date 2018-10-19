@@ -15,7 +15,8 @@ video: -LwatWQ8yLg
 
 title: "L'Atelier Collaboratif (ACoLab) - Fablab/Hackerspace Clermontois"
 
----
+description: thomas trabattoni acolab hackerspace clermontois
+------
 
 Un espace unique dédié à la création numérique et à la conception d’objet dans
 la philosophie Do It Yourself. [acolab.fr](http://acolab.fr)

@@ -14,7 +14,8 @@ slides_url: http://drupal8.formations.kgaut.net/
 video: g8DStSOf4og
 
 title: "Drupal 8 - Quoi De Neuf ?"
----
+description: 2 kevin gautreau drupal 8 quoi de neuf
+------
 
 La nouvelle version du CMS PHP Drupal est sortie il y a peu. Quelles sont les
 forces et faiblesses de cet outil, qu'amène la nouvelle version ?

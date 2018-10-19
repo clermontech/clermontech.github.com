@@ -14,7 +14,8 @@ slides_url: https://romain.blogreen.org/files/puppet.pdf
 video: swwnw2ONzt0
 
 title: "Puppet / Marionette Collective, d'une altitude de 40 000 pieds et à mach 0.8"
----
+description: romain tartiere puppet
+------
 
 Un survol de l'écosystème d'outils pour la gestion de ressources et l'orchestration avec
 Puppet et Marionette Collective.

@@ -5,7 +5,8 @@ flickr_set_id: 72157648965851588
 mascotte_img: clermontech_mascotte_git.png
 
 title: "Workshop &#35;1 : Git"
----
+description: workshop 1 git
+------
 
 Venez apprendre ou approfondir vos connaissances sur
 [**Git**](http://git-scm.com/), le célèbre outil de versioning. Nous vous

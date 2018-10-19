@@ -14,7 +14,8 @@ session_name: Clermont'ech API Hour &#35;3
 session_short_name: "&#35;3"
 
 video: nWFGKh4VbV8
----
+description: 4 julien muetton organiser son application backbonejs
+------
 
 [Backbone.js](http://backbonejs.org/) est une librairie bas niveau laissant
 toute latitude au développeur pour s'organiser.

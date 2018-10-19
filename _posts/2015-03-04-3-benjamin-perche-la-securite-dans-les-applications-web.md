@@ -14,7 +14,8 @@ slides_url: http://lovenunu.github.io/security-slides
 video: T2LTU8nonU8
 
 title: "La Sécurité Dans Les Applications Web"
----
+description: 3 benjamin perche la securite dans les applications web
+------
 
 La sécurité est un des points essentiels d'un application web. Qu'elle soit
 négligée, tabou ou inconnue, des sites se font encore "pirater" aujourd'hui.

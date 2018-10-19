@@ -14,6 +14,7 @@ slides_url: http://romain.blogreen.org/files/etrust.pdf
 video: S6wMS5B92sE
 
 title: "Confiance sur Internet"
----
+description: 2 romain tartiere confiance sur internet
+------
 
 Votre formule d'accès à Internet ne vous permet pas d'accéder à ce contenu.

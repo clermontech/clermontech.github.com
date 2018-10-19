@@ -3,7 +3,8 @@ layout: blog-post
 categories: [ blog-posts ]
 
 title: "Citizenfour : Projection et Débat à Clermont-Fd"
----
+description: citizenfour projection et debat a clermont ferrand
+------
 
 Clermont'ech vous invite à la **projection** du film **Citizenfour** le **jeudi
 4 juin 2015 à 20h** au cinéma [**Le Rio**](http://cinemalerio.com/).

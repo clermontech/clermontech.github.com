@@ -14,7 +14,8 @@ slides_url: http://slides.com/quentinchapelle/logstash
 video: eRAZ7Rm9QhM
 
 title: "Logstash, Mettez De La Couleur Dans Vos Logs"
----
+description: 1 quentin chapelle logstash mettez de la couleur dans vos logs
+------
 
 Ce n'est un secret pour personne, les applications web sont aujourd'hui
 incontournables. Leur succès et l'augmentation de leur utilisation imposent une

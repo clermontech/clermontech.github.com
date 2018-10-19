@@ -14,7 +14,8 @@ slides_url:
 video: 
 
 title: "Les claviers"
----
+description: richard degenne les claviers
+------
 
 Qu'on travaille dans l'informatique ou pas, on utilise tous des claviers tous
 les jours. Et pourtant, on en sait généralement peu sur ces objets à l'histoire

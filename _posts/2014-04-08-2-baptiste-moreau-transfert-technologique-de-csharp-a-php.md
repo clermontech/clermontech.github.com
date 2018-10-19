@@ -14,7 +14,8 @@ slides_url: http://fr.slideshare.net/BaptisteMOREAU/astro-clermont-clermontech
 video: vmnjIc90wsw
 
 title: "Transfert Technologique D'Un C# 15 Ans D'Age A Un PHP Flambant Neuf, Suivant Un Cahier Des Charges, Chargé !"
----
+description: 2 baptiste moreau transfert technologique de csharp a php
+------
 
 4 langues, 70 environnements graphiques, 1500 contenus, 300 jeux payants et
 gratuits, 100 000 pages différentes, des dizaines de pays, 20 millions de pages

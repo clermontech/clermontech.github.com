@@ -15,7 +15,8 @@ video: N5pa5vpcIas
 
 title: "Produire des cartes pour les déficients visuels depuis OpenStreetMap"
 
----
+description: jean marie favreau cartes pour deficients visuels via openstreetmap
+------
 
 OpenStreetMap, c'est le Wikipédia des cartes: une base de données géographique
 collaborative initiée en 2004, qui couvre aujourd'hui toute la planète.
