@@ -16,7 +16,8 @@ video: lnh78zruW6I
 title: "Let's open science &amp; research data. Now."
 description: 4 julien maupetit let s open science and research data now
 ---
--
+
+
 
 En tant que chercheur académique, j'ai pu voir de l'intérieur comment est
 structurée la recherche au niveau national et européen, comment sont gérés les

@@ -16,7 +16,8 @@ video: z7mguGt2TiM
 title: "Sigfox Le Champion Français Des Objets Connectés"
 description: 2 paul pinault sigfox le champion francais des objets connectes
 ---
--
+
+
 
 Sigfox est une technologie française qui connecte les objets a l'internet :
 contrairement au wifi ou la 3g qui sont assez onéreux mais surtout gourmands en

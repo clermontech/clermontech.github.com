@@ -17,4 +17,6 @@ title: "(Brief) Introduction to Go and concurrency"
 
 description: sebastien binet go introduction
 ---
--
+
+
+

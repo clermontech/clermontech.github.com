@@ -16,7 +16,8 @@ video: 1aUUOruNNNU
 title: "Que Déduire D'Un Générateur De Nombres Aléatoires Qui Passent Des Tests Statistiques Avec Succès ?"
 description: 4 guenaelle de julis que deduire dun generateur de nombres aleatoires qui passent des tests statistiques avec succes
 ---
--
+
+
 
 Les nombres aléatoires sont très fréquents dans les protocoles cryptographiques
 : graine pour instancier, création de modules RSA, token, clef de session, ...

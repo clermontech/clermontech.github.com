@@ -16,6 +16,7 @@ video: KiPvHaYhUsI
 title: "La blockchain sans crypto ni bitcoin"
 description: 2 paul pinault la blockchain sans crypto ni bitcoin
 ---
--
+
+
 
 Découvrons a quoi sert une blockchain et quels sont ses usages sans rentrer dans les fondements techniques ou mathematiques.

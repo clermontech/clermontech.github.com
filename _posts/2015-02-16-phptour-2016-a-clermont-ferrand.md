@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: Le PHP Tour débarquera en 2016
 description: phptour 2016 a clermont ferrand
 ---
--
+
+
 
 C'est avec un immense plaisir que nous vous annonçons l'organisation du **PHP
 Tour 2016** à Clermont-Ferrand !

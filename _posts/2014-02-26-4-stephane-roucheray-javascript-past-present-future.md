@@ -16,7 +16,8 @@ video: jc0rudfnOT0
 title: "JavaScript, Past, Present, Future"
 description: 4 stephane roucheray javascript past present future
 ---
--
+
+
 
 S'il existe des liens avec d'autres langages de programmation, JavaScript reste
 unique par bien des aspects.

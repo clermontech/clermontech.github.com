@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: Offre de coworking décidée aux personnes tech
 description: offre coworking
 ---
--
+
+
 
 Clermont'ech, en partenariat avec [Le Bivouac](http://www.lebivouac.com/), lance une offre de coworking destinée aux personnes ayant un profil "tech".
 

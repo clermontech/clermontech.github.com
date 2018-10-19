@@ -16,7 +16,8 @@ video: lxAZGMp1Rek
 title: "Web Sémantique"
 description: 1 cedric klein web semantique
 ---
--
+
+
 
 Après un rapide constat des limitations du Web 2.0 (publier plus pour
 comprendre moins), nous verrons, à travers une définition fonctionnelle et

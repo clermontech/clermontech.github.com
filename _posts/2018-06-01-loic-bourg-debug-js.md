@@ -17,7 +17,8 @@ title: "Apprivoisez le debug en Javascript !"
 
 description: loic bourg debug js
 ---
--
+
+
 
 Les bug en JavaScript peuvent vite devenir difficile à trouver.
 Le debugger, disponible nativement dans tous les navigateurs moderne, permet de rendre cette tâche moins complexe.

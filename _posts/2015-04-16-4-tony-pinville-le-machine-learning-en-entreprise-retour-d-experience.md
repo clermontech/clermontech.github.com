@@ -16,7 +16,8 @@ video: w-z8lXwKyGM
 title: "Le Machine Learning En Entreprise : Retour d'Expérience"
 description: 4 tony pinville le machine learning en entreprise retour d experience
 ---
--
+
+
 
 Le Big data, c'est bien, le smart data, c'est mieux. Grâce aux technologies du
 machine learning, il est possible de tirer profit de la masse grandissante

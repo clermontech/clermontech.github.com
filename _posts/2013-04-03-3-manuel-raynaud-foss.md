@@ -16,6 +16,7 @@ session_short_name: "&#35;1"
 video: G_Z3wrsPkq4
 description: 3 manuel raynaud foss
 ---
--
+
+
 
 Copyright, copyleft, brevet unitaire, patent troll, décortiquons ce qui se cache derrière ces mots et pourquoi il est important de les connaître.

@@ -16,7 +16,8 @@ session_short_name: "&#35;1"
 video: UKG8EaHwY5E
 description: 1 julien maupetit hello clermontech
 ---
--
+
+
 
 Cette première rencontre sera l’occasion de présenter l’association
 [Clermont’ech](http://clermontech.org) dans les grandes lignes : un bref historique,

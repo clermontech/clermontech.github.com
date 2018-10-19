@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: DjangoCong 2015, les poneys s'attroupent en Auvergne
 description: djangcong 2015 a clermont ferrand
 ---
--
+
+
 
 L'événement annuel regroupant les amateurs francophones de [Django](http://www.djangoproject.com/) — aka la [#djangocong](http://rencontres.django-fr.org/2015/) — aura lieu cette année dans les terres du milieu du **8 au 10 mai 2015**. [Clermont'ech](http://clermontech.org) est fière d'accueillir et de co-organiser cette réunion de poneys fougueux.
 

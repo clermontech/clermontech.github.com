@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: Repas des Speakers 2014
 description: repas des speakers 2014
 ---
--
+
+
 
 Ce jeudi 5 février 2015 était un moment privilégié pour [nos speakers de
 l'année passée](/talks/) puisque Clermont'ech decidait de tous les rassembler

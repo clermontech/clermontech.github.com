@@ -28,12 +28,12 @@ for file in os.listdir('./_posts'):
 	name = './_posts/' + file
 	with open(name,'r+b') as outfile:
 			for (index,line) in enumerate(outfile):
-					if line == b'------\r\n' and index !=0:
+					if line == b'---\r\n' and index !=0:
 						position = index
 	with open(name,'r+b') as outfile:
 			for (index,line) in enumerate(outfile):
-					if index == position-1:
-						outfile.write(b'---\r\n')
+					if index == position:
+						outfile.write(b'\r\n')
 				
 				
 				

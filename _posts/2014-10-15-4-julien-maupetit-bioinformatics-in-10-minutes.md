@@ -16,7 +16,8 @@ video: 3Cwell883t0
 title: "Bioinformatics in 10 minutes"
 description: 4 julien maupetit bioinformatics in 10 minutes
 ---
--
+
+
 
 Un talk en 10 minutes pour aborder 10 questions auxquelles la bio-informatique
 tente de répondre.

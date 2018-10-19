@@ -16,7 +16,8 @@ video: 2NpAdx3C0j8
 title: "Traitement d'images Flot de Données sur FPGA"
 description: 2 sebastien caux traitement d images flot de donnees sur fpga
 ---
--
+
+
 
 La vision par ordinateur est extrêmement gourmande en terme de puissance de
 calcul et difficilement embarquable. Une introduction à une méthode adaptée aux

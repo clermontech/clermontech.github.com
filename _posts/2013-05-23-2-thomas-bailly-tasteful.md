@@ -16,7 +16,8 @@ session_short_name: "&#35;2"
 video: ncDPFESNzWk
 description: 2 thomas bailly tasteful
 ---
--
+
+
 
 Et si nous testions nos applications avant de les développer ? Découvrons une
 autre manière de coder nos applications avec le TDD.

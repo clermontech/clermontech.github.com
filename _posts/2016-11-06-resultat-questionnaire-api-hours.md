@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: "Résultats du questionnaire"
 description: resultat questionnaire api hours
 ---
--
+
+
 
 Vous avez été près de 120 à avoir la patience et la gentillesse de répondre à notre questionnaire à propos des API Hours.
 Merci à toutes et à tous de nous aider à nous améliorer, vos conseils et vos encouragements sont précieux !

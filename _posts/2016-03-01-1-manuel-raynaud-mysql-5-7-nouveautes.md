@@ -16,6 +16,7 @@ video: c1TzE93fm3Y
 title: "MySQL 5.7 - Nouveautés"
 description: 1 manuel raynaud mysql 5 7 nouveautes
 ---
--
+
+
 
 Présentation de la nouvelle version de MySQL.

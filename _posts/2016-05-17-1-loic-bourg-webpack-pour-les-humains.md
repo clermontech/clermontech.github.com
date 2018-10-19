@@ -16,7 +16,8 @@ video: I87UzXfdDy8
 title: "Webpack pour les Humains"
 description: 1 loic bourg webpack pour les humains
 ---
--
+
+
 
 Alors qu'une page web fait maintenant, en moyenne, la taille de Doom 3, il
 devient important de pouvoir gérer facilement cette quantité impressionnante de

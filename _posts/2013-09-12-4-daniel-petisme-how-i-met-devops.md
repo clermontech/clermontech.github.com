@@ -16,6 +16,7 @@ video: 3HHtJI1PEKY
 title: "How I Met DevOps?"
 description: 4 daniel petisme how i met devops
 ---
--
+
+
 
 Kids, I'm going to tell you an incredible story, the story of how I met DevOps!

@@ -125,6 +125,7 @@ C'est la raison pour laquelle, dimanche matin, nous partirons en bus en directio
 
 ---
 
-Nous espérons sincèrement vous avoir convaincu de réserver vos places dès à présent.
+
+us espérons sincèrement vous avoir convaincu de réserver vos places dès à présent.
 
 Djangoeusement.

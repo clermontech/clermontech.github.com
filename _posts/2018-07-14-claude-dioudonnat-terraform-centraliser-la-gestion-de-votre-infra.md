@@ -17,6 +17,7 @@ title: "Terraform, centraliser la gestion de votre infra."
 
 description: claude dioudonnat terraform centraliser la gestion de votre infra
 ---
--
+
+
 
 Je vais vous présenter Terraform, un outil pour gérer facilement le cycle de vie de vos ressources (VM, Bucket, DNS...) à travers plusieurs fournisseurs de cloud (AWS, OVH ...). 

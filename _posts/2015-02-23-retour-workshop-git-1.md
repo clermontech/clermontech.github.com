@@ -6,7 +6,8 @@ excerpt_separator: <!--more-->
 title: Retour Sur Le Workshop Git #1
 description: retour workshop git 1
 ---
--
+
+
 
 Le samedi 15 novembre dernier, Clermont'ech organisait son tout premier
 [Workshop](http://clermontech.org/workshops/), avec pour [thème

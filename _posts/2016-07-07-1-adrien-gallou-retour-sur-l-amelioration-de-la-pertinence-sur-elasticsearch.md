@@ -16,7 +16,8 @@ video: B5x2gB29X1I
 title: "Retour sur l’amélioration de la pertinence sur Elasticsearch"
 description: 1 adrien gallou retour sur l amelioration de la pertinence sur elasticsearch
 ---
--
+
+
 
 Decitre.fr édite ORB (Outil de Recherche Bibliographique), outil permettant a des librairies de rechercher 
 des livres dans une base alimentée en interne et contenant environ 2 millions de références. La difficulté 

@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: Appel à speaker
 description: appel a speaker
 ---
--
+
+
 
 Depuis 5 ans Clermont'ech organise des API Hours de manière régulière.
 Pour celles et ceux qui ne connaissent pas, les API Hours sont des moments conviviaux où 3 à 4 personnes partagent avec la communauté un sujet qui leur tient à coeur.

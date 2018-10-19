@@ -16,7 +16,8 @@ session_short_name: "&#35;2"
 video: myQbzD9UPic
 description: 1 matthieu huguet private cloud ovh
 ---
--
+
+
 
 Petit retour d'expérience suite à la migration d'une infrastructure (web /
 e-commerce) vers la solution «Private Cloud» d'OVH.

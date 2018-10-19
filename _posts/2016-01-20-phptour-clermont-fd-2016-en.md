@@ -103,5 +103,6 @@ _AFUP &amp; Clermont'ech._
 
 ---
 
-_Keep in mind that we are not native English-writers, [email
+
+eep in mind that we are not native English-writers, [email
 us](mailto:hello@clermontech.org) if something is poorly written or offending._

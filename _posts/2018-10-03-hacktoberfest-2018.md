@@ -5,7 +5,8 @@ categories: [ blog-posts ]
 title: Soirée Hacktoberfest 2018
 description: hacktoberfest 2018
 ---
--
+
+
 
 Le jeudi 18 octobre 2018, Clermont'ech et l'[AFUP](https://afup.org) co-organise
 une soirée Hacktoberfest de 19 heures à minuit afin de célébrer ensemble cette 

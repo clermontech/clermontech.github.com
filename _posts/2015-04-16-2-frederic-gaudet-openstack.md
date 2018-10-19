@@ -16,7 +16,8 @@ video: Ni9FQxFTlKY
 title: "OpenStack"
 description: 2 frederic gaudet openstack
 ---
--
+
+
 
 OpenStack est un framework principalement écrit en python offrant des services
 d'IaaS. Il a pour objectif d’être un orchestrateur de ressources (calcul,

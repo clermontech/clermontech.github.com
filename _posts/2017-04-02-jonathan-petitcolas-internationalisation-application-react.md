@@ -16,7 +16,8 @@ video:
 title: "Internationalisation d'une application React"
 description: jonathan petitcolas internationalisation application react
 ---
--
+
+
 
 I18N A2C R3T
 

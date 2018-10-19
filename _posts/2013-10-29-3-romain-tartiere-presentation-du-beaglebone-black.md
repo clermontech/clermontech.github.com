@@ -16,7 +16,8 @@ video: PvsWDsJFgFg
 title: "Présentation du BeagleBone Black"
 description: 3 romain tartiere presentation du beaglebone black
 ---
--
+
+
 
 Début 2013, BeagleBoard sortait l'évolution de son BeagleBone : le **BeagleBone
 Black**. Présentation de cette plateforme libre et économique pour
