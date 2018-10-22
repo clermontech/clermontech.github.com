@@ -5,11 +5,12 @@ const { promisify } = require("util");
 const slugify = require("slugify");
 const request = require("request-promise-native");
 const qs = require("querystring");
+const { DateTime } = require("luxon");
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 
-registerPrompt('datetime', require("inquirer-datepicker-prompt"));
+registerPrompt("datetime", require("inquirer-datepicker-prompt"));
 
 const questions = [
   {
@@ -33,13 +34,13 @@ const questions = [
     type: "datetime",
     name: "date",
     message: "API Hour date",
-    format: ['d', '/', 'm', '/', 'yy']
+    format: ["d", "/", "m", "/", "yy"]
   },
   {
     type: "datetime",
     name: "eventbrite_date",
     message: "when eventbrite reservation will be open?",
-    format: ['d', '/', 'm', '/', 'yy']
+    format: ["d", "/", "m", "/", "yy"]
   }
 ];
 
@@ -78,9 +79,13 @@ const apiHour = async () => {
 
   let newTalk = false;
   let longTalk = false;
-  const today = new Date();
-  const printedDate =
-    today.getFullYear() + "-" + (today.getMonth() + 1) + "-" + today.getDate();
+  const today = DateTime.local();
+  today.setLocale("fr");
+  const printedDate = today.toFormat("yyyy-LL-dd");
+
+  const ApiHourDate = DateTime.fromJSDate(answers.date);
+  const eventbriteDate = DateTime.fromJSDate(answers.eventbrite_date);
+
   do {
     const talkAnswer = await prompt(talkQuestion);
     newTalk = talkAnswer.newTalk;
@@ -135,7 +140,6 @@ const apiHour = async () => {
   const bb = apiHourOSM[0].boundingbox.sort((a, b) => {
     return Number(a) - Number(b);
   });
-  
 
   const osm = {
     bbox: bb[0] + "," + bb[2] + "," + bb[1] + "," + bb[3],
@@ -144,7 +148,11 @@ const apiHour = async () => {
   };
 
   const apiHour = mustache.render(apiHourContent, {
-    apiHour: answers,
+    apiHour: {
+      ...answers,
+      date: ApiHourDate.setLocale("fr").toFormat("dd LLLL yyyy"),
+      eventbrite_date: eventbriteDate.setLocale("fr").toFormat("dd LLLL yyyy")
+    },
     talks: talkAnswers,
     longTalk,
     osmQs: qs.stringify(osm)
