@@ -51,7 +51,7 @@ const talkQuestion = [
     message: "talk title"
   },
   {
-    type: "input",
+    type: "editor",
     name: "description",
     message: "talk description"
   },
