@@ -1,4 +1,4 @@
-const { prompt } = require("inquirer");
+const { prompt, registerPrompt } = require("inquirer");
 const mustache = require("mustache");
 const fs = require("fs");
 const { promisify } = require("util");
@@ -8,6 +8,8 @@ const qs = require("querystring");
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
+
+registerPrompt('datetime', require("inquirer-datepicker-prompt"));
 
 const questions = [
   {
@@ -28,14 +30,16 @@ const questions = [
     message: "location address"
   },
   {
-    type: "input",
+    type: "datetime",
     name: "date",
-    message: "API Hour date"
+    message: "API Hour date",
+    format: ['d', '/', 'm', '/', 'yy']
   },
   {
-    type: "input",
+    type: "datetime",
     name: "eventbrite_date",
-    message: "when eventbrite reservation will be open?"
+    message: "when eventbrite reservation will be open?",
+    format: ['d', '/', 'm', '/', 'yy']
   }
 ];
 
