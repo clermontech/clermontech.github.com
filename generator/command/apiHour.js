@@ -12,6 +12,8 @@ const writeFile = promisify(fs.writeFile);
 
 registerPrompt("datetime", require("inquirer-datepicker-prompt"));
 
+const isNotEmpty = input => input.length > 0;
+
 const questions = [
   {
     type: "input",
@@ -23,12 +25,14 @@ const questions = [
   {
     type: "input",
     name: "location",
-    message: "location name"
+    message: "location name",
+    validate: isNotEmpty
   },
   {
     type: "input",
     name: "address",
-    message: "location address"
+    message: "location address",
+    validate: isNotEmpty
   },
   {
     type: "datetime",
@@ -48,17 +52,20 @@ const talkQuestion = [
   {
     type: "input",
     name: "speaker",
-    message: "speaker name"
+    message: "speaker name",
+    validate: isNotEmpty
   },
   {
     type: "input",
     name: "title",
-    message: "talk title"
+    message: "talk title",
+    validate: isNotEmpty
   },
   {
     type: "editor",
     name: "description",
-    message: "talk description"
+    message: "talk description",
+    validate: isNotEmpty
   },
   {
     type: "confirm",
@@ -126,6 +133,7 @@ const apiHour = async () => {
     console.log("impossible to open talk template");
     process.exit(1);
   }
+
   let osm = "";
   try {
     let apiHourOSM = await request.get({
