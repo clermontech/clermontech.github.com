@@ -3,6 +3,8 @@ const mustache = require("mustache");
 const fs = require("fs");
 const { promisify } = require("util");
 const slugify = require("slugify");
+const request = require("request-promise-native");
+const qs = require("querystring");
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -82,8 +84,13 @@ const apiHour = async () => {
       longTalk = true;
     }
     talkAnswers.push({
-      slug: printedDate + "-" + slugify(talkAnswer.speaker) + "-" + slugify(talkAnswer.title),
-      ...talkAnswer,
+      slug:
+        printedDate +
+        "-" +
+        slugify(talkAnswer.speaker) +
+        "-" +
+        slugify(talkAnswer.title),
+      ...talkAnswer
     });
   } while (newTalk === true);
 
@@ -111,10 +118,32 @@ const apiHour = async () => {
     process.exit(1);
   }
 
+  let apiHourOSM = await request.get({
+    uri: "https://nominatim.openstreetmap.org/search",
+    qs: {
+      q: answers.address,
+      format: "json",
+      email: "hello@clermontech.org"
+    }
+  });
+
+  apiHourOSM = JSON.parse(apiHourOSM);
+  const bb = apiHourOSM[0].boundingbox.sort((a, b) => {
+    return Number(a) - Number(b);
+  });
+  
+
+  const osm = {
+    bbox: bb[0] + "," + bb[2] + "," + bb[1] + "," + bb[3],
+    layer: "mapnik",
+    marker: apiHourOSM[0].lat + "," + apiHourOSM[0].lon
+  };
+
   const apiHour = mustache.render(apiHourContent, {
     apiHour: answers,
     talks: talkAnswers,
-    longTalk
+    longTalk,
+    osmQs: qs.stringify(osm)
   });
 
   await writeFile(
@@ -127,7 +156,7 @@ const apiHour = async () => {
     apiHour
   );
 
-  talkAnswers.forEach(async (talk) => {
+  talkAnswers.forEach(async talk => {
     const content = mustache.render(talkContent, {
       ...talk,
       version: answers.version

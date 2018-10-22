@@ -23,7 +23,7 @@ Pour cette édition trois sujets. Un premier de 30 minutes et deux de 15 minutes
 Cet événement aura lieu le **{{apiHour.date}}** à **19h** au **{{apiHour.location}}**. L'adresse
 exacte est : [**{{apiHour.address}}**](https://www.openstreetmap.org/?query={{apiHour.address}}).
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/?query={{apiHour.address}}" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?{{osmQs}}" style="border: 1px solid black"></iframe>
 
 <br/>
 
