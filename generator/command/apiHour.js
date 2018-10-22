@@ -126,26 +126,30 @@ const apiHour = async () => {
     console.log("impossible to open talk template");
     process.exit(1);
   }
+  let osm = "";
+  try {
+    let apiHourOSM = await request.get({
+      uri: "https://nominatim.openstreetmap.org/search",
+      qs: {
+        q: answers.address,
+        format: "json",
+        email: "hello@clermontech.org"
+      }
+    });
 
-  let apiHourOSM = await request.get({
-    uri: "https://nominatim.openstreetmap.org/search",
-    qs: {
-      q: answers.address,
-      format: "json",
-      email: "hello@clermontech.org"
-    }
-  });
+    apiHourOSM = JSON.parse(apiHourOSM);
+    const bb = apiHourOSM[0].boundingbox.sort((a, b) => {
+      return Number(a) - Number(b);
+    });
 
-  apiHourOSM = JSON.parse(apiHourOSM);
-  const bb = apiHourOSM[0].boundingbox.sort((a, b) => {
-    return Number(a) - Number(b);
-  });
-
-  const osm = {
-    bbox: bb[0] + "," + bb[2] + "," + bb[1] + "," + bb[3],
-    layer: "mapnik",
-    marker: apiHourOSM[0].lat + "," + apiHourOSM[0].lon
-  };
+    osm = qs.stringify({
+      bbox: bb[0] + "," + bb[2] + "," + bb[1] + "," + bb[3],
+      layer: "mapnik",
+      marker: apiHourOSM[0].lat + "," + apiHourOSM[0].lon
+    });
+  } catch (e) {
+    console.log("impossible to fetch opendata position for this address");
+  }
 
   const apiHour = mustache.render(apiHourContent, {
     apiHour: {
@@ -155,7 +159,7 @@ const apiHour = async () => {
     },
     talks: talkAnswers,
     longTalk,
-    osmQs: qs.stringify(osm)
+    osmQs: osm
   });
 
   await writeFile(
