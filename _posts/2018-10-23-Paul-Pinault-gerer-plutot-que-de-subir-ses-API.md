@@ -17,5 +17,5 @@ title: "gérer plutot que de subir ses API"
 
 ---
 
-ouvrir des APIs implique une vision a long terme de leur gestions pour que le SI ne s’effondre pas sous le couplage fort qu’elles induisent. L’Api Management est une solution efficace a cette problématique que nous allons détailler dans ce talk. 
+Ouvrir des APIs implique une vision a long terme de leur gestions pour que le SI ne s’effondre pas sous le couplage fort qu’elles induisent. L’API Management est une solution efficace a cette problématique que nous allons détailler dans ce talk.
 
