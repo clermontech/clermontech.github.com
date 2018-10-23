@@ -17,6 +17,6 @@ title: "PHP en 2018"
 
 ---
 
-Vous avez peut-être déjà entendu ou dit que PHP n&#39;est pas un &quot;vrai&quot; langage de programmation.
-Je vous propose de faire un rapide tour d&#39;horizon de PHP et de son écosystème version 2018.
+Vous avez peut-être déjà entendu ou dit que PHP n'est pas un "vrai" langage de programmation.
+Je vous propose de faire un rapide tour d'horizon de PHP et de son écosystème version 2018.
 
