@@ -5,10 +5,11 @@ const qs = require("querystring");
 const mustache = require("mustache");
 const { DateTime } = require("luxon");
 
-const readFile = promisify(fs.readFile);
-const writeFile = promisify(fs.writeFile);
+
 
 module.exports = async (info, date, talks) => {
+  const readFile = promisify(fs.readFile);
+  const writeFile = promisify(fs.writeFile);
   let apiHourContent = "";
   let longTalk = false;
   talks.forEach(talk => {
