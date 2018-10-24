@@ -6,8 +6,8 @@
   "author": "Clermont'ech <hello@clermontech.org>",
   "license": "MIT",
   "scripts": {
-    "lint:dev": "yarn lint --rule 'no-console: 1' --fix",
-    "lint": "eslint bin --ext=js"
+    "lint:dev": "yarn lint --fix",
+    "lint": "eslint generator --ext=js"
   },
   "dependencies": {
     "commander": "^2.19.0",

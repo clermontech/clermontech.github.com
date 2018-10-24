@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const program = require("commander");
-const apiHour = require("../generator/command/apiHour");
+const apiHour = require("../generator/src/command/apiHour");
 
 program.version("0.0.1", "-v, --version");
 program
