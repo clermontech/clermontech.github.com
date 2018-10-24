@@ -13,7 +13,7 @@ author_image:
 slides_url:
 video:
 
-title: "gérer plutot que de subir ses API"
+title: "Gérer plutôt que subir ses API"
 
 ---
 
