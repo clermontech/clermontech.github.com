@@ -31,9 +31,19 @@ module.exports = async () => {
     });
   } while (newTalk === true);
 
-  await apiHourGenerator(answers, printedDate, talkAnswers);
+  try {
+    await apiHourGenerator(answers, printedDate, talkAnswers);
+  } catch (e) {
+    console.error(e.message);
+    process.exit(1);
+  }
 
-  talkAnswers.forEach(async talk => {
-    await talkGenerator(talk, answers.version);
-  });
+  try {
+    talkAnswers.forEach(async talk => {
+      await talkGenerator(talk, answers.version);
+    });
+  } catch (e) {
+    console.error(e.message);
+    process.exit(1);
+  }
 };

@@ -22,8 +22,7 @@ module.exports = async (info, date, talks) => {
       "utf-8"
     );
   } catch (e) {
-    console.log("impossible to open api hour template");
-    process.exit(1);
+    throw new Error("impossible to open api hour template");
   }
 
   const ApiHourDate = DateTime.fromJSDate(info.date);
@@ -51,7 +50,7 @@ module.exports = async (info, date, talks) => {
       marker: apiHourOSM[0].lat + "," + apiHourOSM[0].lon
     });
   } catch (e) {
-    console.log("impossible to fetch opendata position for this address");
+    console.error("impossible to fetch opendata position for this address");
   }
 
   const apiHour = mustache.render(apiHourContent, {

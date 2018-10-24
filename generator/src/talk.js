@@ -13,8 +13,7 @@ module.exports = async (talk, version) => {
       "utf-8"
     );
   } catch (e) {
-    console.log("impossible to open talk template");
-    process.exit(1);
+    throw new Error("impossible to open talk template");
   }
 
   const content = mustache.render(talkContent, {
