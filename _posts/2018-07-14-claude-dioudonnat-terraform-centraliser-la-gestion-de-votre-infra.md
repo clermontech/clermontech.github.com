@@ -11,7 +11,9 @@ author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
 slides_url:
-video:
+video: zxQuzmVjrpg
+video_start: 3143
+
 
 title: "Terraform, centraliser la gestion de votre infra."
 
