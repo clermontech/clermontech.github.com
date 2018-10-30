@@ -11,7 +11,8 @@ author_url:
 author_image:
 
 slides_url: http://sancy.univ-bpclermont.fr/~giraud/talks/180315-sse-clermontech.pdf
-video: 
+video: s7QAxBGyY8A
+video_start: 1587
 
 title: "Comment rechercher dans une base de données chiffrées ?"
 ---

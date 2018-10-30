@@ -11,7 +11,8 @@ author_url: https://twitter.com/julienmaupetit
 author_image: julienmaupetit.jpg
 
 slides_url:
-video:
+video: zxQuzmVjrpg
+video_start: 4152
 
 title: "Using Ansible to make deployments to OpenShift versatile"
 

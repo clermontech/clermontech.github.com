@@ -11,7 +11,8 @@ author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
 slides_url: https://www.disk91.com/2017/news/my-life/my-little-bitcoin-investment-mining-experience/
-video: 
+video: s7QAxBGyY8A
+video_start: 4736
 
 title: "L'éco-système bitcoin"
 ---

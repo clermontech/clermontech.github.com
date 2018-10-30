@@ -11,7 +11,8 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: tRmWUX4imdc
+video_start: 685
 
 title: "RGPD Quésaco?"
 
