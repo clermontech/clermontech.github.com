@@ -101,6 +101,7 @@ Here is the default template:
 
     slides_url:
     video:
+    video_start:
 
     title: {talk}
     description: this will be the meta description tag content
