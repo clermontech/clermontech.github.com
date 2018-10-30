@@ -11,7 +11,8 @@ author_url:
 author_image: 
 
 slides_url: 
-video: 
+video: _zxclU2L4Q0
+video_start: 3248
 
 title: "Algorithmique & Programmation dynamique, rimes en ique"
 ---

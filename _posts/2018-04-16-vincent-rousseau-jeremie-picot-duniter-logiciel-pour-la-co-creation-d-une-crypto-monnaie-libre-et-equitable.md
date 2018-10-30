@@ -11,7 +11,8 @@ author_url:
 author_image: 
 
 slides_url: https://vincentrou.duniter.io/presentation/#
-video: 
+video: _zxclU2L4Q0
+video_start: 380
 
 title: "Duniter: Logiciel pour la co-création d'une crypto monnaie libre et équitable"
 ---
