@@ -11,7 +11,8 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: tRmWUX4imdc
+video_start: 1690
 
 title: "Anatomie d'un state channel sur Ethereum - a faster way to execute smart contract"
 
