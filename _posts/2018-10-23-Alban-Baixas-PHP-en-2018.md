@@ -11,7 +11,8 @@ author_url:
 author_image: 
 
 slides_url:
-video:
+video: AmLu1Z1B07U
+video_start: 1391
 
 title: "PHP en 2018"
 
