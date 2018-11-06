@@ -11,7 +11,9 @@ author_url:
 author_image: 
 
 slides_url:
-video:
+
+video: AmLu1Z1B07U
+video_start: 2152
 
 title: "Utiliser le MBTI pour mieux comprendre ses collègues"
 

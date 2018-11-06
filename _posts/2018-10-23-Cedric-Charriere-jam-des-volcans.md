@@ -11,7 +11,8 @@ author_url:
 author_image: 
 
 slides_url:
-video:
+video: AmLu1Z1B07U
+video_start: 525
 
 title: "Jam des Volcans, Prêts pour 48 heures de création de jeux vidéo ?"
 
