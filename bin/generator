@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+const program = require("commander");
+const apiHour = require("../generator/src/command/apiHour");
+
+program.version("0.0.1", "-v, --version");
+program
+  .command("api-hour", null, { isDefault: true })
+  .description("generate a new API Hour page")
+  .action(apiHour);
+
+program.parse(process.argv);

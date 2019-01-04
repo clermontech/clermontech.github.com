@@ -2,3 +2,4 @@ _site/*
 .sass-cache/*
 .idea
 *.css.map
+node_modules

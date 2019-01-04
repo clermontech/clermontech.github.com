@@ -26,6 +26,20 @@ Now run your image:
 
 Browse [`http://localhost:4000`](http://localhost:4000).
 
+### Generator script
+
+You will find a generator script in the `bin` directory. For now it only generates a new API Hour page and its linked talk pages.
+
+To ease its usage, we provide a Dockerfile in the ./docker/node directory. If you don't want to use Docker, you will need a node distribution with full-icu configured and the $VISUAL (or $EDITOR) environment variables set to point to an installed editor from your system.
+
+To build the Docker image, run:
+
+    $ docker build -t node_clermontech docker/node
+
+Use it:
+
+    $ docker run --rm -ti -v $PWD:/srv node_clermontech yarn install
+    $ docker run --rm -ti -v $PWD:/srv node_clermontech ./bin/generator api-hour
 
 ## The Rules
 
@@ -33,6 +47,16 @@ If you want to publish a new page/post, make sure they meet these guidelines
 below.
 
 ### New API Hour Page
+
+Run the script `./bin/generator api-hour` it will ask you some questions and will create the API Hour and talks pages.
+
+Once generated you can of course edit them.
+
+missing information once page generated :
+
+- the eventbrite id to embed the subscription widget. replace `TO_REPLACE` by the id and you will have the widget working.
+
+If you want to create it manually, follow the instructions below :
 
 Create a new file using the following pattern, where `{year}-{month}-{day}` is
 the current day, and `{number}` the API Hour number:
