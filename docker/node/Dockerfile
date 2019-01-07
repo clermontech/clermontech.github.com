@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10.15.0-stretch-slim
 
 RUN apt-get update && \
   apt-get install -y vim && \
