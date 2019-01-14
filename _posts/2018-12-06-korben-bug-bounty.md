@@ -11,7 +11,7 @@ author_image:
 author: Korben
 
 slides_url:
-video:
+video: e--G3VtC_Yc
 
 title: "Bug Bounty"
 
