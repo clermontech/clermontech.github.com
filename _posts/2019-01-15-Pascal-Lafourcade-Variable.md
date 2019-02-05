@@ -10,7 +10,7 @@ author: Pascal Lafourcade
 author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
 author_image: pascal.jpg
 
-slides_url:
+slides_url: http://sancy.univ-bpclermont.fr/~lafourcade/Variable-2019-Clermontech.pdf
 video:
 
 title: "Variable... Vous avez dit variable"

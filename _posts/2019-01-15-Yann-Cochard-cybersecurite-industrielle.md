@@ -10,7 +10,7 @@ author: Yann Cochard
 author_url: https://yanncochard.com/
 author_image:
 
-slides_url:
+slides_url: https://yanncochard.com/392-cybersecurite-industrielle-2019-01-15/
 video:
 
 title: "Cybersécurité industrielle : quelles attaques, pourquoi maintenant, quelles solutions."
