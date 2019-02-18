@@ -13,9 +13,9 @@ module.exports = async () => {
   const talkAnswers = [];
 
   let newTalk = false;
-  const today = DateTime.local();
-  today.setLocale("fr");
-  const printedDate = today.toFormat("yyyy-LL-dd");
+  const AHdate = DateTime.fromJSDate(answers.date);
+  AHdate.setLocale("fr");
+  const printedDate = AHdate.toFormat("yyyy-LL-dd");
 
   do {
     const talkAnswer = await prompt(talkQuestion);
