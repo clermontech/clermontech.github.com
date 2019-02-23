@@ -8,7 +8,7 @@ session_short_name: "&#35;41"
 
 author: Cédric Klein
 author_url:
-author_image:
+author_image: cedricklein.jpg
 
 slides_url:
 video:
