@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour #41
 session_short_name: "AH#41"
 
 author: Christophe Tilmant
-author_url:
+author_url: http://christophe.tilmant.free.fr/
 author_image:
 
 slides_url:
