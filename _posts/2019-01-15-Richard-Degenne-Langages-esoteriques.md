@@ -7,10 +7,10 @@ session_name: Clermont'ech API Hour &#35;40
 session_short_name: "&#35;40"
 
 author: Richard Degenne
-author_url:
-author_image:
+author_url: http://blog.richarddegenne.fr
+author_image: richarddegenne.jpg
 
-slides_url:
+slides_url: https://www.slideshare.net/RichardDegenne/les-langages-sotriques
 video:
 
 title: "Languages ésotériques"
