@@ -36,3 +36,5 @@ C'est grâce à un système de typage particulièrement avancé qu'il s'est tail
 
 Sylvain est ingénieur chez Microsoft au sein de l'équipe Apps. Au quotidien il intervient dans les entreprises en tant que spécialiste des technologies web, plus particulièrement autour de TypeScript, Node.js et Azure.
 Passionné par le développement web, c'est un membre actif de la communauté TypeScript et l'un des organisateurs du Meetup Paris TypeScript (https://www.meetup.com/fr-FR/Paris-Typescript). Depuis deux ans, il participe activement en tant que speakers à des événements afin de transmettre sa passion et ses connaissances !
+
+![logo typescript](images/blog-posts/little-big-event/typescript.jpg)
