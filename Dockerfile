@@ -1,4 +1,4 @@
-FROM grahamc/jekyll
+FROM jekyll/jekyll
 
 RUN gem install \
     redcarpet \
