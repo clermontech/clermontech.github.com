@@ -5,8 +5,8 @@ categories: [ blog-posts ]
 title: Little Big Event#1 Typescript
 ---
 
-Le jeudi 21 mars 2019, [Mug in Clermont](https://planet.clermontech.org/tags/mug-in-clermont/),
-le [LavaJUG](https://planet.clermontech.org/tags/lava-jug/) et Clermont'ech s'associent
+Le jeudi 21 mars 2019, [Mug in Clermont](https://muginclermont.azurewebsites.net/),
+le [LavaJUG](http://www.lavajug.org/) et Clermont'ech s'associent
 pour la première fois afin de vous proposer une soirée exceptionnelle.
 
 ## Informations pratiques
@@ -35,6 +35,6 @@ Comment TypeScript en est-il arrivé là ?
 C'est grâce à un système de typage particulièrement avancé qu'il s'est taillé la réputation d'être puissant, pragmatique et fiable ! Ces nombreuses qualités masquent parfois une certaine complexité qui, si mal maîtrisée, peuvent en décourage plus d'un ! C'est pourquoi dans cette présentation, après une introduction sur le langage, nous nous pencherons sur certaines capacités de TypeScript autour de la manipulation des types.
 
 Sylvain est ingénieur chez Microsoft au sein de l'équipe Apps. Au quotidien il intervient dans les entreprises en tant que spécialiste des technologies web, plus particulièrement autour de TypeScript, Node.js et Azure.
-Passionné par le développement web, c'est un membre actif de la communauté TypeScript et l'un des organisateurs du Meetup Paris TypeScript (https://www.meetup.com/fr-FR/Paris-Typescript). Depuis deux ans, il participe activement en tant que speakers à des événements afin de transmettre sa passion et ses connaissances !
+Passionné par le développement web, c'est un membre actif de la communauté TypeScript et l'un des organisateurs du [Meetup Paris TypeScript](https://www.meetup.com/fr-FR/Paris-Typescript). Depuis deux ans, il participe activement en tant que speakers à des événements afin de transmettre sa passion et ses connaissances !
 
-![logo typescript](images/blog-posts/little-big-event/typescript.jpg)
+![logo typescript](../images/blog-posts/little-big-event/typescript.jpg)
