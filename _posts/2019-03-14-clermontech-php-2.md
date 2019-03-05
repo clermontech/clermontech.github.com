@@ -21,7 +21,3 @@ L'apéro aura lieu le 14 mars à partir de 18H00 au Délirium café 20 Rue la To
 L'inscription n'est pas obligatoire mais elle nous permet d'avoir une idée du nombre de personne.
 
 <iframe src="//eventbrite.fr/tickets-external?eid=58025711465&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-
-## Sponsors
-
-Nous n'avons pas encore de sponsor, vous voullez sponsoriser cet apéro PHP contactez-nous : [hello@clermontech.org](mailto:hello@clermontech.org?subject=Super%20Apéro%20PHP).
