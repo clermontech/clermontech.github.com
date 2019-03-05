@@ -8,7 +8,7 @@ Cette année encore Clermont'ech.php co-organise le [super apéro php](https://a
 
 ## Concept
 
-Le super apéro PHP est un événènement national ou les différentes antennes AFUP organisent un apéro en simultané. C'est l'occasion aux différentx développeurs PHP _(mais pas que)_ de se recontrer et d'échanger.
+Le super apéro PHP est un évènement national ou les différentes antennes de l'AFUP organisent une soirée simultanément. C'est l'occasion aux développeurs PHP _(mais pas que)_ de se rencontrer et d'échanger.
 
 ## Informations pratiques
 
