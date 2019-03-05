@@ -14,7 +14,7 @@ pour la première fois afin de vous proposer une soirée exceptionnelle.
 Cette soirée est organisée le **jeudi 21 mars** à partir de **18h30** dans les locaux du **Bivouac** à l'hôtel de région. L'adresse
 exacte est : [**Hôtel de région, 59 Boulevard Léon Jouhaux 63000 Clermont-Ferrand**](https://osm.org/go/0AkOKx_14--)..
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.1138730049133305%2C45.79396934299903%2C3.117982149124146%2C45.79611996814522&amp;layer=mapnik&amp;marker=45.7950446659467%2C3.115927577018738" style="border: none"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.1138730049133305%2C45.79396934299903%2C3.117982149124146%2C45.79611996814522&amp;layer=mapnik&amp;marker=45.7950446659467%2C3.115927577018738" style="border: none"></iframe>
 
 ## Inscription
 
