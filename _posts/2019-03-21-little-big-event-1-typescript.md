@@ -19,9 +19,9 @@ exacte est : [**Hôtel de région, 59 Boulevard Léon Jouhaux 63000 Clermont-Fer
 ## Inscription
 
 Cet événement est limité à **110 personnes**.  Pour y participer, vous devez vous
-inscrire sur la page Eventbrite de cette session: [https://little-big-event#1.eventbrite.fr](https://little-big-event#1.eventbrite.fr)
+inscrire sur la page Eventbrite de cette session: [https://www.eventbrite.fr/e/billets-little-big-event-1-58295613750](https://www.eventbrite.fr/e/billets-little-big-event-1-58295613750)
 
-<!-- <iframe src="//eventbrite.fr/tickets-external?eid=50979733756&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe> -->
+<iframe src="//eventbrite.fr/tickets-external?eid=58295613750&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 
 ## Programme
