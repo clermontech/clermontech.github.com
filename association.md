@@ -42,3 +42,8 @@ clermontech](https://github.com/clermontech) dans la rubrique
 
 Une [boutique](http://clermontech.spreadshirt.fr/) est disponible pour acheter
 de beaux tee-shirts avec un bel ornythorinque dessus <3.
+
+## Contact
+
+Vous pouvez écrire à l'adresse [hello@clermontech.org](mailto:hello@clermontech.org)
+pour contacter l'association.
