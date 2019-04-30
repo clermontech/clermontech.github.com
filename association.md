@@ -23,7 +23,7 @@ Le conseil de surveillance de l'association est composé de :
 * Camille Loiseau
 * [Julien Maupetit](http://julien.maupetit.me)
 * Romain Tartière
-* [Manuel Raynaud](http://www.manuel-raynaud.com)
+* [Manuel Raynaud](https://raynaud.io/)
 * [Aymeric Brisse](https://twitter.com/aymericbrisse)
 
 ## Statuts
