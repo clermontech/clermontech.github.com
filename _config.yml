@@ -10,6 +10,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-announcement:
-    href: "https://www.clermontech.org/blog-posts/little-big-event-1-typescript.html"
-    message: "Little Big Event#1 Typescript - Jeudi 21 Mars"
+#announcement:
+#    href: ""
+#    message: ""
