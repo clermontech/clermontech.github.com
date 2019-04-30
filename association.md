@@ -10,11 +10,9 @@ Le siège social de l'association est situé 19 rue Rabelais 63100 Clermont-Ferr
 
 Le bureau de l'association est composé de :
 
-* Président : [Manuel Raynaud](http://www.manuel-raynaud.com)
+* Président : [Claude Dioudonnat](https://twitter.com/ClaudusD)
 * Vice président : [Karim Bogtob](https://twitter.com/kbogtob)
 * Trésorier : [Pierre Tachoire](https://twitter.com/krichprollsch)
-* Trésorier suppléant : [Claude Dioudonnat](https://twitter.com/ClaudusD)
-* Secrétaire : [Aymeric Brisse](https://twitter.com/aymericbrisse)
 * Secrétaire suppléant : [Julien Muetton](http://muetton.me/)
 
 ## Conseil de surveillance
@@ -25,6 +23,8 @@ Le conseil de surveillance de l'association est composé de :
 * Camille Loiseau
 * [Julien Maupetit](http://julien.maupetit.me)
 * Romain Tartière
+* [Manuel Raynaud](http://www.manuel-raynaud.com)
+* [Aymeric Brisse](https://twitter.com/aymericbrisse)
 
 ## Statuts
 
