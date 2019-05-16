@@ -10,8 +10,8 @@ author: Christophe Tilmant
 author_url: http://christophe.tilmant.free.fr/
 author_image:
 
-slides_url:
-video:
+slides_url: https://ent.uca.fr/filez/m9byp7acdc
+video: https://youtu.be/qJ3UIB2OPFk?t=1
 
 title: "Radio logicielle ( Software Defined Radio ) : Jouer avec les radiofréquences"
 
