@@ -17,5 +17,4 @@ title: "Vault"
 
 ---
 
-Description à venir
-
+Des secrets, des apps, des tokens, une équipe, un séquestre : Vault en bref!
