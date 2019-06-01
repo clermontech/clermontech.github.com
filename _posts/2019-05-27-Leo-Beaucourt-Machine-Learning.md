@@ -11,7 +11,8 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: XwclRPYV1jU
+video_start: 1028
 
 title: "Machine Learning"
 
