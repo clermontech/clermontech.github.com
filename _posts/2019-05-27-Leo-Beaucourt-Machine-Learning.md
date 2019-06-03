@@ -10,7 +10,7 @@ author: Léo Beaucourt
 author_url:
 author_image:
 
-slides_url:
+slides_url: https://github.com/lbeaucourt/clermontech-api42
 video: XwclRPYV1jU
 video_start: 1028
 
