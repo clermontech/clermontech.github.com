@@ -10,8 +10,9 @@ author: Jeanella Pascual
 author_url:
 author_image:
 
-slides_url:
-video:
+slides_url: https://slides.com/jeekapascual/e2e-testing
+video: XwclRPYV1jU
+video_start: 2843
 
 title: "End-to-End Testing of Angular applications"
 
