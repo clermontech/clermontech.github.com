@@ -10,8 +10,9 @@ author: Vincent Mazenod
 author_url: https://twitter.com/mazenovi
 author_image: mazenovi.png
 
-slides_url:
-video:
+slides_url: http://fc.isima.fr/~mazenod/slides/privacy/vault.html
+video: XwclRPYV1jU
+video_start: 3962
 
 title: "Vault"
 

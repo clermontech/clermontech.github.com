@@ -11,7 +11,8 @@ author_url:
 author_image: cedricklein.jpg
 
 slides_url: https://www.slideshare.net/secret/6tycRudN4ACJrX
-video: https://youtu.be/qJ3UIB2OPFk?t=2204
+video: qJ3UIB2OPFk
+video_start: 2204
 
 title: "Pilotage des parties prenantes: bas les masques !"
 

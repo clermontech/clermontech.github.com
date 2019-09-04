@@ -11,7 +11,9 @@ author_url:
 author_image:
 
 slides_url:
-video: https://youtu.be/qJ3UIB2OPFk?t=1194
+video: qJ3UIB2OPFk
+video_start: 1194
+
 
 title: "Intelligence Économique, ni naïf, ni paranoïaque !"
 
