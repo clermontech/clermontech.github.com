@@ -11,7 +11,7 @@ author_url: https://twitter.com/kbogtob
 author_image: karim.jpg
 
 slides_url:
-video:
+video: q5lMG9NFmoA
 
 title: "Biais cognitifs"
 

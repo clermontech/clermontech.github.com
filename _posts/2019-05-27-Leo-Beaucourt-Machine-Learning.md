@@ -8,11 +8,10 @@ session_short_name: "&#35;42"
 
 author: Léo Beaucourt
 author_url:
-author_image:
+author_image: leo-beaucourt.jpg
 
 slides_url: https://github.com/lbeaucourt/clermontech-api42
-video: XwclRPYV1jU
-video_start: 1028
+video: ew6OMI0VzKc 
 
 title: "Machine Learning"
 
