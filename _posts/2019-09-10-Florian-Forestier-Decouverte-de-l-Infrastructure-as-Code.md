@@ -11,7 +11,7 @@ author_url: https://twitter.com/Artheriom
 author_image: florian.jpg
 
 slides_url: https://talks.archal.fr/talks/infrastructure_as_code/Diaporama.pdf
-video: k8p01Q9uVr0
+video: 3677U_zPf9k
 video_start: 710
 
 title: "Découverte de l&#39;Infrastructure as Code"
