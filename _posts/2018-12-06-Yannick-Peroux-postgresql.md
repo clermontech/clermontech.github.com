@@ -8,7 +8,7 @@ session_short_name: "&#35;39"
 
 author: Yannick Péroux
 author_url:
-author_image:
+author_image: yannick-peroux.jpeg
 
 slides_url:
 video: FjEeCpvczrg

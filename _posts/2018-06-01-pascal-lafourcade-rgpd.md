@@ -8,7 +8,7 @@ session_short_name: "&#35;36"
 
 author: Pascal Lafourcade
 author_url:
-author_image:
+author_image: pascal.jpg
 
 slides_url:
 video: tRmWUX4imdc

@@ -8,7 +8,7 @@ session_short_name: "&#35;38"
 
 author: Alban Baixas
 author_url: 
-author_image: 
+author_image: alban-baixas.jpeg 
 
 slides_url:
 video: AmLu1Z1B07U
