@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;39
 session_short_name: "&#35;39"
 
 author_url: 
-author_image: 
+author_image: korben.jpg 
 author: Korben
 
 slides_url:

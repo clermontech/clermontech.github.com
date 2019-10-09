@@ -8,7 +8,7 @@ session_short_name: "&#35;18"
 
 author: Sébastien Caux
 author_url:
-author_image:
+author_image: sebastien-caux.jpg
 
 slides_url:
 video: 2NpAdx3C0j8
