@@ -8,7 +8,7 @@ session_short_name: "&#35;35"
 
 author: Aymeric Brisse
 author_url: 
-author_image: 
+author_image: aymericbrisse.jpeg 
 
 slides_url: 
 video: _zxclU2L4Q0

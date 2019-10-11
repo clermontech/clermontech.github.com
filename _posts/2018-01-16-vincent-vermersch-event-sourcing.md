@@ -8,7 +8,7 @@ session_short_name: "&#35;33"
 
 author: Vincent Vermersch
 author_url:
-author_image:
+author_image: vermersch.jpeg
 
 slides_url:
 video: DG5wjVMZtfo

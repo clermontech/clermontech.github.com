@@ -8,7 +8,7 @@ session_short_name: "&#35;33"
 
 author: Thomas Bailly
 author_url:
-author_image:
+author_image: daztane.jpg
 
 slides_url:
 video: k4ep0NI0Q_s

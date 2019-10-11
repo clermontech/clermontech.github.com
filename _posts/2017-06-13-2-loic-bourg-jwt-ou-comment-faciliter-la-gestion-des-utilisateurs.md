@@ -8,7 +8,7 @@ session_short_name: "&#35;28"
 
 author: Loic Bourg
 author_url:
-author_image:
+author_image: loic-bourg.jpeg
 
 slides_url:
 video:

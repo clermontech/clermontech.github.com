@@ -8,7 +8,7 @@ session_short_name: "&#35;14"
 
 author: Frédéric Gaudet
 author_url:
-author_image:
+author_image: frederic-gaudet.jpeg
 
 slides_url: http://www.akatone.com/resources/20150416-Presentation_OpenStack.pdf
 video: Ni9FQxFTlKY

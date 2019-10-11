@@ -8,7 +8,7 @@ session_short_name: "&#35;28"
 
 author: Karim Bogtob
 author_url:
-author_image:
+author_image: karim.jpg
 
 slides_url:
 video: bzLctWk_wj4

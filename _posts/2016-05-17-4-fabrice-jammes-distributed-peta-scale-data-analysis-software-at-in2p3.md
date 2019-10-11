@@ -8,7 +8,7 @@ session_short_name: "&#35;20"
 
 author: Fabrice Jammes
 author_url:
-author_image:
+author_image: fabrice-jammes.jpg
 
 slides_url:
 video: M6da9zUb_mI
