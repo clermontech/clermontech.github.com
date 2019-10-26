@@ -15,7 +15,10 @@ video: s7QAxBGyY8A
 video_start: 1587
 
 title: "Comment rechercher dans une base de données chiffrées ?"
+description: matthieu giraud Comment rechercher dans une base de donnees chiffrees
 ---
+
+
 
 Avec le développement d'Internet et du Big Data, de plus en
 plus de solutions permettant d'externaliser nos données dans le Cloud
