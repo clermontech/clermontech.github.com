@@ -13,8 +13,7 @@ author_image: krichprollsch.jpeg
 slides_url:
 video:
 
-title: "Go"
+title: "Let's Go"
 
 ---
-
 
