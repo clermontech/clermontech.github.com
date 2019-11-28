@@ -17,3 +17,4 @@ title: "Let's Go"
 
 ---
 
+Le langage Go vient de fêter ses 10 ans. Nous allons voir ensemble pourquoi aujourd'hui les entreprises ont tout intérêt à utiliser Go.
