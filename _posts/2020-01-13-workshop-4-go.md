@@ -56,7 +56,7 @@ Les repas ne sont pas pris en charge par la formation.
 
 Cette formation est sponsorisée par
 
-<a href="https://www.domraider.com/"><img src="/images/sponsors/domraider.png" alt="Domraider" width="300px"/></a>
+<a href="https://www.domraider.com/"><img src="../images/sponsors/domraider.png" alt="Domraider" width="300px"/></a>
 
 
-<a href="https://https://www.turing22.com"><img src="/images/sponsors/turing22.png" alt="Turing 22" width="300px"/></a>
+<a href="https://https://www.turing22.com"><img src="../images/sponsors/turing22.png" alt="Turing 22" width="300px"/></a>
