@@ -16,7 +16,6 @@ parties : des cours théoriques sous forme de conférences et de la pratique.
 Le workshop Go est une véritable **formation de 3 jours** de suite.
 
 Une somme de **10 euros de participation** pour l'inscription est demandée.
-Les repas ne sont pas pris en charge par la formation.
 
 Ouvert à tous, les **places** sont néanmoins **limitées** en fonction du lieu
 de l'atelier.
@@ -51,7 +50,8 @@ sous la forme de cours et de pratique pour être à l'aise avec son usage.
 
 Le seul pré-requis est de connaître un langage de programmation.
 
-Une somme de **10 euros de participation** pour l'inscription est demandée.
+Les participants doivent avoir installé [un environnement Go](https://github.com/sbinet/margo#bootstrapping-the-work-environment).
+
 Les repas ne sont pas pris en charge par la formation.
 
 Cette formation est sponsorisée par
