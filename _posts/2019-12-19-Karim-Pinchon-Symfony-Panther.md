@@ -10,7 +10,7 @@ author: Karim Pinchon
 author_url: 
 author_image: 
 
-slides_url:
+slides_url: https://github.com/kpn13/panther-presentation
 video:
 
 title: "Symfony Panther"

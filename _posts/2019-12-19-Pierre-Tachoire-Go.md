@@ -10,7 +10,7 @@ author: Pierre Tachoire
 author_url: 
 author_image: krichprollsch.jpeg
 
-slides_url:
+slides_url: https://krichprollsch.gitlab.io/lets-go
 video:
 
 title: "Let's Go"
