@@ -15,7 +15,6 @@ title: "Enquêtes numériques"
 
 ---
 
-Plongez au cœur de Windows et decouvrez le métier d'analyste forensique.
+Plongez au cœur de Windows et découvrez le métier d'analyste forensique.
 Le système de fichiers, la base de registre, la poubelle,..., tous ces éléments qui fonctionnent sans que vous y songiez fournissent de nombreuses informations utiles lors d'une investigation. 
 Où étiez vous dans la nuit du 4 mai au 3 avril ? Votre OS à peut-être la réponse...
-
