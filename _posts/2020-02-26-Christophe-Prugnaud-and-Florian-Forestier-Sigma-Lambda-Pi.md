@@ -10,7 +10,7 @@ author: Christophe Prugnaud &amp; Florian Forestier
 author_url:
 author_image:
 
-slides_url:
+slides_url: https://www.slideshare.net/secret/bjCw7fGFj5bAZ6
 video:
 
 title: "ΣΛΠ - Sigma Lambda Pi"
