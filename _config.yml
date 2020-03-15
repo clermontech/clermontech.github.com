@@ -10,6 +10,6 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
-#announcement:
-#    href: ""
-#    message: ""
+announcement:
+    href: ""
+    message: "Suite aux restrictions liées à l'épidémie de COVID-19, tous les évènements sont actuellement annulés."
