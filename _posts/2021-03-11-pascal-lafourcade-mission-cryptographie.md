@@ -11,7 +11,7 @@ author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
 author_image: pascal.jpg
 
 slides_url:
-video:
+video: 7-Rs_ktL9V0
 
 title: "Mission Cryptographie"
 ---

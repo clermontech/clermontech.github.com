@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: cCC7I68OURc
 
 title: "LiveCoding avec FastAPI"
 ---
