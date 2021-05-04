@@ -11,7 +11,7 @@ author_url: https://twitter.com/artpej
 author_image: sylvain-desgrais.jpeg
 
 slides_url:
-video:
+video: zJDgG_DXFPs
 
 title: "Alpine c'est cool"
 ---
