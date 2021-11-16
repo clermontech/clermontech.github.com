@@ -10,6 +10,9 @@ rss:
     author: "Clermont'ech"
     email: "hello@clermontech.org"
 
+host: "0.0.0.0"
+port: 4000
+
 # announcement:
 #     href: ""
 #     message: "Suite aux restrictions liées à l'épidémie de COVID-19, tous les évènements sont actuellement annulés."
