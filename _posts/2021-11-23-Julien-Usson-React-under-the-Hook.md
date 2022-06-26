@@ -11,7 +11,7 @@ author_url: https://twitter.com/JulienUsson
 author_image: julienusson.jpg
 
 slides_url:
-video:
+video: O18AhaRzwJE
 
 title: "React under the Hook"
 

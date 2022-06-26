@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video: 
+video: L6G520b1GpA
 
 title: "Web 3, vers un web décentralisé ?"
 ---

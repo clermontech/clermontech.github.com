@@ -11,7 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url:
-video: 
+video: KUhb22hjtFk
 
 title: "La typographie"
 ---
