@@ -18,6 +18,6 @@ title: "Quelques failles de JWT"
 
 JWT est une technologie relativement connue maintenant, que beaucoup de dev 
 ont déjà manipulée et qui peut paraître simple de premier abord. Attention 
-toute fois à bien l’utiliser pour éviter quelques failles de sécurité ! 
+toutefois à bien l’utiliser pour éviter quelques failles de sécurité ! 
 Je vous propose de faire le tour de certaines de ces failles potentielles, 
 dont certaines illustrées par du code.
