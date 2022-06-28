@@ -11,7 +11,7 @@ author_url: https://twitter.com/Artheriom
 author_image: florian.jpg
 
 slides_url:
-video:
+video: HSIZQrN-hOA
 
 title: "UX != UI"
 

@@ -11,7 +11,7 @@ author_url: https://twitter.com/krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url:
-video:
+video: vT9kvfpxvUs
 
 title: "Le scaphoïde et le dev"
 

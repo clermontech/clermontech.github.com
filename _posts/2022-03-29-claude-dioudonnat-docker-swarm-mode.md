@@ -11,7 +11,7 @@ author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
 slides_url:
-video: 
+video: kut0Nw9uSm0
 
 title: "Retour d'expérience sur Docker Swarm Mode"
 ---
