@@ -11,7 +11,7 @@ author_url:
 author_image: david-rigaudie.jpg
 
 slides_url:
-video:
+video: Hf89754_EA0
 
 title: "CSS is :not(!important)"
 

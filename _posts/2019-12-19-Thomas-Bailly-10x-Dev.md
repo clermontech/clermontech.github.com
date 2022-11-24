@@ -11,7 +11,7 @@ author_url: https://twitter.com/Daztane
 author_image: daztane.jpg
 
 slides_url:
-video:
+video: 7y0D9boVIIE
 
 title: "Les 10x  developers"
 

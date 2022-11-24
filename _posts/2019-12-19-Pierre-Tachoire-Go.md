@@ -11,7 +11,7 @@ author_url: https://twitter.com/krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url: https://krichprollsch.gitlab.io/lets-go
-video:
+video: _X533rKgDb0
 
 title: "Let's Go"
 

@@ -11,8 +11,7 @@ author_url:
 author_image: pascal.jpg
 
 slides_url:
-video: tRmWUX4imdc
-video_start: 685
+video: r7FmSaS7jmA
 
 title: "RGPD Quésaco?"
 

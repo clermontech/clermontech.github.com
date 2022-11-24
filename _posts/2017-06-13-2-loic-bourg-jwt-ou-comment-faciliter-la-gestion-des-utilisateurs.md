@@ -11,7 +11,7 @@ author_url:
 author_image: loic-bourg.jpeg
 
 slides_url:
-video:
+video: MUNDRjNnmZs
 
 title: "JWT ou comment faciliter la gestion des sessions utilisateurs"
 ---

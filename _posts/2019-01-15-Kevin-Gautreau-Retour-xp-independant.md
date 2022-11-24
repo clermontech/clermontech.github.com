@@ -11,7 +11,7 @@ author_url: https://twitter.com/kgaut
 author_image: kgaut.jpg
 
 slides_url: https://slides.kgaut.net/presentations/2019/freelance-retour-dexperience.html#/
-video:
+video: DkVsMKw4hkc
 
 title: "Retour xp indépendant"
 

@@ -12,7 +12,6 @@ author_image: florian.jpg
 
 slides_url: https://talks.archal.fr/talks/infrastructure_as_code/Diaporama.pdf
 video: 3677U_zPf9k
-video_start: 710
 
 title: "Découverte de l&#39;Infrastructure as Code"
 

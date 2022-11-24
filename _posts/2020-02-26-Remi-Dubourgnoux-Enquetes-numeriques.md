@@ -9,7 +9,7 @@ session_short_name: "&#35;46"
 author: Rémi Dubourgnoux
 
 slides_url:
-video:
+video: p37JyoHuxb8
 
 title: "Enquêtes numériques"
 

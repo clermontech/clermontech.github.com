@@ -11,8 +11,7 @@ author_url:
 author_image: aymericbrisse.jpeg 
 
 slides_url: 
-video: _zxclU2L4Q0
-video_start: 3248
+video: 5gN77E5oZAc
 
 title: "Algorithmique & Programmation dynamique, rimes en ique"
 ---

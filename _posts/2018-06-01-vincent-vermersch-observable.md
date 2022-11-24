@@ -11,8 +11,7 @@ author_url:
 author_image: vermersch.jpeg
 
 slides_url:
-video: tRmWUX4imdc
-video_start: 3638
+video: 501r7cvlsHw
 
 title: "Observer un observable, tout un subject !"
 
