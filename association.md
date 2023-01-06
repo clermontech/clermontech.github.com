@@ -11,20 +11,23 @@ Le siège social de l'association est situé 19 rue Rabelais 63100 Clermont-Ferr
 Le bureau de l'association est composé de :
 
 * Président : [Claude Dioudonnat](https://twitter.com/ClaudusD)
-* Vice président : [Karim Bogtob](https://twitter.com/kbogtob)
+* Vice Président : Justine Bachelard
 * Trésorier : [Pierre Tachoire](https://twitter.com/krichprollsch)
-* Secrétaire suppléant : [Julien Muetton](http://muetton.me/)
+* Secrétaire : [Florian Forestier](https://twitter.com/Artheriom)
+* [Richard Degenne](http://blog.richarddegenne.fr/)
 
 ## Conseil de surveillance
 
 Le conseil de surveillance de l'association est composé de :
 
+* [Karim Bogtob](https://twitter.com/kbogtob)
+* [Aymeric Brisse](https://twitter.com/aymericbrisse)
 * [William Durand](http://williamdurand.fr)
 * Camille Loiseau
 * [Julien Maupetit](http://julien.maupetit.me)
-* Romain Tartière
+* [Julien Muetton](http://muetton.me/)
 * [Manuel Raynaud](https://raynaud.io/)
-* [Aymeric Brisse](https://twitter.com/aymericbrisse)
+* Romain Tartière
 
 ## Statuts
 
