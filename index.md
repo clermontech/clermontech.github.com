@@ -2,20 +2,15 @@
 layout: home
 title: Manifesto
 sponsors:
-  - { url: "http://www.domraider.com/", img: "domraider.png", alt: "Domraider" }
-  - { url: "http://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
-  - { url: "http://www.biocorp.fr/", img: "biocorp.png", alt: "Biocorp" }
-  - { url: "http://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
-  - { url: "http://www.coffreo.biz/", img: "coffreo.png", alt: "Coffreo" }
-  - { url: "http://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
-  - { url: "http://tailordev.fr", img: "tailordev.png", alt: "TailorDev" }
-  - { url: "http://itnetwork.fr", img: "itn.png", alt: "ITNetwork" }
-  - { url: "http://www.wisembly.com/", img: "wisembly.png", alt: "Wisembly" }
-  - { url: "http://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
-  - { url: "http://www.github.com/", img: "github.png", alt: "GitHub" }
+  - { url: "https://www.be-ys.cloud/", img: "be-ys-cloud.png", alt: "be ys Cloud" }
+  - { url: "https://www.coffreo.biz/", img: "coffreo.png", alt: "Coffreo" }
+  - { url: "https://www.apside.com/", img: "apside.png", alt: "Apside" }
+  - { url: "https://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
+  - { url: "https://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
+  - { url: "https://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
+  - { url: "https://itnetwork.fr", img: "itn.png", alt: "ITNetwork" }
+  - { url: "https://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
-  - { url: "http://www.oreilly.com/", img: "oreilly.gif", alt: "O'Reilly" }
-  - { url: "http://www.manning.com/", img: "manning.jpg", alt: "Manning Publications Co." }
 ---
 
 ## Objectifs de l'association
