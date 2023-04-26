@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;45
 session_short_name: "&#35;45"
 
 author: Pierre Tachoire
-author_url: https://twitter.com/krichprollsch
+author_url: https://mamot.fr/@krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url: https://krichprollsch.gitlab.io/lets-go
