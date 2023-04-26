@@ -112,7 +112,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
                 thème abordé est la mise en place de Git en entreprise.
             </p>
             <p>
-                Pour cela, <a href="https://twitter.com/krichprollsch">Pierre Tachoire</a> de la société ITNetwork,
+                Pour cela, <a href="https://mamot.fr/@krichprollsch">Pierre Tachoire</a> de la société ITNetwork,
                 <a href="https://twitter.com/pcolomb">Pierre Colomb</a> de la société IPLeanware et <a href="https://twitter.com/cireme63">Emeric Stophe</a> de la société Almerys vous racontent leurs histoires.
             </p>
         </td>

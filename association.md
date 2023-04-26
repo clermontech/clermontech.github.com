@@ -12,7 +12,7 @@ Le bureau de l'association est composé de :
 
 * Président : [Claude Dioudonnat](https://twitter.com/ClaudusD)
 * Vice Président : Justine Bachelard
-* Trésorier : [Pierre Tachoire](https://twitter.com/krichprollsch)
+* Trésorier : [Pierre Tachoire](https://mamot.fr/@krichprollsch)
 * Secrétaire : [Florian Forestier](https://twitter.com/Artheriom)
 * [Richard Degenne](http://blog.richarddegenne.fr/)
 
