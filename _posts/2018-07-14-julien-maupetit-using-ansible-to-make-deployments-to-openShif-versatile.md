@@ -16,6 +16,9 @@ video_start: 4152
 
 title: "Using Ansible to make deployments to OpenShift versatile"
 
+description: julien maupetit using ansible to make deployments to openShif versatile
 ---
+
+
 
 During this talk I will briefly introduce how Ansible can improve application deployments to OpenShift.

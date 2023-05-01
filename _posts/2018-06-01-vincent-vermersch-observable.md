@@ -16,6 +16,9 @@ video_start: 3638
 
 title: "Observer un observable, tout un subject !"
 
+description: vincent vermersch observable
 ---
+
+
 
 Live coding avec ReactiveX

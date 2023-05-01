@@ -15,7 +15,10 @@ video: _zxclU2L4Q0
 video_start: 380
 
 title: "Duniter: Logiciel pour la co-création d'une crypto monnaie libre et équitable"
+description: vincent rousseau jeremie picot duniter logiciel pour la co creation d une crypto monnaie libre et equitable
 ---
+
+
 
 Qu'est ce que vous diriez de revoir notre création monétaire ? Le Bitcoin
 montre qu'il est possible de certifier des transactions via un réseau

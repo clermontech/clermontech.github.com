@@ -14,7 +14,10 @@ slides_url:
 video: XSD1sRXUNL4
 
 title: "Le Transhumanisme"
+description: 4 david hill le transhumanisme
 ---
+
+
 
 Derrière la convergence NBIC (nanotechnologies, biotechnologies, intelligence
 artificielle, sciences cognitives), une philosophie de transformation radicale

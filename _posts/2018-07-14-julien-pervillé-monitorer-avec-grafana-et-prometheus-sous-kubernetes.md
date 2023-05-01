@@ -16,4 +16,8 @@ video_start: 1081
 
 title: "Monitorer avec Grafana et Prometheus sous Kubernetes"
 
+description: julien pervillé monitorer avec grafana et prometheus sous kubernetes
 ---
+
+
+
