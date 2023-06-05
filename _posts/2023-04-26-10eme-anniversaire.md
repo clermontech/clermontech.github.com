@@ -19,7 +19,7 @@ Hours](https://www.clermontech.org/api-hours/),
 180 [talks](https://www.clermontech.org/talks/) présentés par plus de 100
 speakers différents.
 
-Nous sommes fiers d'avoir offert à beaucoup leur premiére expérience de
+Nous sommes fiers d'avoir offert à beaucoup leur première expérience de
 présentation publique, dans un état d'esprit d'ouverture et de bienveillance.
 
 Mais Clermont'ech c'est d'autres évènements, réguliers ou occasionnels, tels que les
