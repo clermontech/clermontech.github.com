@@ -17,7 +17,7 @@ Si vous êtes curieux, les photos de l'event sont toujours disponibles sur
 Depuis 10 ans, l'association a eu le plaisir d'organiser plus de 50 [API
 Hours](https://www.clermontech.org/api-hours/),
 180 [talks](https://www.clermontech.org/talks/) présentés par plus de 100
-speakers différents.
+speakers différents et vus par 2000 participants.
 
 Nous sommes fiers d'avoir offert à beaucoup leur première expérience de
 présentation publique, dans un état d'esprit d'ouverture et de bienveillance.
