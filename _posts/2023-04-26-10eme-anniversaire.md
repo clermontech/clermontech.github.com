@@ -34,7 +34,7 @@ même une [projection de
 cinéma](https://www.clermontech.org/blog-posts/retour-sur-la-projection-du-film-citizenfour.html).
 
 Comme toujours nous remercions les [sponsors](https://www.clermontech.org/)
-fidêles, actuels et passés, qui nous permettent de d'organiser les conférences
+fidèles, actuels et passés, qui nous permettent de d'organiser les conférences
 en conservant notre indépendance. Merci à eux pour leur soutien 🥰.
 
 Clermont'ech c'est aussi 13 [membres](https://www.clermontech.org/association.html)
