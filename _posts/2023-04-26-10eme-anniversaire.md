@@ -49,5 +49,5 @@ Que seront les 10 prochaines années de l'association ? Certainement ce que
 chacun de nous en fera, nous sommes comme toujours à la recherche de speakers
 pour les prochains API Hour. Mais Clermont'ech recherche aussi des personnes
 motivées pour organiser des évènements. Il peut y avoir de nombreuses manières
-différentes de pariticiper, nous sommes là pour en discuter, autour du prochain
+différentes de participer, nous sommes là pour en discuter, autour du prochain
 API Hour ou par email [hello@clermontech.org](mailto://hello@clermontech.org).
