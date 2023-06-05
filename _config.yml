@@ -13,6 +13,6 @@ rss:
 host: "0.0.0.0"
 port: 4000
 
-# announcement:
-#     href: ""
-#     message: "Suite aux restrictions liées à l'épidémie de COVID-19, tous les évènements sont actuellement annulés."
+announcement:
+    href: "https://www.clermontech.org/api-hours/api-hour-55.html"
+    message: "Venez fêter les 10 ans de Clermont'ech lors de l'API Hour#55 🎂🥳"
