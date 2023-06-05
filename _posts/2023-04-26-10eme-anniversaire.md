@@ -38,7 +38,7 @@ fidèles, actuels et passés, qui nous permettent de d'organiser les conférence
 en conservant notre indépendance. Merci à eux pour leur soutien 🥰.
 
 Clermont'ech c'est aussi 13 [membres](https://www.clermontech.org/association.html)
-passionés répartis entre le bureau actif et le conseil des surveillance des
+passionnés répartis entre le bureau actif et le conseil de surveillance des
 anciens 🤗.
 
 Enfin Clermont'ech ce sont des participantes et participants toujours au
