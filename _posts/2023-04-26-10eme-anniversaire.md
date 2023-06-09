@@ -5,6 +5,8 @@ categories: [ blog-posts ]
 title: 10 ans de Clermont'ech
 ---
 
+![logo 10yo](/images/logo-10yo.png)
+
 Clermont'ech a eu officiellement 10 ans 🎂 le [7 Mars
 dernier](https://github.com/clermontech/documents/blob/master/officiel/Declaration_Clermontech_JO_2013.pdf).
 Mais le tout premier [API
