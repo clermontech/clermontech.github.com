@@ -8,7 +8,7 @@ session_short_name: "&#35;55"
 
 author: Cédric Charière Fiedler
 author_url:
-author_image:
+author_image: cedricfiedler.jpg
 
 slides_url:
 video:
