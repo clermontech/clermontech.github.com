@@ -8,7 +8,7 @@ session_short_name: "&#35;45"
 
 author: Karim Pinchon
 author_url: 
-author_image: 
+author_image: karimpinchon.png
 
 slides_url: https://github.com/kpn13/panther-presentation
 video:
