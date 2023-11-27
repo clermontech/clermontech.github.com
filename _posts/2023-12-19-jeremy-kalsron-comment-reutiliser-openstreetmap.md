@@ -6,7 +6,7 @@ session_url: /api-hours/api-hour-57.html
 session_name: Clermont'ech API Hour &#35;57
 session_short_name: "&#35;57"
 
-author: Jeremy Kalsron
+author: Jérémy Kalsron
 author_url:
 author_image:
 
