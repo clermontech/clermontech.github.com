@@ -18,5 +18,8 @@ title: Raft : plongée au coeur des algorithmes de consensus
 
 ---
 
-Raft est un algorithme de consensus rendu populaire auprès notamment des éditeurs de bases de données distribuées en raison de sa simplicité et de son efficacité.  
-C'est un parfait cas d'école pour mieux comprendre comment fonctionne un algorithme de consensus.  
+Raft est un algorithme de consensus rendu populaire auprès notamment des
+éditeurs de bases de données distribuées en raison de sa simplicité et de son
+efficacité.
+C'est un parfait cas d'école pour mieux comprendre comment fonctionne un
+algorithme de consensus.
