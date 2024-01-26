@@ -14,7 +14,7 @@ slides_url:
 video:
 video_start:
 
-title: Raft : plongée au coeur des algorithmes de consensus
+title: Raft plongée au coeur des algorithmes de consensus
 
 ---
 
