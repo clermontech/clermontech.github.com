@@ -11,7 +11,7 @@ author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
 slides_url:
-video:
+video: srGvUgx9VHA
 
 title: "Cloud init"
 

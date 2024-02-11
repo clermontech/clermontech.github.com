@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url: https://www.slideshare.net/secret/bjCw7fGFj5bAZ6
-video:
+video: HiZkJdetjSM
 
 title: "ΣΛΠ - Sigma Lambda Pi"
 
