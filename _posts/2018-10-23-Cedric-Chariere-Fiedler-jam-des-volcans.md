@@ -11,8 +11,7 @@ author_url:
 author_image: cedricfiedler.jpg
 
 slides_url:
-video: AmLu1Z1B07U
-video_start: 525
+video: lZYF3ni41mw
 
 title: "Jam des Volcans, Prêts pour 48 heures de création de jeux vidéo ?"
 
