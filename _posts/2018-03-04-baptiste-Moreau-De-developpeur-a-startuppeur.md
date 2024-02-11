@@ -11,8 +11,7 @@ author_url: https://twitter.com/nours312
 author_image: moreau.png
 
 slides_url: 
-video: s7QAxBGyY8A
-video_start: 2535
+video: C8JeJYjoY28
 
 title: "De développeur à startuppeur"
 ---
