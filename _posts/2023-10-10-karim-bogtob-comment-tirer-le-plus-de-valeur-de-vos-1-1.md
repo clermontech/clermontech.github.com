@@ -11,7 +11,7 @@ author_url: https://twitter.com/kbogtob
 author_image: karim.jpg
 
 slides_url:
-video:
+video: 0P8-fWMxWpU
 
 title: "Comment tirer le plus de valeur de vos 1:1 ?"
 

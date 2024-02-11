@@ -11,8 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
-video_start:
+video: xy66O-YNpp4
 
 title: "Etre une femme dans le milieu de l'informatique"
 
