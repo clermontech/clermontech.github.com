@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;48
 session_short_name: "&#35;48"
 
 author: Florian Forestier
-author_url: https://twitter.com/Artheriom
+author_url: https://twitter.com/forestier_re
 author_image: florian.jpg
 
 slides_url:

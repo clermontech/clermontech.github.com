@@ -11,8 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url:
-video: _zxclU2L4Q0
-video_start: 2285
+video: CTn4D6SZUp0
 
 title: "Les claviers"
 ---

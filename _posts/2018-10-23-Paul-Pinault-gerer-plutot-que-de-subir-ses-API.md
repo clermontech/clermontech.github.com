@@ -12,8 +12,7 @@ author_image: paul.jpeg
 
 slides_url:
 
-video: AmLu1Z1B07U
-video_start: 3000
+video: N-QEIWmtiJ4
 
 title: "Gérer plutôt que subir ses API"
 

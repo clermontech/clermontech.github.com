@@ -11,7 +11,7 @@ author_url: https://mamot.fr/@krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url: https://krichprollsch.gitlab.io/lets-go
-video:
+video: k8Gu7vCS1oQ
 
 title: "Les contextes en Go"
 

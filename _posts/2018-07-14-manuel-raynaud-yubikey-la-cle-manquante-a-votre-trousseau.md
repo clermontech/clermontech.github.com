@@ -11,8 +11,7 @@ author_url: https://twitter.com/manuraynaud
 author_image: manuraynaud.jpeg
 
 slides_url:
-video: zxQuzmVjrpg
-video_start: 2103
+video: Ly5dWK3wYr8
 
 title: "Yubikey, la clé manquante à votre trousseau"
 

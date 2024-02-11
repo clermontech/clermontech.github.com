@@ -11,8 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
-video_start:
+video: 6-DYSgUEVnQ
 
 title: "La révolution du chiffrement homomorphique"
 

@@ -11,8 +11,7 @@ author_url:
 author_image: karimpinchon.png
 
 slides_url:
-video:
-video_start:
+video: jInplzylfMw
 
 title: "Les génériques (avec PHP)"
 

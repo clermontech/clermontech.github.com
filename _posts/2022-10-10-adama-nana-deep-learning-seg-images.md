@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: WW24Dgwf6SY
 
 title: "Méthodes de deep learning appliquées à la segmentation d'images de noyaux en 3D
 "

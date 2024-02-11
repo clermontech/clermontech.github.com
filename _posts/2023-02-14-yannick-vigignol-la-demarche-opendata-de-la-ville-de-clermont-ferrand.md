@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: oWSp8koDjfc
 
 title: "La démarche OpenData de la ville de Clermont-Ferrand"
 

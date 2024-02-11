@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: QVt8E6D4AZc
 
 title: "Architecture d'un nœud de la blockchain Ethereum"
 ---

@@ -11,8 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
-video_start:
+video: 4RyceZVjV0k
 
 title: "Comment réutiliser OpenStreetMap ?"
 

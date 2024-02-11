@@ -11,8 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
-video_start:
+video: TyUGURI6Fik
 
 title: "La plomberie dans les Datacenters Azure : comment ça marche ?"
 
