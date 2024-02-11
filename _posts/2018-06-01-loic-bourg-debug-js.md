@@ -11,8 +11,7 @@ author_url:
 author_image: loic-bourg.jpeg
 
 slides_url:
-video: tRmWUX4imdc
-video_start: 2660
+video: GuYRbGlL-CA
 
 title: "Apprivoisez le debug en Javascript !"
 
