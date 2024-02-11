@@ -11,7 +11,7 @@ author_url: https://www.nouvelle-vague.co/
 author_image:
 
 slides_url:
-video:
+video: UDoZGjw3zKs
 
 title: "Le pouvoir des images et du récit : deux instruments au service de la complexité et de la coopération"
 
