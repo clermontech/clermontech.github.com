@@ -11,7 +11,7 @@ author_url:
 author_image: vermersch.jpeg
 
 slides_url:
-video:
+video: mI4DEUKgC7Q
 
 title: "NATS JetStream"
 ---
