@@ -7,10 +7,10 @@ session_name: Clermont'ech API Hour &#35;43
 session_short_name: "&#35;43"
 
 author: Florian Forestier
-author_url: https://twitter.com/Artheriom
+author_url: https://twitter.com/forestier_re
 author_image: florian.jpg
 
-slides_url: https://talks.archal.fr/talks/infrastructure_as_code/Diaporama.pdf
+slides_url: 
 video: 3677U_zPf9k
 
 title: "Découverte de l&#39;Infrastructure as Code"
@@ -25,5 +25,3 @@ pas plus simple de laisser directement faire les développeurs.
 C'est ainsi que naquit le concept d'Infrastructure as Code ; qui, comme nous
 le verrons, apporte son lot d'avantages au quotidien.
 
-Le code de la présentation est disponible à cette URL :
-https://talks.archal.fr/talks/infrastructure_as_code/terraform.zip

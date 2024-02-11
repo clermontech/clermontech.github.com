@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;46
 session_short_name: "&#35;46"
 
 author: Christophe Prugnaud &amp; Florian Forestier
-author_url:
-author_image:
+author_url: https://twitter.com/khrys63
+author_image: christophe_prugnaud.jpg
 
 slides_url: https://www.slideshare.net/secret/bjCw7fGFj5bAZ6
 video: HiZkJdetjSM
