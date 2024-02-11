@@ -11,8 +11,7 @@ author_url:
 author_image: jperville.jpg
 
 slides_url:
-video: zxQuzmVjrpg
-video_start: 1081
+video: Dp-Phurty9I
 
 title: "Monitorer avec Grafana et Prometheus sous Kubernetes"
 
