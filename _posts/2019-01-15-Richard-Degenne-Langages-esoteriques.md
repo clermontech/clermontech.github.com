@@ -11,7 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url: https://www.slideshare.net/RichardDegenne/les-langages-sotriques
-video:
+video: MKFRwiAYets
 
 title: "Languages ésotériques"
 
