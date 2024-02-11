@@ -11,8 +11,7 @@ author_url:
 author_image: cedricfiedler.jpg
 
 slides_url:
-video:
-video_start:
+video: 7V5C0WblAO0
 
 title: "Tests de performances: Comment s'assurer qu'une API rentre dans les clous ?"
 

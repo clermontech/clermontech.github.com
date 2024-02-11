@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-55.html
 session_name: Clermont'ech API Hour &#35;55
 session_short_name: "&#35;55"
 
-video:
+video: LEdcR2ulP8A
 
 title: "Comment gérer des journées de 35h ?"
 ---

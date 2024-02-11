@@ -11,7 +11,7 @@ author_url: http://sancy.univ-bpclermont.fr/~lafourcade/index.html
 author_image: pascal.jpg
 
 slides_url:
-video:
+video: k_B9lAVdm3A
 
 title: "L'incroyable histoire du premier NFT"
 ---
