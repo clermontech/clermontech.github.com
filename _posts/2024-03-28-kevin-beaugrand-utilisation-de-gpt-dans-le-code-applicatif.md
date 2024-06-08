@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: 7rASKrwewzc
 video_start:
 
 title: Utilisation de GPT dans le code applicatif

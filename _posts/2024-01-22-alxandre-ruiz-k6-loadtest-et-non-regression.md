@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: dZxCcIkt31Y
 video_start:
 
 title: K6, loadtest et non-régression sont sur un bateau !

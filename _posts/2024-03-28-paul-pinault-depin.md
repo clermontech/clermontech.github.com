@@ -11,7 +11,7 @@ author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
 slides_url:
-video:
+video: KNQPfoCuvTM
 video_start:
 
 title: DePIN (Decentralized Physical Infrastructure)

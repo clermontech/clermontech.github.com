@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video: REmprYbvbpc
+video: x9rus000j-o
 
 title: "Outils de contribution à OSM"
 

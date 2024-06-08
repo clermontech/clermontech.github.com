@@ -11,7 +11,7 @@ author_url: https://mamot.fr/@krichprollsch
 author_image: krichprollsch.jpeg
 
 slides_url:
-video:
+video: 31HWI8y_2Dw
 video_start:
 
 title: Introduction à Zig Comptime
