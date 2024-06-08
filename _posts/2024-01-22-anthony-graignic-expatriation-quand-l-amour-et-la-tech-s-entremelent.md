@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: QFoHhrZbKfA
 video_start:
 
 title: "Expatriation : Quand l'amour et la tech s'entremêlent"

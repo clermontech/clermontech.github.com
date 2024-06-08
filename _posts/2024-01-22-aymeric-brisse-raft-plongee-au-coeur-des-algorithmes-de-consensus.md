@@ -11,7 +11,7 @@ author_url:
 author_image: aymericbrisse.jpeg
 
 slides_url:
-video:
+video: a29-QXaNmfA
 video_start:
 
 title: Raft plongée au coeur des algorithmes de consensus

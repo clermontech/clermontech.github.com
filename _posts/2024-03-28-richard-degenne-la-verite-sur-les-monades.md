@@ -11,7 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url:
-video:
+video: c3Y0ejSypeg
 video_start:
 
 title: La vérité sur les monades
