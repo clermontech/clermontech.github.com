@@ -14,7 +14,10 @@ slides_url:
 video: 5gN77E5oZAc
 
 title: "Algorithmique & Programmation dynamique, rimes en ique"
+description: aymeric brisse algorithmique et programmation dynamique rimes en ique
 ---
+
+
 
 En informatique, la programmation dynamique est une méthode algorithmique pour
 résoudre des problèmes d'optimisation,consistant à résoudre un problème en le
