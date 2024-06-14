@@ -1,7 +1,7 @@
 ---
 layout: post
 category: api-hours
-title: Clermont'ech API Hour &#35;{{apiHour.version}}
+title: Clermont'ech API Hour &#35;{{.Version}}
 ---
 
 ## Concept
@@ -13,38 +13,28 @@ autour d’un verre.
 Les API Hours, comme l'ensemble de nos manifestations, se veulent être [des
 lieux où tout le monde est le bienvenu](/code-of-conduct.html).
 
-{{#longTalk}}
-Pour cette édition trois sujets. Un premier de 30 minutes et deux de 15 minutes.
-{{/longTalk}}
-
-
 ## Informations pratiques
 
-Cet événement aura lieu le **{{apiHour.date}}** à **19h** au **{{apiHour.location}}**. L'adresse
-exacte est : [**{{apiHour.address}}**](https://www.openstreetmap.org/?query={{apiHour.address}}).
-{{#osmQs}}
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?{{osmQs}}" style="border: 1px solid black"></iframe>
-{{/osmQs}}
+Cet événement aura lieu le **{{.Date.Format "01/02/2006"}}** à **19h** au **{{.Location}}**. L'adresse
+exacte est : [**{{.Address}}**](https://www.openstreetmap.org/?query={{.Address}}).
+<!-- <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?TODO" style="border: 1px solid black"></iframe> -->
 <br/>
 
 ## Inscription
 
 Cet événement est limité à **50 personnes**.  Pour y assister, vous devez vous
-inscrire sur la page Eventbrite de cette session: [https://clermontech-apihour-{{apiHour.version}}.eventbrite.fr](https://clermontech-apihour-{{apiHour.version}}.eventbrite.fr)
-Ouverture des places le **{{apiHour.eventbrite_date}} à 14h00**.
+inscrire sur la page Eventbrite de cette session: [https://clermontech-apihour-{{.Version}}.eventbrite.fr](https://clermontech-apihour-{{.Version}}.eventbrite.fr).
 
 
-<iframe src="//eventbrite.fr/tickets-external?eid=TO_REPLACE&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="//eventbrite.fr/tickets-external?eid={{.EventbriteId}}&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 <br/>
 
 ## Programme
 
-{{#talks}}
-### {{speaker}} • {{title}} {{#longTalk}}(30 min){{/longTalk}}
+{{range .Talks}}
+### {{.Author}} • {{.Title}} ({{.Duration}} min)
 
-{{description}}
+{{.Description}}
 
-[Voir la vidéo]({% post_url {{slug}} %})
-
-{{/talks}}
+{{end}}
