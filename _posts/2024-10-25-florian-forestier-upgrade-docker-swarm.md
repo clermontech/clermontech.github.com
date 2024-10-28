@@ -16,3 +16,9 @@ video:
 title: "RETEX-On a monté notre cluster docker swarm de version sans downtime"
 
 ---
+
+Docker Swarm est un outil de clustering de nodes Docker, plus simple et léger
+que Kubernetes. Au bout de trois ans de bons et loyaux services, notre cluster
+avait bien vécu et n'était plus à jour. Nous nous sommes donc lancé dans la
+mise à jour du cluster, sans interruption de service pour nos clients. Voici un
+bref RETEX de notre tentative.
