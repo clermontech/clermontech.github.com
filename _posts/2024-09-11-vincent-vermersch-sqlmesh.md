@@ -11,7 +11,7 @@ author_url:
 author_image: vermersch.jpeg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=yXsr5CL96Dk
 
 title: "SQLMesh transformation simple"
 ---
