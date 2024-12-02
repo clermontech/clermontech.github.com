@@ -13,6 +13,9 @@ session_name: Clermont'ech API Hour &#35;3
 session_short_name: "&#35;3"
 
 video: yeSuJUt0IIw
+description: 1 francois yermia ergonomie web les formulaires
 ---
+
+
 
 Introduction à l'ergonomie par l'exemple.

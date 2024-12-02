@@ -14,6 +14,9 @@ slides_url:
 video: JmWWltZVOmU
 
 title: "React PHP"
+description: 4 vincent vermersch reactphp
 ---
+
+
 
 Consommer 50 APIs en parallèle avec PHP, une promesse ?

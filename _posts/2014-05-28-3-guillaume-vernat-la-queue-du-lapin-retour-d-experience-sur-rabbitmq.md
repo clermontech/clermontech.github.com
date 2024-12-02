@@ -14,6 +14,9 @@ slides_url:
 video: mPV4jiTWeBM
 
 title: "La Queue Du Lapin, Retour D'Expérience Sur RabbitMQ"
+description: 3 guillaume vernat la queue du lapin retour d experience sur rabbitmq
 ---
+
+
 
 Non disponible.

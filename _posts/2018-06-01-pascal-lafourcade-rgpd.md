@@ -15,7 +15,10 @@ video: r7FmSaS7jmA
 
 title: "RGPD Quésaco?"
 
+description: pascal lafourcade rgpd
 ---
+
+
 
 Le 25 mai 2018 est entré en vigueur le RGPD !
 
