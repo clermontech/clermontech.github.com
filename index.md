@@ -3,12 +3,10 @@ layout: home
 title: Manifesto
 sponsors:
   - { url: "https://www.be-ys.cloud/", img: "be-ys-cloud.png", alt: "be ys Cloud" }
-  - { url: "https://www.coffreo.biz/", img: "coffreo.png", alt: "Coffreo" }
+  - { url: "https://lightpanda.io", img: "lightpanda.webp", alt: "Lightpanda" }
   - { url: "https://www.apside.com/vie-apsidienne/apside-clermont-ferrand/", img: "apside.png", alt: "Apside" }
   - { url: "https://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
   - { url: "https://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
-  - { url: "https://www.perfect-memory.com/", img: "perfect-memory.png", alt: "Perfect Memory" }
-  - { url: "https://itnetwork.fr", img: "itn.png", alt: "ITNetwork" }
   - { url: "https://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
 ---
