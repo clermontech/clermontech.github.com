@@ -133,7 +133,7 @@ Clermont-Ferrand**](https://www.google.fr/maps/place/Pascalis+P%C3%A9pini%C3%A8r
             <p><strong>Git, GitHub & Open Source</strong></p>
 
             <p>
-                <a href="https://twitter.com/couac">William Durand</a>, <a href="https://gist.github.com/paulmillr/2657075">top contributeur GitHub</a> et développeur Open Source, vous
+                <a href="https://williamdurand.fr">William Durand</a>, <a href="https://gist.github.com/paulmillr/2657075">top contributeur GitHub</a> et développeur Open Source, vous
                 présente l'utilisation de Git avec la plateforme <a href="https://github.com">GitHub</a> dans le cadre de projets Open Source.
             </p>
         </td>

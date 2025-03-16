@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;64
 session_short_name: "&#35;64"
 
 author: William Durand
-author_url: https://twitter.com/couac
+author_url: https://williamdurand.fr
 author_image: couac.jpeg
 
 slides_url:

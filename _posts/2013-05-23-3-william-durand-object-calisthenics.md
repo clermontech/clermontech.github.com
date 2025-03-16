@@ -4,7 +4,7 @@ categories: [ talks, api-hour-2 ]
 title: Object Calisthenics
 
 author: William Durand
-author_url: https://twitter.com/couac
+author_url: https://williamdurand.fr
 author_image: couac.jpeg
 
 slides_url: http://slides.williamdurand.fr/object-calisthenics/
