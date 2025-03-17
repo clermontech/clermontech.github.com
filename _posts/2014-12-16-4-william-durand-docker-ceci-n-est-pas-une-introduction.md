@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;12
 session_short_name: "&#35;12"
 
 author: William Durand
-author_url: https://twitter.com/couac
+author_url: https://williamdurand.fr
 author_image: couac2.jpeg
 
 slides_url: https://speakerdeck.com/willdurand/docker-ceci-nest-pas-une-introduction-apihour-number-12

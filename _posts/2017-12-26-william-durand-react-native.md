@@ -7,7 +7,7 @@ session_name: Clermont'ech API Hour &#35;32
 session_short_name: "&#35;32"
 
 author: William Durand
-author_url: https://twitter.com/couac
+author_url: https://williamdurand.fr
 author_image: couac.jpeg
 
 slides_url: https://speakerdeck.com/willdurand/introduction-a-react-native-api-hour-32
