@@ -11,7 +11,7 @@ author_url: https://twitter.com/forestier_re
 author_image: florian.jpg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=5JSYSV7T0Aw
 
 title: "RETEX-On a monté notre cluster docker swarm de version sans downtime"
 
