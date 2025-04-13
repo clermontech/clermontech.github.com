@@ -11,7 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=P3QnIKtnRO8
 
 title: "TDD: Retour d'expérience"
 ---
