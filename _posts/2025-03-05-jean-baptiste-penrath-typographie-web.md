@@ -11,7 +11,7 @@ author_url: https://www.jb-penrath.fr/
 author_image: jb-penrath.jpg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=PV9AyTcokv8
 
 title: "Typographie Web - À font la forme"
 ---
