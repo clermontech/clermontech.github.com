@@ -11,7 +11,7 @@ author_url: https://williamdurand.fr
 author_image: couac.jpeg
 
 slides_url:
-video: https://www.youtube.com/watch?v=fUOvltlPXXY
+video: fUOvltlPXXY
 
 title: "Firefox AI & Webextensions"
 ---

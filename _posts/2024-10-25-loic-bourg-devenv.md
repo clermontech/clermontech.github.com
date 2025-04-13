@@ -11,7 +11,7 @@ author_url:
 author_image: loic-bourg.jpeg
 
 slides_url:
-video: https://www.youtube.com/watch?v=-zNaAusCJ_8
+video: -zNaAusCJ_8
 
 title: "Simplifiez la gestion de vos environnements de développement avec devenv !"
 

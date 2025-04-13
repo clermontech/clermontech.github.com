@@ -11,7 +11,7 @@ author_url: https://twitter.com/disk_91
 author_image: paul.jpeg
 
 slides_url:
-video: https://www.youtube.com/watch?v=Jl1yJmuonjI 
+video: Jl1yJmuonjI 
 
 title: "Les reseaux LoRa mesh (meshtastic)"
 ---

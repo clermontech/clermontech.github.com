@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-61.html
 session_name: Clermont'ech API Hour &#35;61
 session_short_name: "&#35;61"
 
-video: https://www.youtube.com/watch?v=5oHmPrm5rbk
+video: 5oHmPrm5rbk
 
 title: "3615 Twitch, un bot sur Minitel ?"
 ---
