@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video: https://www.youtube.com/watch?v=o-pRbgW6slY 
+video: o-pRbgW6slY 
 
 title: "Identités numériques : une histoire de confiance"
 ---

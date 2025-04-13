@@ -11,7 +11,7 @@ author_url: https://perso.isima.fr/~chaolivi/
 author_image: charles-olivier.jpg
 
 slides_url:
-video: https://www.youtube.com/watch?v=5ipOP3g3TPc
+video: 5ipOP3g3TPc
 
 title: "Paiement par carte et vie privée"
 ---

@@ -11,7 +11,7 @@ author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 
 slides_url:
-video: https://www.youtube.com/watch?v=VUKd_SbTqdA
+video: VUKd_SbTqdA
 
 title: "CQS: Un principe simple pour améliorer son code"
 ---
