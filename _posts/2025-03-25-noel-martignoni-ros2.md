@@ -11,7 +11,7 @@ author_url: https://twitter.com/XNeoMac
 author_image: noel.jpeg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=Q-4RfohQ7D0
 
 title: "ROS 2 (Robot Operating System)"
 ---
