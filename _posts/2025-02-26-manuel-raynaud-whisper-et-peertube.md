@@ -11,7 +11,7 @@ author_url: https://twitter.com/manuraynaud
 author_image: manuraynaud.jpeg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=398iIC-xjtY
 
 title: "Whisper et Peertube. Une collaboration au service de l'accessibilité (et enfin un usage vertueux de l'IA)"
 ---

@@ -11,7 +11,7 @@ author_url: https://x.com/lechaps
 author_image: romain-chapon.jpg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=lceeWrMHD4w
 
 title: "Les lois de la tech"
 ---

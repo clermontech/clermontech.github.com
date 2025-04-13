@@ -11,7 +11,7 @@ author_url:
 author_image: pascal.jpg
 
 slides_url:
-video:
+video: https://www.youtube.com/watch?v=LhOzu5NJr1w
 
 title: "(In)Sécurité du vote électronique"
 
