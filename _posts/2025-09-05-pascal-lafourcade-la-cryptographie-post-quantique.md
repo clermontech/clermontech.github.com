@@ -11,10 +11,11 @@ author_url:
 author_image: pascal.jpg
 
 slides_url:
-video: 
+video:
 
-title: "Buffer Overflow"
+title: "La cryptographie post-quantique"
 
 ---
 
-Descriptif à venir (très) prochainement !
+Dans cette présentation, je présenterais pourquoi l'ordinateur quantique va changer le paysage cryptographique. Je montrerais aussi les différentes
+solutions pour la cryptographie post-quantique.
