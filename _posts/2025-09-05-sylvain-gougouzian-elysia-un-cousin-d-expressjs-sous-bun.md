@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-66.html
 session_name: Clermont'ech API Hour &#35;66
 session_short_name: "&#35;66"
 
-video:
+video: VHkxcA1Tdmg
 
 title: "Elysia, un cousin d'ExpressJS sous Bun"
 ---

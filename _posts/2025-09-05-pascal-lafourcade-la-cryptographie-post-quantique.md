@@ -11,7 +11,7 @@ author_url:
 author_image: pascal.jpg
 
 slides_url:
-video:
+video: qYwJ2peXxhg
 
 title: "La cryptographie post-quantique"
 
