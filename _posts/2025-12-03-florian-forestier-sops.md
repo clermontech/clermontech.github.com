@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-68.html
 session_name: Clermont'ech API Hour &#35;68
 session_short_name: "&#35;68"
 
-video: 
+video: a1hwRGufjWE
 
 title: "Secret OPerationS"
 ---

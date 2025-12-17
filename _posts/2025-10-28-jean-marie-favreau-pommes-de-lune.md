@@ -12,7 +12,7 @@ session_url: /api-hours/api-hour-67.html
 session_name: Clermont'ech API Hour &#35;67
 session_short_name: "&#35;67"
 
-video:
+video: Y7OIMU7cGaw
 
 title: "Pommes de Lune"
 ---
