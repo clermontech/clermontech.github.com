@@ -11,7 +11,7 @@ author_url:
 author_image:
 
 slides_url:
-video:
+video: UsvS7poV5wA
 
 title: "Bruno, le client d'API qui a du chien"
 
