@@ -6,7 +6,7 @@ sponsors:
   - { url: "https://lightpanda.io", img: "lightpanda.webp", alt: "Lightpanda" }
   - { url: "https://www.apside.com/vie-apsidienne/apside-clermont-ferrand/", img: "apside.png", alt: "Apside" }
   - { url: "https://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
-  - { url: "https://www.human-booster.com/", img: "human-booster.png", alt: "Human Booster" }
+  - { url: "https://www.humanbooster.com/", img: "human-booster.png", alt: "Human Booster" }
   - { url: "https://iutweb.u-clermont1.fr/departement/informatique-clermont-fd.html", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
 ---
