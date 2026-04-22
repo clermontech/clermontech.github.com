@@ -7,6 +7,7 @@ sponsors:
   - { url: "https://www.apside.com/", img: "apside.png", alt: "Apside" }
   - { url: "https://www.agaetis.fr/", img: "agaetis.png", alt: "Agaetis" }
   - { url: "https://www.humanbooster.com/", img: "human-booster.png", alt: "Human Booster" }
+  - { url: "https://www.clever.cloud/", img: "clever-cloud.png", alt: "Clever Cloud" }
   - { url: "https://iut.uca.fr", img: "iut.png", alt: "IUT de Clermont-Fd - Département Informatique" }
   - { url: "https://slack.com", img: "slack.png", alt: "Slack" }
 ---
