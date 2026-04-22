@@ -4,7 +4,7 @@ categories: [talks, api-hour-68 ]
 
 author: Vincent Linas
 author_url: 
-author_image: 
+author_image: vincent-linas.jpeg
 
 slides_url:
 

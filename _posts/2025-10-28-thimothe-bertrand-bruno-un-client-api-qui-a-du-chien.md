@@ -8,7 +8,7 @@ session_short_name: "&#35;67"
 
 author: Timothe Bertrand
 author_url:
-author_image:
+author_image: timothe-bertrand.jpeg
 
 slides_url:
 video: UsvS7poV5wA
