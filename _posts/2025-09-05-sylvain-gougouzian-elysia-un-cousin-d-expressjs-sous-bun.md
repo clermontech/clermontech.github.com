@@ -4,7 +4,7 @@ categories: [ talks, api-hour-66 ]
 
 author: Sylvain Gougouzian
 author_url: https://gouz.dev/
-author_image:
+author_image: sylvain-gougouzian.webp
 
 slides_url:
 

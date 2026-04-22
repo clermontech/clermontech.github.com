@@ -7,8 +7,8 @@ session_name: Clermont'ech API Hour &#35;58
 session_short_name: "&#35;58"
 
 author: Anthony Graignic
-author_url:
-author_image:
+author_url: https://anthony.graignic.com/
+author_image: anthony-graignic.jpeg
 
 slides_url:
 video: QFoHhrZbKfA

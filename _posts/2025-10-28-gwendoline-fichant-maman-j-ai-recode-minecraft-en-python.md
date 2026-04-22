@@ -3,8 +3,8 @@ layout: talk
 categories: [talks, api-hour-67 ]
 
 author: Gwendoline Fichant
-author_url: 
-author_image:
+author_url: https://gwendoline.bzh/
+author_image: gwendoline-fichant.jpeg
 
 slides_url:
 
