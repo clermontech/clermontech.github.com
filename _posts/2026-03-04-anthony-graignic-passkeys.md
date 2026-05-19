@@ -6,7 +6,8 @@ author: Anthony Graignic
 author_url: https://anthony.graignic.com/
 author_image: anthony-graignic.jpeg
 
-slides_url: siTVQ4F_cRY
+slides_url:
+video: siTVQ4F_cRY
 
 session_url: /api-hours/api-hour-70.html
 session_name: Clermont'ech API Hour &#35;70
