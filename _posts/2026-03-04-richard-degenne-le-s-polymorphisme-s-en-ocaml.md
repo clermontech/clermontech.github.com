@@ -6,6 +6,7 @@ author: Richard Degenne
 author_url: http://blog.richarddegenne.fr
 author_image: richarddegenne.jpg
 slides_url:
+video: Ku8az7UbwcQ
 
 session_url: /api-hours/api-hour-70.html
 session_name: Clermont'ech API Hour &#35;70
