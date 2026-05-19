@@ -4,7 +4,7 @@ categories: [talks, api-hour-66 ]
 
 author: Jérémy Babin
 author_url: 
-author_image:
+author_image: jeremy-babin.jpeg
 
 slides_url:
 

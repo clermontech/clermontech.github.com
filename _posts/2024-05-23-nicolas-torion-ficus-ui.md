@@ -8,7 +8,7 @@ session_short_name: "&#35;60"
 
 author: Nicolas Torion
 author_url: https://www.bearstudio.fr/
-author_image:
+author_image: nicolas-torion.jpeg
 
 slides_url:
 video: oMHWVsVjWwk
