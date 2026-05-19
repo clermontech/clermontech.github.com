@@ -11,7 +11,7 @@ author_url:
 author_image: loic-bourg.jpeg
 
 slides_url:
-video:
+video: XpvDIy457bU
 
 title: "Faites parler vos données avec le RAG"
 

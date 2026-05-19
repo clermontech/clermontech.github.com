@@ -7,6 +7,7 @@ author_url:
 author_image:
 
 slides_url:
+video: lV-esLOwLVg
 
 session_url: /api-hours/api-hour-70.html
 session_name: Clermont'ech API Hour &#35;70

@@ -7,6 +7,7 @@ author_url: https://gouz.dev/
 author_image: sylvain-gougouzian.webp
 
 slides_url:
+video: jrkHxLuDIBQ
 
 session_url: /api-hours/api-hour-69.html
 session_name: Clermont'ech API Hour &#35;69

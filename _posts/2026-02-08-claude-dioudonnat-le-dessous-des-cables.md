@@ -11,7 +11,7 @@ author_url: https://twitter.com/ClaudusD
 author_image: claude.jpg
 
 slides_url:
-video:
+video: 7IM_rzCOdWM
 
 title: "Pictogrammes, normes, couleurs... Bienvenue dans le dessous des câbles"
 
