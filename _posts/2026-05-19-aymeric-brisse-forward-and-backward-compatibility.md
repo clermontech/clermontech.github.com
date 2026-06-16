@@ -4,14 +4,14 @@ categories: [ talks, api-hour-71 ]
 
 session_url: /api-hours/api-hour-71.html
 session_name: Clermont'ech API Hour &#35;71
-session_short_name: "&#35;58"
+session_short_name: "&#35;71"
 
 author: Aymeric Brisse
 author_url:
 author_image: aymericbrisse.jpeg
 
 slides_url:
-video: 
+video:
 video_start:
 
 title: "Forward & Backward Compatibility : Le guide de survie du développeur"
