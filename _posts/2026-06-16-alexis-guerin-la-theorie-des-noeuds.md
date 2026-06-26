@@ -18,4 +18,4 @@ title: "La théorie des noeuds"
 
 ---
 
-Abstract à venir prochainement...
+Le unknotting number ou nombre de désentrelacements, est une quantité mathématiques que l'on peut associer à un nœuds de façon très naturelle. Le comprendre et le calculer restent néanmoins quelque chose de surprenamment complexe. Nous explorons ensemble quelques propriétés et conjectures qui l’entourent. L’exposé explorera également comment Mark Brittenham et Susan Hermiller ont fait tomber, en juin 2025, une des plus célèbres conjectures qui entourent le unknotting number.
